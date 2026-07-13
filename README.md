@@ -26,7 +26,10 @@ The GitHub Pages site is built from the files in this repository. It is intentio
 ├── styles.css                  # Static portfolio styling
 ├── assets/images/              # Public display images
 ├── projects/                   # Curated real project files and detail pages
+├── docs/1.md                   # Markdown source report with LaTeX equations
+├── docs/1.pdf                  # XeLaTeX-rendered PDF report
 ├── scripts/build.mjs           # Zero-dependency static build and safety check
+├── scripts/render-report.mjs   # Markdown-to-LaTeX PDF renderer
 ├── .github/workflows/pages.yml # GitHub Pages deployment workflow
 └── README.md
 ```
@@ -36,10 +39,11 @@ The GitHub Pages site is built from the files in this repository. It is intentio
 This project does not require installing frontend dependencies for the portfolio page.
 
 ```bash
+npm run render:report
 npm run build
 ```
 
-The build script creates `dist/` and refuses to publish obvious archives or common secret patterns.
+The report script renders `docs/1.md` into `docs/1.pdf` through XeLaTeX. The build script creates `dist/` and refuses to publish obvious archives or common secret patterns.
 
 ## Public Archive Policy
 

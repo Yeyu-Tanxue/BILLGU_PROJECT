@@ -15,6 +15,7 @@
       <a class="brand" href="#">Bill Gu Projects</a>
       <nav aria-label="Primary navigation">
         <a href="#projects">Projects</a>
+        <a href="#report">Report</a>
         <a href="#archive">Archive</a>
         <a href="#contact">Contact</a>
       </nav>
@@ -24,13 +25,14 @@
       <section class="hero">
         <div class="hero-copy">
           <p class="eyebrow">顾朱政霖 / Bill Gu / Erik Gu</p>
-          <h1>Four engineering projects, organized as a public website.</h1>
+          <h1>Engineering archive for systems that actually run.</h1>
           <p class="lead">
-            一个整理过的项目网站：真实工程文件已经上传，页面负责讲清每个项目的目标、技术栈、亮点和可审阅文件。
-            Real source files are archived first; the website adds a readable bilingual layer on top.
+            真实工程文件已经上传；这个网站负责把硬件、AIoT、FPGA 和全栈产品的目标、证据、公式和可审阅文件组织清楚。
+            Real source files first, bilingual context second.
           </p>
           <div class="hero-actions">
             <a class="button primary" href="#projects">View Project Pages</a>
+            <a class="button secondary" href="docs/1.pdf">Download PDF Report</a>
             <a class="button secondary" href="https://github.com/Yeyu-Tanxue/BILLGU_PROJECT">GitHub Repository</a>
           </div>
         </div>
@@ -51,13 +53,31 @@
             <strong>FPGA</strong>
             <span>Vivado stopwatch with Verilog</span>
           </div>
+          <div>
+            <strong>PDF</strong>
+            <span>Markdown + LaTeX rendered report</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="report-strip" id="report" aria-label="Technical report">
+        <div>
+          <p class="eyebrow">Technical Report / 技术报告</p>
+          <h2>1.md is rendered to PDF with XeLaTeX.</h2>
+        </div>
+        <p>
+          报告汇总四个项目的技术路径、公开归档策略和关键公式，适合随仓库一起提交、展示或打印。
+        </p>
+        <div class="report-actions">
+          <a class="button primary" href="docs/1.pdf">Open 1.pdf</a>
+          <a class="button secondary" href="docs/1.md">Read 1.md</a>
         </div>
       </section>
 
       <section class="section" id="projects">
         <div class="section-heading">
           <p class="eyebrow">Projects / 项目</p>
-          <h2>Selected work with source-backed project pages</h2>
+          <h2>Source-backed project pages, grouped by engineering discipline</h2>
         </div>
 
         <div class="project-grid">

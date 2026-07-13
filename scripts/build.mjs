@@ -3,8 +3,8 @@ import path from "node:path";
 
 const root = process.cwd();
 const dist = path.join(root, "dist");
-const include = ["index.html", "styles.css", "assets", "projects", "README.md"];
-const forbiddenNames = [/\.zip$/i, /^\.env$/i, /^node_modules$/i, /^\.git$/i, /^dist$/i];
+const include = ["index.html", "styles.css", "assets", "projects", "docs", "README.md"];
+const forbiddenNames = [/\.zip$/i, /^\.env$/i, /^node_modules$/i, /^\.git$/i, /^dist$/i, /^build$/i];
 const secretPatterns = [
   /sk-[A-Za-z0-9_-]{16,}/,
   /rk_[A-Za-z0-9_-]{16,}/,

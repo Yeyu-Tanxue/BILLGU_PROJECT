@@ -6,6 +6,7 @@
 *.rar
 node_modules/
 dist/
+docs/build/
 .DS_Store
 Thumbs.db
 

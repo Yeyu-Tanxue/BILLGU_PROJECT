@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "render:report": "node scripts/render-report.mjs",
     "build": "node scripts/build.mjs"
   }
 }
