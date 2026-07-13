@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AIoT Hearing Terminal | Bill Gu Projects</title>
+    <link rel="stylesheet" href="../../styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="../../">Bill Gu Projects</a>
+      <nav aria-label="Project navigation">
+        <a href="../../#projects">Projects</a>
+        <a href="../../#archive">Archive</a>
+        <a href="https://github.com/Yeyu-Tanxue/BILLGU_PROJECT">GitHub</a>
+      </nav>
+    </header>
+
+    <main class="project-page">
+      <a class="back-link" href="../../">Back to portfolio</a>
+      <section class="project-hero">
+        <div>
+          <p class="eyebrow">AIoT Accessibility / 云边协同</p>
+          <h1>听障双向沟通终端</h1>
+          <p class="lead">
+            ESP32-S3-CAM captures sign-language gestures, PC/cloud models recognize and polish the text,
+            and the terminal supports LCD captions, ASR, TTS, and emergency interaction.
+          </p>
+          <div class="project-summary">
+            <div class="metric"><strong>97-99%</strong><span>Recorded recognition rate in project notes</span></div>
+            <div class="metric"><strong>ESP32-S3</strong><span>Camera, LCD, microphone, speaker firmware</span></div>
+            <div class="metric"><strong>LSTM + CNN</strong><span>Sign sequence and on-device gesture models</span></div>
+          </div>
+        </div>
+        <figure>
+          <img src="../../assets/images/aiot-front.jpg" alt="AIoT hearing terminal front view" />
+        </figure>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Pipeline</p>
+          <h2>From gesture capture to natural sentence output.</h2>
+        </div>
+        <div class="content-copy">
+          <p>
+            边端负责采集和交互，PC/云端负责更重的识别与润色：ESP32 拍摄连续帧，经串口传输到 PC，
+            MediaPipe 抽取关键点，LSTM 推理词语，再由大模型把词语序列润色成自然中文。
+          </p>
+          <p>
+            The same terminal also supports speech-to-text captions and text-to-speech playback, making it a two-way
+            communication prototype rather than a single recognition demo.
+          </p>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Open files</p>
+          <h2>Firmware, tools, and docs.</h2>
+        </div>
+        <div class="link-list">
+          <a href="README.md"><span>Project README</span><span>MD</span></a>
+          <a href="esp32_firmware/terminal/main/main.cpp"><span>Terminal firmware</span><span>C++</span></a>
+          <a href="tools/terminal.py"><span>PC terminal controller</span><span>Python</span></a>
+          <a href="real_time_lstm.py"><span>Real-time LSTM inference</span><span>Python</span></a>
+          <a href="cloud/asr.py"><span>Cloud ASR interface</span><span>Python</span></a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BLDC Motor Control | Bill Gu Projects</title>
+    <link rel="stylesheet" href="../../styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="../../">Bill Gu Projects</a>
+      <nav aria-label="Project navigation">
+        <a href="../../#projects">Projects</a>
+        <a href="../../#archive">Archive</a>
+        <a href="https://github.com/Yeyu-Tanxue/BILLGU_PROJECT">GitHub</a>
+      </nav>
+    </header>
+
+    <main class="project-page">
+      <a class="back-link" href="../../">Back to portfolio</a>
+      <section class="project-hero">
+        <div>
+          <p class="eyebrow">Embedded Control / 课程硬件项目</p>
+          <h1>无刷直流电机闭环控制</h1>
+          <p class="lead">
+            A public archive of a STM32-based BLDC motor control project, including PCB design files,
+            schematic documentation, experiment report, and Keil firmware modules.
+          </p>
+          <div class="project-summary">
+            <div class="metric"><strong>STM32F10x</strong><span>MCU firmware and peripheral drivers</span></div>
+            <div class="metric"><strong>Closed Loop</strong><span>Encoder feedback, PID/FOC-related control</span></div>
+            <div class="metric"><strong>Hardware Docs</strong><span>PCB, schematic, and experiment report</span></div>
+          </div>
+        </div>
+        <div class="code-card" aria-label="Project file tree sample">
+          <code>firmware/
+  CORE/
+  HARDWARE/
+    ADC/
+    ENCODER/
+    OLED/
+    TIMER/
+  USER/main.c
+docs/
+  PCB.pdf
+  schematic.pdf
+  experiment-report.pdf</code>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">What it demonstrates</p>
+          <h2>Motor-control thinking from circuit to firmware.</h2>
+        </div>
+        <div class="content-copy">
+          <p>
+            这个项目展示了从电路资料、PCB、驱动层代码到控制逻辑的完整嵌入式实践链路。公开仓库中保留了
+            可审阅的文档和源码，去掉了 IDE 缓存、编译输出和原始压缩包。
+          </p>
+          <p>
+            The project is useful as evidence of embedded C development, peripheral integration,
+            motor feedback handling, and hardware-oriented debugging.
+          </p>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Open files</p>
+          <h2>Review the curated archive.</h2>
+        </div>
+        <div class="link-list">
+          <a href="docs/experiment-report.pdf"><span>Experiment report</span><span>PDF</span></a>
+          <a href="docs/PCB.pdf"><span>PCB document</span><span>PDF</span></a>
+          <a href="docs/schematic.pdf"><span>Schematic</span><span>PDF</span></a>
+          <a href="firmware/USER/main.c"><span>Main firmware</span><span>C</span></a>
+          <a href="firmware/HARDWARE/ENCODER/encoder.c"><span>Encoder driver</span><span>C</span></a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

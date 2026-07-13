@@ -2,7 +2,7 @@
 
 顾朱政霖 / Bill Gu / Erik Gu 的公开项目合集。This repository is a cleaned, public-facing archive for selected hardware, AIoT, FPGA, and web product projects.
 
-The GitHub Pages site is built from the files in this repository. It is intentionally source-backed: project summaries link to curated code, reports, constraints, photos, and documentation instead of only showing a portfolio page.
+The GitHub Pages site is built from the files in this repository. It is intentionally source-backed: the homepage links to four project detail pages, and each detail page links to curated code, reports, constraints, photos, and documentation.
 
 ## Online Preview
 
@@ -22,10 +22,10 @@ The GitHub Pages site is built from the files in this repository. It is intentio
 
 ```text
 .
-├── index.html                  # GitHub Pages entry
+├── index.html                  # GitHub Pages homepage
 ├── styles.css                  # Static portfolio styling
 ├── assets/images/              # Public display images
-├── projects/                   # Curated real project files
+├── projects/                   # Curated real project files and detail pages
 ├── scripts/build.mjs           # Zero-dependency static build and safety check
 ├── .github/workflows/pages.yml # GitHub Pages deployment workflow
 └── README.md

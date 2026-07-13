@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GOODALPHABET | Bill Gu Projects</title>
+    <link rel="stylesheet" href="../../styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="../../">Bill Gu Projects</a>
+      <nav aria-label="Project navigation">
+        <a href="../../#projects">Projects</a>
+        <a href="../../#archive">Archive</a>
+        <a href="https://github.com/Yeyu-Tanxue/GOODALPHABET">Original Repo</a>
+      </nav>
+    </header>
+
+    <main class="project-page">
+      <a class="back-link" href="../../">Back to portfolio</a>
+      <section class="project-hero">
+        <div>
+          <p class="eyebrow">Web Product / Language Learning</p>
+          <h1>GOODALPHABET / Gu的辞書</h1>
+          <p class="lead">
+            A vocabulary and Japanese-learning web product. The original project is
+            Yeyu-Tanxue/GOODALPHABET; erikpsw is a fork, not the source owner.
+          </p>
+          <div class="project-summary">
+            <div class="metric"><strong>Next.js</strong><span>App Router frontend with shadcn/ui components</span></div>
+            <div class="metric"><strong>FastAPI</strong><span>Python API, learning, review, billing routes</span></div>
+            <div class="metric"><strong>Product</strong><span>Auth0, Stripe, Vercel, wordbook data</span></div>
+          </div>
+        </div>
+        <div class="code-card" aria-label="GoodAlphabet architecture">
+          <code>frontend/
+  app/learn
+  app/review
+  app/billing
+api/
+  learn.py
+  review.py
+  billing.py
+data/
+  jlpt_n5n4.json
+  gre3000.json</code>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Product shape</p>
+          <h2>A full-stack learning app, not just a dictionary page.</h2>
+        </div>
+        <div class="content-copy">
+          <p>
+            GOODALPHABET combines vocabulary data, learning flows, review pages, user access control, token accounting,
+            and paid access through a modern frontend/backend deployment structure.
+          </p>
+          <p>
+            本合集中的文件用于展示项目结构和实现能力；原项目地址以 `Yeyu-Tanxue/GOODALPHABET` 为准。
+          </p>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Open files</p>
+          <h2>Frontend, backend, and data.</h2>
+        </div>
+        <div class="link-list">
+          <a href="https://github.com/Yeyu-Tanxue/GOODALPHABET"><span>Original repository</span><span>GitHub</span></a>
+          <a href="README.md"><span>Project README</span><span>MD</span></a>
+          <a href="frontend/app/page.tsx"><span>Frontend entry</span><span>TSX</span></a>
+          <a href="api/learn.py"><span>Learning API</span><span>Python</span></a>
+          <a href="wordbook_catalog.py"><span>Wordbook catalog</span><span>Python</span></a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

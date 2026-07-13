@@ -294,6 +294,128 @@ h3 {
   margin-top: 24px;
 }
 
+.project-page {
+  width: min(1040px, calc(100% - 40px));
+  margin: 0 auto;
+}
+
+.project-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(300px, 0.9fr);
+  gap: 36px;
+  align-items: center;
+  min-height: 64vh;
+  padding: 54px 0;
+}
+
+.project-hero h1 {
+  font-size: clamp(40px, 6vw, 72px);
+}
+
+.project-hero figure {
+  margin: 0;
+}
+
+.project-hero img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.project-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.metric {
+  min-height: 96px;
+  padding: 18px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.metric strong {
+  display: block;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.metric span {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.content-band {
+  display: grid;
+  grid-template-columns: 0.72fr 1.28fr;
+  gap: 38px;
+  padding: 48px 0;
+  border-top: 1px solid var(--line);
+}
+
+.content-band h2 {
+  font-size: clamp(28px, 3vw, 38px);
+}
+
+.content-copy {
+  color: var(--muted);
+  font-size: 17px;
+}
+
+.content-copy p:first-child {
+  margin-top: 0;
+}
+
+.link-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.link-list a {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 16px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.code-card {
+  padding: 20px;
+  background: #101612;
+  border-radius: 8px;
+  color: #f5f1e8;
+  overflow-x: auto;
+}
+
+.code-card code {
+  font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+  font-size: 14px;
+  line-height: 1.7;
+  white-space: pre;
+}
+
+.back-link {
+  display: inline-flex;
+  margin-top: 24px;
+  color: var(--muted);
+  font-weight: 800;
+  text-decoration: none;
+}
+
 @media (max-width: 820px) {
   .site-header {
     position: static;
@@ -307,6 +429,9 @@ h3 {
   }
 
   .hero,
+  .project-hero,
+  .project-summary,
+  .content-band,
   .split,
   .project-grid {
     grid-template-columns: 1fr;

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FPGA Stopwatch | Bill Gu Projects</title>
+    <link rel="stylesheet" href="../../styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="../../">Bill Gu Projects</a>
+      <nav aria-label="Project navigation">
+        <a href="../../#projects">Projects</a>
+        <a href="../../#archive">Archive</a>
+        <a href="https://github.com/Yeyu-Tanxue/BILLGU_PROJECT">GitHub</a>
+      </nav>
+    </header>
+
+    <main class="project-page">
+      <a class="back-link" href="../../">Back to portfolio</a>
+      <section class="project-hero">
+        <div>
+          <p class="eyebrow">FPGA / Verilog / EGo1</p>
+          <h1>FPGA 多功能数字秒表</h1>
+          <p class="lead">
+            A Vivado project implementing a stopwatch and countdown timer with debounced buttons,
+            lap memory, LED status output, and six-digit seven-segment display scanning.
+          </p>
+          <div class="project-summary">
+            <div class="metric"><strong>100MHz</strong><span>Clock divided into 10ms and 1ms ticks</span></div>
+            <div class="metric"><strong>5 Keys</strong><span>Start, preset, pause, mode, lap review</span></div>
+            <div class="metric"><strong>6 Digits</strong><span>Dynamic seven-segment display output</span></div>
+          </div>
+        </div>
+        <div class="code-card" aria-label="Verilog module sample">
+          <code>top_stopwatch
+  clk_divider
+  debounce x5
+  stopwatch_ctrl
+  seg_driver
+
+Modes:
+  up-count
+  countdown
+  pause/resume
+  lap review</code>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Design focus</p>
+          <h2>Readable digital logic with hardware constraints.</h2>
+        </div>
+        <div class="content-copy">
+          <p>
+            项目保留了核心 Verilog 源码、EGo1 引脚约束和 Vivado 工程入口。展示重点是有限状态机、
+            BCD 计数、按键消抖、扫描显示和板级引脚映射。
+          </p>
+          <p>
+            Vivado generated run directories are intentionally excluded so the repository stays focused on source-level review.
+          </p>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div>
+          <p class="eyebrow">Open files</p>
+          <h2>Verilog and constraints.</h2>
+        </div>
+        <div class="link-list">
+          <a href="README.md"><span>Project README</span><span>MD</span></a>
+          <a href="src/top_stopwatch.v"><span>Top module</span><span>Verilog</span></a>
+          <a href="src/TRY.v"><span>Stopwatch controller</span><span>Verilog</span></a>
+          <a href="src/seg_driver.v"><span>Seven-segment driver</span><span>Verilog</span></a>
+          <a href="constraints/xdc.xdc"><span>EGo1 constraints</span><span>XDC</span></a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
