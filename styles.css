@@ -380,6 +380,12 @@ h3 {
   padding: 54px 0;
 }
 
+.project-hero.single {
+  grid-template-columns: 1fr;
+  min-height: 42vh;
+  padding-bottom: 32px;
+}
+
 .project-hero h1 {
   font-size: clamp(40px, 6vw, 72px);
 }
@@ -441,6 +447,26 @@ h3 {
 
 .content-copy p:first-child {
   margin-top: 0;
+}
+
+.media-section {
+  align-items: start;
+}
+
+.media-frame {
+  padding: 16px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.media-frame video {
+  display: block;
+  width: 100%;
+  max-height: 68vh;
+  background: #101612;
+  border-radius: 6px;
 }
 
 .link-list {
