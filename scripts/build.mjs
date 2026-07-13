@@ -73,4 +73,6 @@ for (const item of include) {
   copyRecursive(source, path.join(dist, item));
 }
 
+fs.writeFileSync(path.join(dist, ".nojekyll"), "");
+
 console.log("Built GitHub Pages artifact in dist/");
