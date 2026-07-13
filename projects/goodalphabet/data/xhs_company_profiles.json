@@ -1,0 +1,664 @@
+{
+  "profiles": {
+    "hesai": {
+      "company": "Hesai Group / Hesai Technology",
+      "summary": "Hesai is a Shanghai-based lidar and 3D perception technology company. Its sensors are used in automotive ADAS, autonomous mobility, robotics, industrial automation, spatial sensing, and physical AI applications. The company develops lidar products such as AT128 for ADAS passenger vehicles, ET/ETX ultra-long-range lidar, FT/FTX short-range fully solid-state lidar, Pandar/Pandar128, QT/QT128, XT, OT, and JT series sensors.",
+      "aliases": [
+        "HESAI",
+        "Hesai Technology",
+        "Hesai Group",
+        "HSAI",
+        "禾赛",
+        "禾赛科技"
+      ],
+      "industries": [
+        "LiDAR",
+        "3D perception",
+        "automotive ADAS",
+        "autonomous mobility",
+        "robotics",
+        "physical AI"
+      ],
+      "products": [
+        "AT128 automotive lidar",
+        "ATX and AT1440 long-range lidar",
+        "ET/ETX ultra-long-range lidar",
+        "FT/FTX fully solid-state short-range lidar",
+        "Pandar/Pandar128 lidar",
+        "QT/QT128 short-range wide-view lidar",
+        "XT and OT lidar series",
+        "Kosmo AI Spatial Camera"
+      ],
+      "milestones": [
+        "Founded in 2014",
+        "Launched Pandar lidar products for autonomous driving and robotics",
+        "AT128 entered automotive mass-production delivery",
+        "Listed on Nasdaq under ticker HSAI"
+      ],
+      "headquarters": "Shanghai, China",
+      "logo_url": "https://logo.clearbit.com/hesaitech.com",
+      "source_urls": [
+        "https://www.hesaitech.com/",
+        "https://www.hesaitech.com/about-us/",
+        "https://investor.hesaitech.com/"
+      ],
+      "warnings": [
+        "Verify current product names, shipment milestones, and regulatory status before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "nvidia": {
+      "company": "NVIDIA",
+      "summary": "NVIDIA is a US technology company founded in 1993. It designs GPUs, systems-on-chip, AI computing platforms, networking products, and software including CUDA. Its products are used in gaming, professional visualization, data centers, artificial intelligence, scientific computing, robotics, and automotive workloads.",
+      "aliases": [
+        "NVDA",
+        "NVIDIA Corporation"
+      ],
+      "industries": [
+        "semiconductors",
+        "AI computing",
+        "data center infrastructure",
+        "computer hardware"
+      ],
+      "products": [
+        "GeForce GPUs",
+        "NVIDIA RTX",
+        "CUDA",
+        "DGX systems",
+        "NVIDIA AI Enterprise",
+        "Omniverse"
+      ],
+      "milestones": [
+        "Founded in 1993",
+        "Introduced CUDA in 2006",
+        "Expanded from graphics chips into AI and data center computing"
+      ],
+      "headquarters": "Santa Clara, California, United States",
+      "logo_url": "https://logo.clearbit.com/nvidia.com",
+      "source_urls": [
+        "https://www.nvidia.com/en-us/about-nvidia/"
+      ],
+      "warnings": [
+        "Verify current product names and financial claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "nvda": {
+      "company": "NVIDIA",
+      "summary": "NVIDIA is a US technology company founded in 1993. It designs GPUs, systems-on-chip, AI computing platforms, networking products, and software including CUDA. Its products are used in gaming, professional visualization, data centers, artificial intelligence, scientific computing, robotics, and automotive workloads.",
+      "aliases": [
+        "NVDA",
+        "NVIDIA Corporation"
+      ],
+      "industries": [
+        "semiconductors",
+        "AI computing",
+        "data center infrastructure",
+        "computer hardware"
+      ],
+      "products": [
+        "GeForce GPUs",
+        "NVIDIA RTX",
+        "CUDA",
+        "DGX systems",
+        "NVIDIA AI Enterprise",
+        "Omniverse"
+      ],
+      "milestones": [
+        "Founded in 1993",
+        "Introduced CUDA in 2006",
+        "Expanded from graphics chips into AI and data center computing"
+      ],
+      "headquarters": "Santa Clara, California, United States",
+      "logo_url": "https://logo.clearbit.com/nvidia.com",
+      "source_urls": [
+        "https://www.nvidia.com/en-us/about-nvidia/"
+      ],
+      "warnings": [
+        "Verify current product names and financial claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "procter & gamble": {
+      "company": "Procter & Gamble",
+      "summary": "Procter & Gamble is an American multinational consumer goods company headquartered in Cincinnati, Ohio. It develops and markets household, personal care, grooming, fabric care, home care, baby care, and health care products under brands such as Tide, Gillette, Pampers, Olay, Head & Shoulders, Oral-B, and Pantene.",
+      "aliases": [
+        "P&G",
+        "PG",
+        "宝洁"
+      ],
+      "industries": [
+        "consumer goods",
+        "personal care",
+        "home care",
+        "health care"
+      ],
+      "products": [
+        "Tide",
+        "Gillette",
+        "Pampers",
+        "Olay",
+        "Head & Shoulders",
+        "Oral-B",
+        "Pantene"
+      ],
+      "milestones": [
+        "Founded in 1837",
+        "Headquartered in Cincinnati",
+        "Built a global brand portfolio"
+      ],
+      "headquarters": "Cincinnati, Ohio, United States",
+      "logo_url": "https://logo.clearbit.com/pg.com",
+      "source_urls": [
+        "https://us.pg.com/company/"
+      ],
+      "warnings": [
+        "Verify current brand portfolio and regional product claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "p&g": {
+      "company": "Procter & Gamble",
+      "summary": "Procter & Gamble is an American multinational consumer goods company headquartered in Cincinnati, Ohio. It develops and markets household, personal care, grooming, fabric care, home care, baby care, and health care products under brands such as Tide, Gillette, Pampers, Olay, Head & Shoulders, Oral-B, and Pantene.",
+      "aliases": [
+        "P&G",
+        "PG",
+        "宝洁"
+      ],
+      "industries": [
+        "consumer goods",
+        "personal care",
+        "home care",
+        "health care"
+      ],
+      "products": [
+        "Tide",
+        "Gillette",
+        "Pampers",
+        "Olay",
+        "Head & Shoulders",
+        "Oral-B",
+        "Pantene"
+      ],
+      "milestones": [
+        "Founded in 1837",
+        "Headquartered in Cincinnati",
+        "Built a global brand portfolio"
+      ],
+      "headquarters": "Cincinnati, Ohio, United States",
+      "logo_url": "https://logo.clearbit.com/pg.com",
+      "source_urls": [
+        "https://us.pg.com/company/"
+      ],
+      "warnings": [
+        "Verify current brand portfolio and regional product claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "pg": {
+      "company": "Procter & Gamble",
+      "summary": "Procter & Gamble is an American multinational consumer goods company headquartered in Cincinnati, Ohio. It develops and markets household, personal care, grooming, fabric care, home care, baby care, and health care products under brands such as Tide, Gillette, Pampers, Olay, Head & Shoulders, Oral-B, and Pantene.",
+      "aliases": [
+        "P&G",
+        "PG",
+        "宝洁"
+      ],
+      "industries": [
+        "consumer goods",
+        "personal care",
+        "home care",
+        "health care"
+      ],
+      "products": [
+        "Tide",
+        "Gillette",
+        "Pampers",
+        "Olay",
+        "Head & Shoulders",
+        "Oral-B",
+        "Pantene"
+      ],
+      "milestones": [
+        "Founded in 1837",
+        "Headquartered in Cincinnati",
+        "Built a global brand portfolio"
+      ],
+      "headquarters": "Cincinnati, Ohio, United States",
+      "logo_url": "https://logo.clearbit.com/pg.com",
+      "source_urls": [
+        "https://us.pg.com/company/"
+      ],
+      "warnings": [
+        "Verify current brand portfolio and regional product claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "宝洁": {
+      "company": "宝洁",
+      "summary": "宝洁是一家跨国消费品公司，业务覆盖洗护、家清、个人护理、婴儿护理和健康护理等领域，旗下品牌包括 Tide、Gillette、Pampers、Olay、Head & Shoulders、Oral-B 和 Pantene。",
+      "aliases": [
+        "Procter & Gamble",
+        "P&G",
+        "PG"
+      ],
+      "industries": [
+        "consumer goods",
+        "personal care",
+        "home care",
+        "health care"
+      ],
+      "products": [
+        "Tide",
+        "Gillette",
+        "Pampers",
+        "Olay",
+        "Head & Shoulders",
+        "Oral-B",
+        "Pantene"
+      ],
+      "milestones": [
+        "Founded in 1837",
+        "Built a global brand portfolio",
+        "Operates across daily consumer categories"
+      ],
+      "headquarters": "Cincinnati, Ohio, United States",
+      "logo_url": "https://logo.clearbit.com/pg.com",
+      "source_urls": [
+        "https://us.pg.com/company/"
+      ],
+      "warnings": [
+        "Verify current brand portfolio and China-market product claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "boeing": {
+      "company": "Boeing",
+      "summary": "Boeing is an American aerospace company that designs, manufactures, and services commercial airplanes, defense systems, satellites, rockets, and related support products. It was founded in 1916 and has become a major global aerospace manufacturer serving airlines, governments, and space customers.",
+      "aliases": [
+        "BA",
+        "The Boeing Company",
+        "波音"
+      ],
+      "industries": [
+        "aerospace",
+        "commercial aviation",
+        "defense",
+        "space"
+      ],
+      "products": [
+        "commercial airplanes",
+        "defense systems",
+        "satellites",
+        "rockets",
+        "aviation services"
+      ],
+      "milestones": [
+        "Founded in 1916",
+        "Merged with McDonnell Douglas in 1997",
+        "Built major commercial aircraft families"
+      ],
+      "headquarters": "Arlington, Virginia, United States",
+      "logo_url": "https://logo.clearbit.com/boeing.com",
+      "source_urls": [
+        "https://www.boeing.com/company/"
+      ],
+      "warnings": [
+        "Verify current aircraft programs, safety issues, and delivery claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "ba": {
+      "company": "Boeing",
+      "summary": "Boeing is an American aerospace company that designs, manufactures, and services commercial airplanes, defense systems, satellites, rockets, and related support products. It was founded in 1916 and has become a major global aerospace manufacturer serving airlines, governments, and space customers.",
+      "aliases": [
+        "BA",
+        "The Boeing Company",
+        "波音"
+      ],
+      "industries": [
+        "aerospace",
+        "commercial aviation",
+        "defense",
+        "space"
+      ],
+      "products": [
+        "commercial airplanes",
+        "defense systems",
+        "satellites",
+        "rockets",
+        "aviation services"
+      ],
+      "milestones": [
+        "Founded in 1916",
+        "Merged with McDonnell Douglas in 1997",
+        "Built major commercial aircraft families"
+      ],
+      "headquarters": "Arlington, Virginia, United States",
+      "logo_url": "https://logo.clearbit.com/boeing.com",
+      "source_urls": [
+        "https://www.boeing.com/company/"
+      ],
+      "warnings": [
+        "Verify current aircraft programs, safety issues, and delivery claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "波音": {
+      "company": "波音",
+      "summary": "波音是一家美国航空航天公司，业务覆盖商用飞机、国防系统、卫星、火箭和航空服务。公司成立于 1916 年，是全球重要的航空航天制造商之一，客户包括航空公司、政府和航天领域机构。",
+      "aliases": [
+        "Boeing",
+        "BA",
+        "The Boeing Company"
+      ],
+      "industries": [
+        "aerospace",
+        "commercial aviation",
+        "defense",
+        "space"
+      ],
+      "products": [
+        "commercial airplanes",
+        "defense systems",
+        "satellites",
+        "rockets",
+        "aviation services"
+      ],
+      "milestones": [
+        "Founded in 1916",
+        "Merged with McDonnell Douglas in 1997",
+        "Built major commercial aircraft families"
+      ],
+      "headquarters": "Arlington, Virginia, United States",
+      "logo_url": "https://logo.clearbit.com/boeing.com",
+      "source_urls": [
+        "https://www.boeing.com/company/"
+      ],
+      "warnings": [
+        "Verify current aircraft programs, safety issues, and delivery claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "贵州茅台": {
+      "company": "贵州茅台",
+      "summary": "贵州茅台是中国白酒企业，核心产品是贵州茅台酒，属于酱香型白酒代表品牌。公司位于贵州省仁怀市茅台镇，业务围绕白酒生产、品牌运营和渠道销售展开，产品在中国高端白酒市场具有较强品牌影响力。",
+      "aliases": [
+        "Kweichow Moutai",
+        "600519",
+        "贵州茅台酒股份有限公司"
+      ],
+      "industries": [
+        "baijiu",
+        "beverage",
+        "consumer staples",
+        "Chinese liquor"
+      ],
+      "products": [
+        "Kweichow Moutai baijiu",
+        "Moutai series liquor",
+        "sauce-aroma baijiu"
+      ],
+      "milestones": [
+        "Located in Maotai Town, Renhuai, Guizhou",
+        "Known for sauce-aroma baijiu",
+        "Listed in Shanghai with ticker 600519"
+      ],
+      "headquarters": "Renhuai, Guizhou, China",
+      "logo_url": "https://logo.clearbit.com/moutaichina.com",
+      "source_urls": [
+        "https://www.moutaichina.com/"
+      ],
+      "warnings": [
+        "Avoid investment advice and verify current product, price, and financial claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "kweichow moutai": {
+      "company": "Kweichow Moutai",
+      "summary": "Kweichow Moutai is a Chinese baijiu company based in Maotai Town, Renhuai, Guizhou. Its core product is Moutai, a sauce-aroma baijiu brand with strong recognition in China's premium liquor market.",
+      "aliases": [
+        "贵州茅台",
+        "600519",
+        "Kweichow Moutai Co., Ltd."
+      ],
+      "industries": [
+        "baijiu",
+        "beverage",
+        "consumer staples",
+        "Chinese liquor"
+      ],
+      "products": [
+        "Kweichow Moutai baijiu",
+        "Moutai series liquor",
+        "sauce-aroma baijiu"
+      ],
+      "milestones": [
+        "Located in Maotai Town, Renhuai, Guizhou",
+        "Known for sauce-aroma baijiu",
+        "Listed in Shanghai with ticker 600519"
+      ],
+      "headquarters": "Renhuai, Guizhou, China",
+      "logo_url": "https://logo.clearbit.com/moutaichina.com",
+      "source_urls": [
+        "https://www.moutaichina.com/"
+      ],
+      "warnings": [
+        "Avoid investment advice and verify current product, price, and financial claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    },
+    "600519": {
+      "company": "贵州茅台",
+      "summary": "贵州茅台是中国白酒企业，核心产品是贵州茅台酒，属于酱香型白酒代表品牌。公司位于贵州省仁怀市茅台镇，业务围绕白酒生产、品牌运营和渠道销售展开，产品在中国高端白酒市场具有较强品牌影响力。",
+      "aliases": [
+        "Kweichow Moutai",
+        "600519",
+        "贵州茅台酒股份有限公司"
+      ],
+      "industries": [
+        "baijiu",
+        "beverage",
+        "consumer staples",
+        "Chinese liquor"
+      ],
+      "products": [
+        "Kweichow Moutai baijiu",
+        "Moutai series liquor",
+        "sauce-aroma baijiu"
+      ],
+      "milestones": [
+        "Located in Maotai Town, Renhuai, Guizhou",
+        "Known for sauce-aroma baijiu",
+        "Listed in Shanghai with ticker 600519"
+      ],
+      "headquarters": "Renhuai, Guizhou, China",
+      "logo_url": "https://logo.clearbit.com/moutaichina.com",
+      "source_urls": [
+        "https://www.moutaichina.com/"
+      ],
+      "warnings": [
+        "Avoid investment advice and verify current product, price, and financial claims before publishing."
+      ],
+      "search_provider": "known_profile"
+    }
+  },
+  "aliases": {
+    "hesai technology": "hesai",
+    "hsai": "hesai",
+    "禾赛": "hesai",
+    "禾赛科技": "hesai"
+  },
+  "brand_styles": {
+    "hesai": {
+      "accent": "#0f8f83",
+      "mark": "HESAI",
+      "domain": "hesaitech.com"
+    },
+    "hesai technology": {
+      "accent": "#0f8f83",
+      "mark": "HESAI",
+      "domain": "hesaitech.com"
+    },
+    "hsai": {
+      "accent": "#0f8f83",
+      "mark": "HESAI",
+      "domain": "hesaitech.com"
+    },
+    "禾赛": {
+      "accent": "#0f8f83",
+      "mark": "禾赛",
+      "domain": "hesaitech.com"
+    },
+    "禾赛科技": {
+      "accent": "#0f8f83",
+      "mark": "禾赛",
+      "domain": "hesaitech.com"
+    },
+    "nvidia": {
+      "accent": "#76b900",
+      "mark": "NVIDIA",
+      "domain": "nvidia.com"
+    },
+    "nvda": {
+      "accent": "#76b900",
+      "mark": "NVIDIA",
+      "domain": "nvidia.com"
+    },
+    "procter & gamble": {
+      "accent": "#123c7c",
+      "mark": "P&G",
+      "domain": "pg.com"
+    },
+    "p&g": {
+      "accent": "#123c7c",
+      "mark": "P&G",
+      "domain": "pg.com"
+    },
+    "pg": {
+      "accent": "#123c7c",
+      "mark": "P&G",
+      "domain": "pg.com"
+    },
+    "宝洁": {
+      "accent": "#123c7c",
+      "mark": "P&G",
+      "domain": "pg.com"
+    },
+    "boeing": {
+      "accent": "#0033a1",
+      "mark": "BOEING",
+      "domain": "boeing.com"
+    },
+    "ba": {
+      "accent": "#0033a1",
+      "mark": "BOEING",
+      "domain": "boeing.com"
+    },
+    "波音": {
+      "accent": "#0033a1",
+      "mark": "BOEING",
+      "domain": "boeing.com"
+    },
+    "贵州茅台": {
+      "accent": "#9b1c31",
+      "mark": "茅台",
+      "domain": "moutaichina.com"
+    },
+    "kweichow moutai": {
+      "accent": "#9b1c31",
+      "mark": "MOUTAI",
+      "domain": "moutaichina.com"
+    },
+    "600519": {
+      "accent": "#9b1c31",
+      "mark": "茅台",
+      "domain": "moutaichina.com"
+    }
+  },
+  "image_assets": {
+    "nvidia": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/960px-NVIDIA_Headquarters.jpg",
+        "caption": "NVIDIA headquarters, Santa Clara",
+        "source": "Wikimedia Commons / Coolcaesar"
+      }
+    ],
+    "nvda": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/960px-NVIDIA_Headquarters.jpg",
+        "caption": "NVIDIA headquarters, Santa Clara",
+        "source": "Wikimedia Commons / Coolcaesar"
+      }
+    ],
+    "procter & gamble": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg/960px-P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg",
+        "caption": "P&G Tide products",
+        "source": "Wikimedia Commons"
+      }
+    ],
+    "p&g": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg/960px-P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg",
+        "caption": "P&G Tide products",
+        "source": "Wikimedia Commons"
+      }
+    ],
+    "pg": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg/960px-P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg",
+        "caption": "P&G Tide products",
+        "source": "Wikimedia Commons"
+      }
+    ],
+    "宝洁": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg/960px-P%26G_TIDE_PRODUCTS_IN_CHINA_%283%29.jpg",
+        "caption": "P&G Tide products",
+        "source": "Wikimedia Commons"
+      }
+    ],
+    "boeing": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/United_Boeing_787_Dreamliner%2C_port_profile%2C_takeoff_from_SFO_%2830451657582%29.jpg",
+        "caption": "United Boeing 787 Dreamliner",
+        "source": "Wikimedia Commons / Bill Abbott"
+      }
+    ],
+    "ba": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/United_Boeing_787_Dreamliner%2C_port_profile%2C_takeoff_from_SFO_%2830451657582%29.jpg",
+        "caption": "United Boeing 787 Dreamliner",
+        "source": "Wikimedia Commons / Bill Abbott"
+      }
+    ],
+    "波音": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/United_Boeing_787_Dreamliner%2C_port_profile%2C_takeoff_from_SFO_%2830451657582%29.jpg",
+        "caption": "United Boeing 787 Dreamliner",
+        "source": "Wikimedia Commons / Bill Abbott"
+      }
+    ],
+    "贵州茅台": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Maotai_-_Kweichow_Moutai_Distillery_China%2C_Flasche_%282%29.jpg",
+        "caption": "Kweichow Moutai bottle",
+        "source": "Wikimedia Commons / Jula2812"
+      }
+    ],
+    "kweichow moutai": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Maotai_-_Kweichow_Moutai_Distillery_China%2C_Flasche_%282%29.jpg",
+        "caption": "Kweichow Moutai bottle",
+        "source": "Wikimedia Commons / Jula2812"
+      }
+    ],
+    "600519": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Maotai_-_Kweichow_Moutai_Distillery_China%2C_Flasche_%282%29.jpg",
+        "caption": "Kweichow Moutai bottle",
+        "source": "Wikimedia Commons / Jula2812"
+      }
+    ]
+  }
+}

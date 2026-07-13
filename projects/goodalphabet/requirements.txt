@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg2-binary
+bcrypt
+pyjwt
+edge-tts
+python-dotenv
+stripe
+pillow

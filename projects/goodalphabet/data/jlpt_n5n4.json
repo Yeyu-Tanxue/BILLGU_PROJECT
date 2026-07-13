@@ -1,0 +1,6926 @@
+[
+ {
+  "word": "字",
+  "reading": "じ",
+  "definition": "字 — 文字，书写",
+  "seq": 1
+ },
+ {
+  "word": "東",
+  "reading": "ひがし",
+  "definition": "東 — 东方，东面",
+  "seq": 2
+ },
+ {
+  "word": "私",
+  "reading": "わたし",
+  "definition": "私 — 我，本人",
+  "seq": 3
+ },
+ {
+  "word": "怒る",
+  "reading": "おこる",
+  "definition": "怒る — 生气，愤怒",
+  "seq": 4
+ },
+ {
+  "word": "市",
+  "reading": "いち",
+  "definition": "市 — 市场，集市",
+  "seq": 5
+ },
+ {
+  "word": "一日",
+  "reading": "ついたち",
+  "definition": "一日 — 一号，月初",
+  "seq": 6
+ },
+ {
+  "word": "一人",
+  "reading": "ひとり",
+  "definition": "一人 — 一个人",
+  "seq": 7
+ },
+ {
+  "word": "暇",
+  "reading": "ひま",
+  "definition": "暇 — 空闲，闲暇",
+  "seq": 8
+ },
+ {
+  "word": "入口",
+  "reading": "いりぐち",
+  "definition": "入口 — 入口，门口",
+  "seq": 9
+ },
+ {
+  "word": "入る",
+  "reading": "はいる",
+  "definition": "入る — 进入，进来",
+  "seq": 10
+ },
+ {
+  "word": "甘い",
+  "reading": "あまい",
+  "definition": "甘い — 甜的，甜蜜",
+  "seq": 11
+ },
+ {
+  "word": "上手",
+  "reading": "じょーず",
+  "definition": "上手 — 熟练，灵巧",
+  "seq": 12
+ },
+ {
+  "word": "塩",
+  "reading": "しお",
+  "definition": "塩 — 盐，咸味",
+  "seq": 13
+ },
+ {
+  "word": "黄色",
+  "reading": "きいろ",
+  "definition": "黄色 — 黄色",
+  "seq": 14
+ },
+ {
+  "word": "大事",
+  "reading": "だいじ",
+  "definition": "大事 — 重要，严重",
+  "seq": 15
+ },
+ {
+  "word": "弟",
+  "reading": "おとーと",
+  "definition": "弟 — 弟弟，幼弟",
+  "seq": 16
+ },
+ {
+  "word": "角",
+  "reading": "かど",
+  "definition": "角 — 角落，角落",
+  "seq": 17
+ },
+ {
+  "word": "門",
+  "reading": "もん",
+  "definition": "門 — 大门，派别",
+  "seq": 18
+ },
+ {
+  "word": "眼鏡",
+  "reading": "めがね",
+  "definition": "眼鏡 — 眼镜",
+  "seq": 19
+ },
+ {
+  "word": "来る",
+  "reading": "くる",
+  "definition": "来る — 来，来到",
+  "seq": 20
+ },
+ {
+  "word": "木綿",
+  "reading": "きわた",
+  "definition": "木綿 — 棉花，棉布",
+  "seq": 21
+ },
+ {
+  "word": "包む",
+  "reading": "つつむ",
+  "definition": "包む — 包裹，包装",
+  "seq": 22
+ },
+ {
+  "word": "汚れる",
+  "reading": "よごれる",
+  "definition": "汚れる — 变脏，弄脏",
+  "seq": 23
+ },
+ {
+  "word": "けれど",
+  "reading": "けれど",
+  "definition": "けれど — 但是，可是",
+  "seq": 24
+ },
+ {
+  "word": "戸",
+  "reading": "と",
+  "definition": "戸 — 门，户",
+  "seq": 25
+ },
+ {
+  "word": "次",
+  "reading": "し",
+  "definition": "次 — 下一个，其次",
+  "seq": 26
+ },
+ {
+  "word": "僕",
+  "reading": "ぼく",
+  "definition": "僕 — 仆人，我（男性）",
+  "seq": 27
+ },
+ {
+  "word": "十分",
+  "reading": "じゅうぶん",
+  "definition": "十分 — 充分，足够",
+  "seq": 28
+ },
+ {
+  "word": "畳",
+  "reading": "たたみ",
+  "definition": "畳 — 疲塌米垫",
+  "seq": 29
+ },
+ {
+  "word": "丈夫",
+  "reading": "じょーぶ",
+  "definition": "丈夫 — 牢固，结实",
+  "seq": 30
+ },
+ {
+  "word": "人",
+  "reading": "ひと",
+  "definition": "人 — 人，人物",
+  "seq": 31
+ },
+ {
+  "word": "前",
+  "reading": "まえ",
+  "definition": "前 — 前面，以前",
+  "seq": 32
+ },
+ {
+  "word": "誰",
+  "reading": "だれ",
+  "definition": "誰 — 谁，何人",
+  "seq": 33
+ },
+ {
+  "word": "昼間",
+  "reading": "ひるま",
+  "definition": "昼間 — 白天，日间",
+  "seq": 34
+ },
+ {
+  "word": "途中",
+  "reading": "とちゅう",
+  "definition": "途中 — 途中，半路",
+  "seq": 35
+ },
+ {
+  "word": "体",
+  "reading": "たい",
+  "definition": "体 — 个体，身体",
+  "seq": 36
+ },
+ {
+  "word": "店",
+  "reading": "みせ",
+  "definition": "店 — 店铺，商店",
+  "seq": 37
+ },
+ {
+  "word": "止まる",
+  "reading": "とまる",
+  "definition": "止まる — 停止，停下",
+  "seq": 38
+ },
+ {
+  "word": "止める",
+  "reading": "とめる",
+  "definition": "止める — 停止，阻止",
+  "seq": 39
+ },
+ {
+  "word": "七日",
+  "reading": "なのか",
+  "definition": "七日 — 七号，七天",
+  "seq": 40
+ },
+ {
+  "word": "南",
+  "reading": "みなみ",
+  "definition": "南 — 南方，南面",
+  "seq": 41
+ },
+ {
+  "word": "悪い",
+  "reading": "わるい",
+  "definition": "悪い — 坏的，不好",
+  "seq": 42
+ },
+ {
+  "word": "二人",
+  "reading": "ふたり",
+  "definition": "二人 — 两个人",
+  "seq": 43
+ },
+ {
+  "word": "音",
+  "reading": "おん",
+  "definition": "音 — 声音，音",
+  "seq": 44
+ },
+ {
+  "word": "灰皿",
+  "reading": "はいざら",
+  "definition": "灰皿 — 烟灰缸",
+  "seq": 45
+ },
+ {
+  "word": "弾く",
+  "reading": "ひく",
+  "definition": "弾く — 弹奏，弹琴",
+  "seq": 46
+ },
+ {
+  "word": "始め",
+  "reading": "はじめ",
+  "definition": "始め — 开始，开头",
+  "seq": 47
+ },
+ {
+  "word": "万",
+  "reading": "まん",
+  "definition": "万 — 一万，很多",
+  "seq": 48
+ },
+ {
+  "word": "不便",
+  "reading": "ふべん",
+  "definition": "不便 — 不方便",
+  "seq": 49
+ },
+ {
+  "word": "三",
+  "reading": "さん",
+  "definition": "三 — 三，三个",
+  "seq": 50
+ },
+ {
+  "word": "六",
+  "reading": "む",
+  "definition": "六 — 六",
+  "seq": 51
+ },
+ {
+  "word": "一昨日",
+  "reading": "いっさくじつ",
+  "definition": "一昨日 — 前天，两天前",
+  "seq": 52
+ },
+ {
+  "word": "一昨年",
+  "reading": "おととし",
+  "definition": "一昨年 — 前年，两年前",
+  "seq": 53
+ },
+ {
+  "word": "伯母さん",
+  "reading": "おばさん",
+  "definition": "伯母さん — 年长的姑母",
+  "seq": 54
+ },
+ {
+  "word": "叔母さん",
+  "reading": "おばさん",
+  "definition": "叔母さん — 年轻的姑母",
+  "seq": 55
+ },
+ {
+  "word": "固い",
+  "reading": "かたい",
+  "definition": "固い — 坚硬的，牢固的",
+  "seq": 56
+ },
+ {
+  "word": "下る",
+  "reading": "くだる",
+  "definition": "下る — 下降，下去",
+  "seq": 57
+ },
+ {
+  "word": "けれども",
+  "reading": "けれども",
+  "definition": "けれども — 虽然，但是",
+  "seq": 58
+ },
+ {
+  "word": "退院",
+  "reading": "たいいん",
+  "definition": "退院 — 出院，出院",
+  "seq": 59
+ },
+ {
+  "word": "大分",
+  "reading": "だいぶ",
+  "definition": "大分 — 相当，很",
+  "seq": 60
+ },
+ {
+  "word": "作る",
+  "reading": "つくる",
+  "definition": "作る — 制作，烹饪",
+  "seq": 61
+ },
+ {
+  "word": "拝見",
+  "reading": "はいけん",
+  "definition": "拝見 — 拜见，观看",
+  "seq": 62
+ },
+ {
+  "word": "リポート",
+  "reading": "",
+  "definition": "リポート — 报告",
+  "seq": 63
+ },
+ {
+  "word": "案内",
+  "reading": "あんない",
+  "definition": "案内 — 引导，信息",
+  "seq": 64
+ },
+ {
+  "word": "いい",
+  "reading": "いい",
+  "definition": "いい — 好的，足够",
+  "seq": 65
+ },
+ {
+  "word": "言う",
+  "reading": "ゆう",
+  "definition": "言う — 说，告诉",
+  "seq": 66
+ },
+ {
+  "word": "いつも",
+  "reading": "いつも",
+  "definition": "いつも — 总是，经常",
+  "seq": 67
+ },
+ {
+  "word": "上",
+  "reading": "うえ",
+  "definition": "上 — 上面，上方",
+  "seq": 68
+ },
+ {
+  "word": "魚",
+  "reading": "うお",
+  "definition": "魚 — 鱼",
+  "seq": 69
+ },
+ {
+  "word": "後",
+  "reading": "あと",
+  "definition": "後 — 后面，之后",
+  "seq": 70
+ },
+ {
+  "word": "うまい",
+  "reading": "うまい",
+  "definition": "うまい — 美味的，高明的",
+  "seq": 71
+ },
+ {
+  "word": "うん",
+  "reading": "うん",
+  "definition": "うん — 嗯，是的",
+  "seq": 72
+ },
+ {
+  "word": "運転",
+  "reading": "うんてん",
+  "definition": "運転 — 驾驶，操作",
+  "seq": 73
+ },
+ {
+  "word": "運動",
+  "reading": "うんどー",
+  "definition": "運動 — 运动，锻炼",
+  "seq": 74
+ },
+ {
+  "word": "遠慮",
+  "reading": "えんりょ",
+  "definition": "遠慮 — 客气，顾虑",
+  "seq": 75
+ },
+ {
+  "word": "金持ち",
+  "reading": "かねもち",
+  "definition": "金持ち — 富人",
+  "seq": 76
+ },
+ {
+  "word": "空",
+  "reading": "そら",
+  "definition": "空 — 天空，天气",
+  "seq": 77
+ },
+ {
+  "word": "川",
+  "reading": "かわ",
+  "definition": "川 — 河流",
+  "seq": 78
+ },
+ {
+  "word": "河",
+  "reading": "か",
+  "definition": "河 — 河流",
+  "seq": 79
+ },
+ {
+  "word": "九",
+  "reading": "きゅう",
+  "definition": "九 — 九",
+  "seq": 80
+ },
+ {
+  "word": "キロ",
+  "reading": "キロ",
+  "definition": "キロ — 千",
+  "seq": 81
+ },
+ {
+  "word": "下",
+  "reading": "した",
+  "definition": "下 — 下面，下方",
+  "seq": 82
+ },
+ {
+  "word": "計画",
+  "reading": "けーかく",
+  "definition": "計画 — 计划，规划",
+  "seq": 83
+ },
+ {
+  "word": "経験",
+  "reading": "けーけん",
+  "definition": "経験 — 经验，经历",
+  "seq": 84
+ },
+ {
+  "word": "工場",
+  "reading": "こーじょー",
+  "definition": "工場 — 工厂，车间",
+  "seq": 85
+ },
+ {
+  "word": "ここ",
+  "reading": "ここ",
+  "definition": "ここ — 这里，这个地方",
+  "seq": 86
+ },
+ {
+  "word": "故障",
+  "reading": "こしょー",
+  "definition": "故障 — 故障，出问题",
+  "seq": 87
+ },
+ {
+  "word": "この",
+  "reading": "この",
+  "definition": "この — 这个，这边",
+  "seq": 88
+ },
+ {
+  "word": "コピー",
+  "reading": "コピー",
+  "definition": "コピー — 复印，复制",
+  "seq": 89
+ },
+ {
+  "word": "今日",
+  "reading": "こんにち",
+  "definition": "今日 — 今天，现在",
+  "seq": 90
+ },
+ {
+  "word": "コンピューター",
+  "reading": "コンピューター",
+  "definition": "コンピューター — 计算机",
+  "seq": 91
+ },
+ {
+  "word": "散歩",
+  "reading": "さんぽ",
+  "definition": "散歩 — 散步，漫步",
+  "seq": 92
+ },
+ {
+  "word": "四",
+  "reading": "よ",
+  "definition": "四 — 四",
+  "seq": 93
+ },
+ {
+  "word": "支度",
+  "reading": "したく",
+  "definition": "支度 — 准备，装备",
+  "seq": 94
+ },
+ {
+  "word": "七",
+  "reading": "なな",
+  "definition": "七 — 七",
+  "seq": 95
+ },
+ {
+  "word": "十",
+  "reading": "じゅう",
+  "definition": "十 — 十",
+  "seq": 96
+ },
+ {
+  "word": "出席",
+  "reading": "しゅっせき",
+  "definition": "出席 — 出席，到场",
+  "seq": 97
+ },
+ {
+  "word": "出発",
+  "reading": "しゅっぱつ",
+  "definition": "出発 — 出发，启程",
+  "seq": 98
+ },
+ {
+  "word": "準備",
+  "reading": "じゅんび",
+  "definition": "準備 — 准备",
+  "seq": 99
+ },
+ {
+  "word": "招待",
+  "reading": "しょーたい",
+  "definition": "招待 — 邀请，招待",
+  "seq": 100
+ },
+ {
+  "word": "承知",
+  "reading": "しょーち",
+  "definition": "承知 — 同意，许可",
+  "seq": 101
+ },
+ {
+  "word": "食事",
+  "reading": "しょくじ",
+  "definition": "食事 — 进餐，饮食",
+  "seq": 102
+ },
+ {
+  "word": "心配",
+  "reading": "しんぱい",
+  "definition": "心配 — 担心，忧虑",
+  "seq": 103
+ },
+ {
+  "word": "空く",
+  "reading": "すく",
+  "definition": "空く — 变空，变闲",
+  "seq": 104
+ },
+ {
+  "word": "すると",
+  "reading": "すると",
+  "definition": "すると — 于是，就这样",
+  "seq": 105
+ },
+ {
+  "word": "背",
+  "reading": "せ",
+  "definition": "背 — 背部，身高",
+  "seq": 106
+ },
+ {
+  "word": "生産",
+  "reading": "せーさん",
+  "definition": "生産 — 生产，制造",
+  "seq": 107
+ },
+ {
+  "word": "世話",
+  "reading": "せわ",
+  "definition": "世話 — 照顾，帮忙",
+  "seq": 108
+ },
+ {
+  "word": "そう",
+  "reading": "そー",
+  "definition": "そう — 那样，如此",
+  "seq": 109
+ },
+ {
+  "word": "掃除",
+  "reading": "そーじ",
+  "definition": "掃除 — 清扫，打扫",
+  "seq": 110
+ },
+ {
+  "word": "相談",
+  "reading": "そーだん",
+  "definition": "相談 — 商量，咨询",
+  "seq": 111
+ },
+ {
+  "word": "そこ",
+  "reading": "そこ",
+  "definition": "そこ — 那里，那边",
+  "seq": 112
+ },
+ {
+  "word": "そして",
+  "reading": "そして",
+  "definition": "そして — 然后，并且",
+  "seq": 113
+ },
+ {
+  "word": "その",
+  "reading": "その",
+  "definition": "その — 那个，那个",
+  "seq": 114
+ },
+ {
+  "word": "それ",
+  "reading": "それ",
+  "definition": "それ — 那个，那个",
+  "seq": 115
+ },
+ {
+  "word": "だから",
+  "reading": "だから",
+  "definition": "だから — 所以，因此",
+  "seq": 116
+ },
+ {
+  "word": "中",
+  "reading": "ちゅう",
+  "definition": "中 — 中间，中等",
+  "seq": 117
+ },
+ {
+  "word": "辛い",
+  "reading": "からい",
+  "definition": "辛い — 辣的，咸的",
+  "seq": 118
+ },
+ {
+  "word": "できる",
+  "reading": "できる",
+  "definition": "できる — 能够，完成",
+  "seq": 119
+ },
+ {
+  "word": "では",
+  "reading": "で は",
+  "definition": "では — 在那里，用",
+  "seq": 120
+ },
+ {
+  "word": "でも",
+  "reading": "でも",
+  "definition": "でも — 但是，也",
+  "seq": 121
+ },
+ {
+  "word": "どう",
+  "reading": "どー",
+  "definition": "どう — 怎么，如何",
+  "seq": 122
+ },
+ {
+  "word": "どれ",
+  "reading": "どれ",
+  "definition": "どれ — 哪一个",
+  "seq": 123
+ },
+ {
+  "word": "何",
+  "reading": "なに",
+  "definition": "何 — 什么",
+  "seq": 124
+ },
+ {
+  "word": "日",
+  "reading": "にち",
+  "definition": "日 — 星期日",
+  "seq": 125
+ },
+ {
+  "word": "入院",
+  "reading": "にゅういん",
+  "definition": "入院 — 住院",
+  "seq": 126
+ },
+ {
+  "word": "入学",
+  "reading": "にゅうがく",
+  "definition": "入学 — 入学，入学",
+  "seq": 127
+ },
+ {
+  "word": "はい",
+  "reading": "はい",
+  "definition": "はい — 是的，好的",
+  "seq": 128
+ },
+ {
+  "word": "びっくり",
+  "reading": "びっくり",
+  "definition": "びっくり — 吃惊，惊讶",
+  "seq": 129
+ },
+ {
+  "word": "表",
+  "reading": "おもて",
+  "definition": "表 — 表面，正面",
+  "seq": 130
+ },
+ {
+  "word": "打つ",
+  "reading": "うつ",
+  "definition": "打つ — 打击，敲打",
+  "seq": 131
+ },
+ {
+  "word": "勉強",
+  "reading": "べんきょー",
+  "definition": "勉強 — 学习，研究",
+  "seq": 132
+ },
+ {
+  "word": "方",
+  "reading": "ほー",
+  "definition": "方 — 方向，方法",
+  "seq": 133
+ },
+ {
+  "word": "放送",
+  "reading": "ほーそー",
+  "definition": "放送 — 广播，播放",
+  "seq": 134
+ },
+ {
+  "word": "外",
+  "reading": "そと",
+  "definition": "外 — 外面，外部",
+  "seq": 135
+ },
+ {
+  "word": "間",
+  "reading": "かん",
+  "definition": "間 — 之间，间隔",
+  "seq": 136
+ },
+ {
+  "word": "皆",
+  "reading": "かい",
+  "definition": "皆 — 全部，所有",
+  "seq": 137
+ },
+ {
+  "word": "都",
+  "reading": "みやこ",
+  "definition": "都 — 首都，都市",
+  "seq": 138
+ },
+ {
+  "word": "見る",
+  "reading": "みる",
+  "definition": "見る — 看见，观看",
+  "seq": 139
+ },
+ {
+  "word": "訳",
+  "reading": "やく",
+  "definition": "訳 — 翻译",
+  "seq": 140
+ },
+ {
+  "word": "やはり",
+  "reading": "やはり",
+  "definition": "やはり — 果然，仍然",
+  "seq": 141
+ },
+ {
+  "word": "輸出",
+  "reading": "ゆしゅつ",
+  "definition": "輸出 — 出口，出口",
+  "seq": 142
+ },
+ {
+  "word": "輸入",
+  "reading": "ゆにゅう",
+  "definition": "輸入 — 进口，输入",
+  "seq": 143
+ },
+ {
+  "word": "夜",
+  "reading": "よる",
+  "definition": "夜 — 夜晚，晚上",
+  "seq": 144
+ },
+ {
+  "word": "より",
+  "reading": "",
+  "definition": "より — 比，从",
+  "seq": 145
+ },
+ {
+  "word": "レポート",
+  "reading": "レポート",
+  "definition": "レポート — 报告",
+  "seq": 146
+ },
+ {
+  "word": "練習",
+  "reading": "れんしゅう",
+  "definition": "練習 — 练习，训练",
+  "seq": 147
+ },
+ {
+  "word": "あ",
+  "reading": "あ",
+  "definition": "あ — 啊，哎呀",
+  "seq": 148
+ },
+ {
+  "word": "ああ",
+  "reading": "ああ",
+  "definition": "ああ — 那样",
+  "seq": 149
+ },
+ {
+  "word": "合う",
+  "reading": "あう",
+  "definition": "合う — 符合，合适",
+  "seq": 150
+ },
+ {
+  "word": "赤ん坊",
+  "reading": "あかんぼー",
+  "definition": "婴儿；宝宝",
+  "seq": 151
+ },
+ {
+  "word": "アクセサリー",
+  "reading": "アクセサリー",
+  "definition": "饰品；珠宝",
+  "seq": 152
+ },
+ {
+  "word": "浅い",
+  "reading": "あさい",
+  "definition": "浅的",
+  "seq": 153
+ },
+ {
+  "word": "味",
+  "reading": "あじ",
+  "definition": "机智；神秘",
+  "seq": 154
+ },
+ {
+  "word": "明日",
+  "reading": "あした",
+  "definition": "明天",
+  "seq": 155
+ },
+ {
+  "word": "遊び",
+  "reading": "あそび",
+  "definition": "游戏；玩耍",
+  "seq": 156
+ },
+ {
+  "word": "集る",
+  "reading": "たかる",
+  "definition": "聚集；依附",
+  "seq": 157
+ },
+ {
+  "word": "集める",
+  "reading": "あつめる",
+  "definition": "收集；聚集",
+  "seq": 158
+ },
+ {
+  "word": "アナウンサー",
+  "reading": "アナウンサー",
+  "definition": "主持人",
+  "seq": 159
+ },
+ {
+  "word": "謝る",
+  "reading": "あやまる",
+  "definition": "道歉",
+  "seq": 160
+ },
+ {
+  "word": "アルコール",
+  "reading": "アルコール",
+  "definition": "酒精；酒类",
+  "seq": 161
+ },
+ {
+  "word": "アルバイト",
+  "reading": "アルバイト",
+  "definition": "兼职工作",
+  "seq": 162
+ },
+ {
+  "word": "安心",
+  "reading": "あんしん",
+  "definition": "安心；放心",
+  "seq": 163
+ },
+ {
+  "word": "安全",
+  "reading": "あんぜん",
+  "definition": "安全",
+  "seq": 164
+ },
+ {
+  "word": "あんな",
+  "reading": "あんな",
+  "definition": "那样的",
+  "seq": 165
+ },
+ {
+  "word": "以下",
+  "reading": "いか",
+  "definition": "以下；最多",
+  "seq": 166
+ },
+ {
+  "word": "以外",
+  "reading": "いがい",
+  "definition": "除外；除了",
+  "seq": 167
+ },
+ {
+  "word": "医学",
+  "reading": "いがく",
+  "definition": "医学",
+  "seq": 168
+ },
+ {
+  "word": "生きる",
+  "reading": "いきる",
+  "definition": "生存；活着",
+  "seq": 169
+ },
+ {
+  "word": "意見",
+  "reading": "いけん",
+  "definition": "意见；建议",
+  "seq": 170
+ },
+ {
+  "word": "石",
+  "reading": "いし",
+  "definition": "石头",
+  "seq": 171
+ },
+ {
+  "word": "以上",
+  "reading": "いじょー",
+  "definition": "以上；超过",
+  "seq": 172
+ },
+ {
+  "word": "急ぐ",
+  "reading": "いそぐ",
+  "definition": "赶紧；匆忙",
+  "seq": 173
+ },
+ {
+  "word": "致す",
+  "reading": "いたす",
+  "definition": "导致；送达",
+  "seq": 174
+ },
+ {
+  "word": "一度",
+  "reading": "いちど",
+  "definition": "一次；曾经",
+  "seq": 175
+ },
+ {
+  "word": "一生懸命",
+  "reading": "いっしょーけんめー",
+  "definition": "拼命；努力",
+  "seq": 176
+ },
+ {
+  "word": "糸",
+  "reading": "いと",
+  "definition": "线；丝线",
+  "seq": 177
+ },
+ {
+  "word": "以内",
+  "reading": "いない",
+  "definition": "以内；在...内",
+  "seq": 178
+ },
+ {
+  "word": "田舎",
+  "reading": "いなか",
+  "definition": "乡村；乡下",
+  "seq": 179
+ },
+ {
+  "word": "祈る",
+  "reading": "いのる",
+  "definition": "祈祷；希望",
+  "seq": 180
+ },
+ {
+  "word": "いらっしゃる",
+  "reading": "いらっしゃる",
+  "definition": "去；来",
+  "seq": 181
+ },
+ {
+  "word": "植える",
+  "reading": "うえる",
+  "definition": "种植",
+  "seq": 182
+ },
+ {
+  "word": "受付",
+  "reading": "うけつけ",
+  "definition": "接待处",
+  "seq": 183
+ },
+ {
+  "word": "受ける",
+  "reading": "うける",
+  "definition": "接受；经受",
+  "seq": 184
+ },
+ {
+  "word": "動く",
+  "reading": "うごく",
+  "definition": "移动；动摇",
+  "seq": 185
+ },
+ {
+  "word": "美しい",
+  "reading": "うつくしい",
+  "definition": "美丽；可爱",
+  "seq": 186
+ },
+ {
+  "word": "写す",
+  "reading": "うつす",
+  "definition": "抄写；描绘",
+  "seq": 187
+ },
+ {
+  "word": "移る",
+  "reading": "うつる",
+  "definition": "迁移；转移",
+  "seq": 188
+ },
+ {
+  "word": "腕",
+  "reading": "うで",
+  "definition": "手臂；能力",
+  "seq": 189
+ },
+ {
+  "word": "裏",
+  "reading": "うら",
+  "definition": "背面；里面",
+  "seq": 190
+ },
+ {
+  "word": "売り場",
+  "reading": "うりば",
+  "definition": "售货区",
+  "seq": 191
+ },
+ {
+  "word": "運転手",
+  "reading": "うんてんしゅ",
+  "definition": "司机",
+  "seq": 192
+ },
+ {
+  "word": "エスカレーター",
+  "reading": "エスカレーター",
+  "definition": "自动扶梯",
+  "seq": 193
+ },
+ {
+  "word": "枝",
+  "reading": "えだ",
+  "definition": "树枝；分支",
+  "seq": 194
+ },
+ {
+  "word": "選ぶ",
+  "reading": "えらぶ",
+  "definition": "选择",
+  "seq": 195
+ },
+ {
+  "word": "お祝い",
+  "reading": "おいわい",
+  "definition": "庆祝；礼物",
+  "seq": 196
+ },
+ {
+  "word": "オートバイ",
+  "reading": "オートバイ",
+  "definition": "摩托车",
+  "seq": 197
+ },
+ {
+  "word": "おかげ",
+  "reading": "おかげ",
+  "definition": "多亏；恩惠",
+  "seq": 198
+ },
+ {
+  "word": "億",
+  "reading": "おく",
+  "definition": "亿",
+  "seq": 199
+ },
+ {
+  "word": "屋上",
+  "reading": "おくじょー",
+  "definition": "屋顶",
+  "seq": 200
+ },
+ {
+  "word": "贈り物",
+  "reading": "おくりもの",
+  "definition": "礼物；礼品",
+  "seq": 201
+ },
+ {
+  "word": "送る",
+  "reading": "おくる",
+  "definition": "发送；护送",
+  "seq": 202
+ },
+ {
+  "word": "遅れる",
+  "reading": "おくれる",
+  "definition": "迟到；落后",
+  "seq": 203
+ },
+ {
+  "word": "行う",
+  "reading": "おこなう",
+  "definition": "进行；执行",
+  "seq": 204
+ },
+ {
+  "word": "お嬢さん",
+  "reading": "おじょうさん",
+  "definition": "小姐；千金",
+  "seq": 205
+ },
+ {
+  "word": "お宅",
+  "reading": "おたく",
+  "definition": "您家；贵 说（敬语）",
+  "seq": 206
+ },
+ {
+  "word": "おっしゃる",
+  "reading": "おっしゃる",
+  "definition": "to say (honorific for 言う); to be called",
+  "seq": 207
+ },
+ {
+  "word": "夫",
+  "reading": "おっと",
+  "definition": "丈夫",
+  "seq": 208
+ },
+ {
+  "word": "踊り",
+  "reading": "おどり",
+  "definition": "舞蹈",
+  "seq": 209
+ },
+ {
+  "word": "踊る",
+  "reading": "おどる",
+  "definition": "跳舞",
+  "seq": 210
+ },
+ {
+  "word": "お祭り",
+  "reading": "おまつり",
+  "definition": "庙会；节庆",
+  "seq": 211
+ },
+ {
+  "word": "お土産",
+  "reading": "おみやげ",
+  "definition": "特产（敬语）",
+  "seq": 212
+ },
+ {
+  "word": "思い出す",
+  "reading": "おもいだす",
+  "definition": "回忆起",
+  "seq": 213
+ },
+ {
+  "word": "思う",
+  "reading": "おもう",
+  "definition": "想；认为",
+  "seq": 214
+ },
+ {
+  "word": "おもちゃ",
+  "reading": "",
+  "definition": "玩具",
+  "seq": 215
+ },
+ {
+  "word": "親",
+  "reading": "おや",
+  "definition": "父母",
+  "seq": 216
+ },
+ {
+  "word": "下りる",
+  "reading": "おりる",
+  "definition": "下来；降临",
+  "seq": 217
+ },
+ {
+  "word": "折る",
+  "reading": "おる",
+  "definition": "弯曲；折叠",
+  "seq": 218
+ },
+ {
+  "word": "お礼",
+  "reading": "おれー",
+  "definition": "道谢；谢礼",
+  "seq": 219
+ },
+ {
+  "word": "折れる",
+  "reading": "おれる",
+  "definition": "折断；破裂",
+  "seq": 220
+ },
+ {
+  "word": "終わり",
+  "reading": "おわり",
+  "definition": "结束；结尾",
+  "seq": 221
+ },
+ {
+  "word": "カーテン",
+  "reading": "カーテン",
+  "definition": "窗帘；帷幕",
+  "seq": 222
+ },
+ {
+  "word": "海岸",
+  "reading": "かいがん",
+  "definition": "海岸；海滨",
+  "seq": 223
+ },
+ {
+  "word": "会議",
+  "reading": "かいぎ",
+  "definition": "会议；会谈",
+  "seq": 224
+ },
+ {
+  "word": "会議室",
+  "reading": "かいぎしつ",
+  "definition": "会议室",
+  "seq": 225
+ },
+ {
+  "word": "会場",
+  "reading": "かいじょー",
+  "definition": "会场；场所",
+  "seq": 226
+ },
+ {
+  "word": "会話",
+  "reading": "かいわ",
+  "definition": "会话；交谈",
+  "seq": 227
+ },
+ {
+  "word": "帰り",
+  "reading": "かえり",
+  "definition": "回来；归途",
+  "seq": 228
+ },
+ {
+  "word": "変える",
+  "reading": "かえる",
+  "definition": "改变；更换",
+  "seq": 229
+ },
+ {
+  "word": "科学",
+  "reading": "かがく",
+  "definition": "科学",
+  "seq": 230
+ },
+ {
+  "word": "鏡",
+  "reading": "かがみ",
+  "definition": "镜子；镜饼",
+  "seq": 231
+ },
+ {
+  "word": "掛ける",
+  "reading": "かける",
+  "definition": "挂；乘以",
+  "seq": 232
+ },
+ {
+  "word": "飾る",
+  "reading": "かざる",
+  "definition": "装饰；布置",
+  "seq": 233
+ },
+ {
+  "word": "火事",
+  "reading": "かじ",
+  "definition": "火灾",
+  "seq": 234
+ },
+ {
+  "word": "ガス",
+  "reading": "ガス",
+  "definition": "煤气；瓦斯",
+  "seq": 235
+ },
+ {
+  "word": "ガソリン",
+  "reading": "ガソリン",
+  "definition": "汽油",
+  "seq": 236
+ },
+ {
+  "word": "ガソリンスタンド",
+  "reading": "ガソリンスタンド",
+  "definition": "加油站",
+  "seq": 237
+ },
+ {
+  "word": "形",
+  "reading": "かた",
+  "definition": "形状；形式",
+  "seq": 238
+ },
+ {
+  "word": "片付ける",
+  "reading": "かたづける",
+  "definition": "整理；收拾",
+  "seq": 239
+ },
+ {
+  "word": "課長",
+  "reading": "かちょー",
+  "definition": "课长；科长",
+  "seq": 240
+ },
+ {
+  "word": "勝つ",
+  "reading": "かつ",
+  "definition": "获胜；赢",
+  "seq": 241
+ },
+ {
+  "word": "家内",
+  "reading": "かない",
+  "definition": "内人；妻子",
+  "seq": 242
+ },
+ {
+  "word": "悲しい",
+  "reading": "かなしい",
+  "definition": "悲伤；难过",
+  "seq": 243
+ },
+ {
+  "word": "必ず",
+  "reading": "かならず",
+  "definition": "一定；必定",
+  "seq": 244
+ },
+ {
+  "word": "彼女",
+  "reading": "かのじょ",
+  "definition": "她；女朋友",
+  "seq": 245
+ },
+ {
+  "word": "壁",
+  "reading": "かべ",
+  "definition": "墙壁；障碍",
+  "seq": 246
+ },
+ {
+  "word": "かまう",
+  "reading": "かまう",
+  "definition": "在意；关心",
+  "seq": 247
+ },
+ {
+  "word": "髪",
+  "reading": "かみ",
+  "definition": "头发",
+  "seq": 248
+ },
+ {
+  "word": "噛む",
+  "reading": "かむ",
+  "definition": "咬；咀嚼",
+  "seq": 249
+ },
+ {
+  "word": "通う",
+  "reading": "かよう",
+  "definition": "往返；通勤",
+  "seq": 250
+ },
+ {
+  "word": "ガラス",
+  "reading": "ガラス",
+  "definition": "玻璃",
+  "seq": 251
+ },
+ {
+  "word": "彼",
+  "reading": "か",
+  "definition": "那个（远指）",
+  "seq": 252
+ },
+ {
+  "word": "彼ら",
+  "reading": "かれら",
+  "definition": "他们",
+  "seq": 253
+ },
+ {
+  "word": "乾く",
+  "reading": "かわく",
+  "definition": "变干，干燥",
+  "seq": 254
+ },
+ {
+  "word": "代わり",
+  "reading": "かわり",
+  "definition": "替代，代替者",
+  "seq": 255
+ },
+ {
+  "word": "変わる",
+  "reading": "かわる",
+  "definition": "改变，变化",
+  "seq": 256
+ },
+ {
+  "word": "考える",
+  "reading": "かんがえる",
+  "definition": "思考，考虑",
+  "seq": 257
+ },
+ {
+  "word": "関係",
+  "reading": "かんけー",
+  "definition": "关系，关联",
+  "seq": 258
+ },
+ {
+  "word": "看護婦",
+  "reading": "かんごふ",
+  "definition": "女护士",
+  "seq": 259
+ },
+ {
+  "word": "簡単",
+  "reading": "かんたん",
+  "definition": "简单，容易",
+  "seq": 260
+ },
+ {
+  "word": "気",
+  "reading": "き",
+  "definition": "精神，心情",
+  "seq": 261
+ },
+ {
+  "word": "機会",
+  "reading": "きかい",
+  "definition": "机会，时机",
+  "seq": 262
+ },
+ {
+  "word": "危険",
+  "reading": "きけん",
+  "definition": "危险的",
+  "seq": 263
+ },
+ {
+  "word": "聞こえる",
+  "reading": "きこえる",
+  "definition": "能听见",
+  "seq": 264
+ },
+ {
+  "word": "汽車",
+  "reading": "きしゃ",
+  "definition": "火车",
+  "seq": 265
+ },
+ {
+  "word": "技術",
+  "reading": "ぎじゅつ",
+  "definition": "技术，技能",
+  "seq": 266
+ },
+ {
+  "word": "季節",
+  "reading": "きせつ",
+  "definition": "季节，时期",
+  "seq": 267
+ },
+ {
+  "word": "規則",
+  "reading": "きそく",
+  "definition": "规则，规定",
+  "seq": 268
+ },
+ {
+  "word": "きっと",
+  "reading": "きっと",
+  "definition": "一定，肯定",
+  "seq": 269
+ },
+ {
+  "word": "絹",
+  "reading": "きぬ",
+  "definition": "丝绸",
+  "seq": 270
+ },
+ {
+  "word": "厳しい",
+  "reading": "きびしい",
+  "definition": "严厉，严格",
+  "seq": 271
+ },
+ {
+  "word": "気分",
+  "reading": "きぶん",
+  "definition": "心情，感觉",
+  "seq": 272
+ },
+ {
+  "word": "君",
+  "reading": "きみ",
+  "definition": "君主，您",
+  "seq": 273
+ },
+ {
+  "word": "決める",
+  "reading": "きめる",
+  "definition": "决定，确定",
+  "seq": 274
+ },
+ {
+  "word": "気持ち",
+  "reading": "きもち",
+  "definition": "感觉，心情",
+  "seq": 275
+ },
+ {
+  "word": "着物",
+  "reading": "きもの",
+  "definition": "和服",
+  "seq": 276
+ },
+ {
+  "word": "客",
+  "reading": "きゃく",
+  "definition": "客人，顾客",
+  "seq": 277
+ },
+ {
+  "word": "急",
+  "reading": "きゅう",
+  "definition": "紧急，急速",
+  "seq": 278
+ },
+ {
+  "word": "急行",
+  "reading": "きゅうこー",
+  "definition": "快车，急行",
+  "seq": 279
+ },
+ {
+  "word": "教育",
+  "reading": "きょーいく",
+  "definition": "教育",
+  "seq": 280
+ },
+ {
+  "word": "教会",
+  "reading": "きょーかい",
+  "definition": "教会",
+  "seq": 281
+ },
+ {
+  "word": "競争",
+  "reading": "きょーそー",
+  "definition": "竞争，竞赛",
+  "seq": 282
+ },
+ {
+  "word": "興味",
+  "reading": "きょーみ",
+  "definition": "兴趣",
+  "seq": 283
+ },
+ {
+  "word": "近所",
+  "reading": "きんじょ",
+  "definition": "附近，邻里",
+  "seq": 284
+ },
+ {
+  "word": "具合",
+  "reading": "ぐあい",
+  "definition": "状态，情况",
+  "seq": 285
+ },
+ {
+  "word": "空気",
+  "reading": "くうき",
+  "definition": "空气，气氛",
+  "seq": 286
+ },
+ {
+  "word": "空港",
+  "reading": "くうこー",
+  "definition": "机场",
+  "seq": 287
+ },
+ {
+  "word": "草",
+  "reading": "くさ",
+  "definition": "草，杂草",
+  "seq": 288
+ },
+ {
+  "word": "首",
+  "reading": "くび",
+  "definition": "脖子，颈部",
+  "seq": 289
+ },
+ {
+  "word": "雲",
+  "reading": "くも",
+  "definition": "云彩",
+  "seq": 290
+ },
+ {
+  "word": "比べる",
+  "reading": "くらべる",
+  "definition": "比较，对照",
+  "seq": 291
+ },
+ {
+  "word": "くれる",
+  "reading": "くれる",
+  "definition": "给我（某人）",
+  "seq": 292
+ },
+ {
+  "word": "暮れる",
+  "reading": "くれる",
+  "definition": "天黑，傍晚",
+  "seq": 293
+ },
+ {
+  "word": "毛",
+  "reading": "け",
+  "definition": "毛发，毛皮",
+  "seq": 294
+ },
+ {
+  "word": "経済",
+  "reading": "けーざい",
+  "definition": "经济",
+  "seq": 295
+ },
+ {
+  "word": "警察",
+  "reading": "けーさつ",
+  "definition": "警察",
+  "seq": 296
+ },
+ {
+  "word": "ケーキ",
+  "reading": "ケーキ",
+  "definition": "蛋糕",
+  "seq": 297
+ },
+ {
+  "word": "けが",
+  "reading": "",
+  "definition": "伤，伤口",
+  "seq": 298
+ },
+ {
+  "word": "景色",
+  "reading": "けしき",
+  "definition": "风景，景色",
+  "seq": 299
+ },
+ {
+  "word": "消しゴム",
+  "reading": "けしゴム",
+  "definition": "橡皮擦",
+  "seq": 300
+ },
+ {
+  "word": "下宿",
+  "reading": "げしゅく",
+  "definition": "住宿，寄宿",
+  "seq": 301
+ },
+ {
+  "word": "決して",
+  "reading": "けっして",
+  "definition": "决不，绝对不",
+  "seq": 302
+ },
+ {
+  "word": "原因",
+  "reading": "げんいん",
+  "definition": "原因，理由",
+  "seq": 303
+ },
+ {
+  "word": "研究",
+  "reading": "けんきゅう",
+  "definition": "研究，调查",
+  "seq": 304
+ },
+ {
+  "word": "研究室",
+  "reading": "けんきゅうしつ",
+  "definition": "实验室，研究室",
+  "seq": 305
+ },
+ {
+  "word": "見物",
+  "reading": "けんぶつ",
+  "definition": "观光，游览",
+  "seq": 306
+ },
+ {
+  "word": "子",
+  "reading": "こ",
+  "definition": "孩子，小孩",
+  "seq": 307
+ },
+ {
+  "word": "こう",
+  "reading": "こー",
+  "definition": "这样，如此",
+  "seq": 308
+ },
+ {
+  "word": "郊外",
+  "reading": "こーがい",
+  "definition": "郊外，市郊",
+  "seq": 309
+ },
+ {
+  "word": "講義",
+  "reading": "こーぎ",
+  "definition": "讲课，讲座",
+  "seq": 310
+ },
+ {
+  "word": "工業",
+  "reading": "こーぎょー",
+  "definition": "工业，产业",
+  "seq": 311
+ },
+ {
+  "word": "高校",
+  "reading": "こーこー",
+  "definition": "高中，高级中学",
+  "seq": 312
+ },
+ {
+  "word": "高校生",
+  "reading": "こーこーせー",
+  "definition": "高中生",
+  "seq": 313
+ },
+ {
+  "word": "校長",
+  "reading": "こーちょー",
+  "definition": "校长",
+  "seq": 314
+ },
+ {
+  "word": "交通",
+  "reading": "こーつう",
+  "definition": "交通，运输",
+  "seq": 315
+ },
+ {
+  "word": "講堂",
+  "reading": "こーどー",
+  "definition": "礼堂，讲堂",
+  "seq": 316
+ },
+ {
+  "word": "高等学校",
+  "reading": "こーとーがっこー",
+  "definition": "高中，高级中学",
+  "seq": 317
+ },
+ {
+  "word": "公務員",
+  "reading": "こーむいん",
+  "definition": "公务员，公务员",
+  "seq": 318
+ },
+ {
+  "word": "国際",
+  "reading": "こくさい",
+  "definition": "国际的，国际性",
+  "seq": 319
+ },
+ {
+  "word": "心",
+  "reading": "こころ",
+  "definition": "心，内心",
+  "seq": 320
+ },
+ {
+  "word": "こと",
+  "reading": "こと",
+  "definition": "事情，事物",
+  "seq": 321
+ },
+ {
+  "word": "小鳥",
+  "reading": "ことり",
+  "definition": "小鸟",
+  "seq": 322
+ },
+ {
+  "word": "このあいだ",
+  "reading": "このあいだ",
+  "definition": "前几天，最近",
+  "seq": 323
+ },
+ {
+  "word": "このごろ",
+  "reading": "このごろ",
+  "definition": "最近，近来",
+  "seq": 324
+ },
+ {
+  "word": "細かい",
+  "reading": "こまかい",
+  "definition": "细小，琐碎",
+  "seq": 325
+ },
+ {
+  "word": "込む",
+  "reading": "こむ",
+  "definition": "拥挤，复杂",
+  "seq": 326
+ },
+ {
+  "word": "米",
+  "reading": "こめ",
+  "definition": "大米，稻米",
+  "seq": 327
+ },
+ {
+  "word": "これから",
+  "reading": "これ から",
+  "definition": "今后，从现在开始",
+  "seq": 328
+ },
+ {
+  "word": "怖い",
+  "reading": "こわい",
+  "definition": "害怕，恐怖",
+  "seq": 329
+ },
+ {
+  "word": "壊す",
+  "reading": "こわす",
+  "definition": "打破，破坏",
+  "seq": 330
+ },
+ {
+  "word": "壊れる",
+  "reading": "こわれる",
+  "definition": "坏掉，破损",
+  "seq": 331
+ },
+ {
+  "word": "コンサート",
+  "reading": "コンサート",
+  "definition": "音乐会",
+  "seq": 332
+ },
+ {
+  "word": "今度",
+  "reading": "こんど",
+  "definition": "这次，下次",
+  "seq": 333
+ },
+ {
+  "word": "今夜",
+  "reading": "こんや",
+  "definition": "今晚，今天晚上",
+  "seq": 334
+ },
+ {
+  "word": "最近",
+  "reading": "さいきん",
+  "definition": "最近，近期",
+  "seq": 335
+ },
+ {
+  "word": "最後",
+  "reading": "さいご",
+  "definition": "最后，末尾",
+  "seq": 336
+ },
+ {
+  "word": "最初",
+  "reading": "さいしょ",
+  "definition": "开始，最初",
+  "seq": 337
+ },
+ {
+  "word": "探す",
+  "reading": "さがす",
+  "definition": "寻找，搜索",
+  "seq": 338
+ },
+ {
+  "word": "盛ん",
+  "reading": "さかん",
+  "definition": "兴盛，旺盛",
+  "seq": 339
+ },
+ {
+  "word": "下げる",
+  "reading": "さげる",
+  "definition": "放下，降低",
+  "seq": 340
+ },
+ {
+  "word": "差し上げる",
+  "reading": "さしあげる",
+  "definition": "举起，给予",
+  "seq": 341
+ },
+ {
+  "word": "さっき",
+  "reading": "さっき",
+  "definition": "刚才，稍前",
+  "seq": 342
+ },
+ {
+  "word": "寂しい",
+  "reading": "さびしい",
+  "definition": "寂寞，孤独",
+  "seq": 343
+ },
+ {
+  "word": "サラダ",
+  "reading": "サラダ",
+  "definition": "��拉",
+  "seq": 344
+ },
+ {
+  "word": "騒ぐ",
+  "reading": "さわぐ",
+  "definition": "喧闹，吵闹",
+  "seq": 345
+ },
+ {
+  "word": "触る",
+  "reading": "さわる",
+  "definition": "触摸，接触",
+  "seq": 346
+ },
+ {
+  "word": "産業",
+  "reading": "さんぎょー",
+  "definition": "产业，工业",
+  "seq": 347
+ },
+ {
+  "word": "サンダル",
+  "reading": "サンダル",
+  "definition": "凉鞋",
+  "seq": 348
+ },
+ {
+  "word": "サンドイッチ",
+  "reading": "サンドイッチ",
+  "definition": "三明治",
+  "seq": 349
+ },
+ {
+  "word": "残念",
+  "reading": "ざんねん",
+  "definition": "遗憾，可惜",
+  "seq": 350
+ },
+ {
+  "word": "試合",
+  "reading": "しあい",
+  "definition": "比赛，游戏",
+  "seq": 351
+ },
+ {
+  "word": "仕方",
+  "reading": "しかた",
+  "definition": "方法，手段；态度",
+  "seq": 352
+ },
+ {
+  "word": "試験",
+  "reading": "しけん",
+  "definition": "考试，测验",
+  "seq": 353
+ },
+ {
+  "word": "事故",
+  "reading": "じこ",
+  "definition": "事故，意外",
+  "seq": 354
+ },
+ {
+  "word": "地震",
+  "reading": "じしん",
+  "definition": "地震",
+  "seq": 355
+ },
+ {
+  "word": "時代",
+  "reading": "じだい",
+  "definition": "时代，时期",
+  "seq": 356
+ },
+ {
+  "word": "下着",
+  "reading": "したぎ",
+  "definition": "内衣，衬衣",
+  "seq": 357
+ },
+ {
+  "word": "しっかり",
+  "reading": "しっかり",
+  "definition": "牢牢地，稳固地",
+  "seq": 358
+ },
+ {
+  "word": "失敗",
+  "reading": "しっぱい",
+  "definition": "失败，失误",
+  "seq": 359
+ },
+ {
+  "word": "辞典",
+  "reading": "じてん",
+  "definition": "词典",
+  "seq": 360
+ },
+ {
+  "word": "品物",
+  "reading": "しなもの",
+  "definition": "物品，商品",
+  "seq": 361
+ },
+ {
+  "word": "島",
+  "reading": "しま",
+  "definition": "岛屿，领域",
+  "seq": 362
+ },
+ {
+  "word": "市民",
+  "reading": "しみん",
+  "definition": "市民，城镇居民",
+  "seq": 363
+ },
+ {
+  "word": "事務所",
+  "reading": "じむしょ",
+  "definition": "办公室",
+  "seq": 364
+ },
+ {
+  "word": "社会",
+  "reading": "しゃかい",
+  "definition": "社会",
+  "seq": 365
+ },
+ {
+  "word": "社長",
+  "reading": "しゃちょー",
+  "definition": "总裁，总经理",
+  "seq": 366
+ },
+ {
+  "word": "ジャム",
+  "reading": "",
+  "definition": "果酱",
+  "seq": 367
+ },
+ {
+  "word": "自由",
+  "reading": "じゆう",
+  "definition": "自由",
+  "seq": 368
+ },
+ {
+  "word": "習慣",
+  "reading": "しゅうかん",
+  "definition": "习惯",
+  "seq": 369
+ },
+ {
+  "word": "住所",
+  "reading": "じゅうしょ",
+  "definition": "地址，住址",
+  "seq": 370
+ },
+ {
+  "word": "柔道",
+  "reading": "じゅうどー",
+  "definition": "柔道",
+  "seq": 371
+ },
+ {
+  "word": "趣味",
+  "reading": "しゅみ",
+  "definition": "爱好，趣味",
+  "seq": 372
+ },
+ {
+  "word": "紹介",
+  "reading": "しょーかい",
+  "definition": "介绍，引荐",
+  "seq": 373
+ },
+ {
+  "word": "小学校",
+  "reading": "しょーがっこー",
+  "definition": "小学",
+  "seq": 374
+ },
+ {
+  "word": "小説",
+  "reading": "しょーせつ",
+  "definition": "小说",
+  "seq": 375
+ },
+ {
+  "word": "将来",
+  "reading": "しょーらい",
+  "definition": "将来，未来",
+  "seq": 376
+ },
+ {
+  "word": "食料品",
+  "reading": "しょくりょーひん",
+  "definition": "食品",
+  "seq": 377
+ },
+ {
+  "word": "女性",
+  "reading": "じょせー",
+  "definition": "女性",
+  "seq": 378
+ },
+ {
+  "word": "知らせる",
+  "reading": "しらせる",
+  "definition": "通知，告知",
+  "seq": 379
+ },
+ {
+  "word": "調べる",
+  "reading": "しらべる",
+  "definition": "调查，查询",
+  "seq": 380
+ },
+ {
+  "word": "人口",
+  "reading": "じんこー",
+  "definition": "人口",
+  "seq": 381
+ },
+ {
+  "word": "神社",
+  "reading": "じんじゃ",
+  "definition": "神社",
+  "seq": 382
+ },
+ {
+  "word": "親切",
+  "reading": "しんせつ",
+  "definition": "亲切，热心",
+  "seq": 383
+ },
+ {
+  "word": "新聞社",
+  "reading": "しんぶんしゃ",
+  "definition": "报社",
+  "seq": 384
+ },
+ {
+  "word": "水泳",
+  "reading": "すいえー",
+  "definition": "游泳",
+  "seq": 385
+ },
+ {
+  "word": "水道",
+  "reading": "すいどー",
+  "definition": "自来水，水管",
+  "seq": 386
+ },
+ {
+  "word": "数学",
+  "reading": "すうがく",
+  "definition": "数学",
+  "seq": 387
+ },
+ {
+  "word": "スーツ",
+  "reading": "スーツ",
+  "definition": "西装，套装",
+  "seq": 388
+ },
+ {
+  "word": "スーツケース",
+  "reading": "スーツケース",
+  "definition": "行李箱",
+  "seq": 389
+ },
+ {
+  "word": "過ぎる",
+  "reading": "すぎる",
+  "definition": "过分，超过",
+  "seq": 390
+ },
+ {
+  "word": "スクリーン",
+  "reading": "スクリーン",
+  "definition": "屏幕",
+  "seq": 391
+ },
+ {
+  "word": "進む",
+  "reading": "すすむ",
+  "definition": "前进，进展",
+  "seq": 392
+ },
+ {
+  "word": "すっかり",
+  "reading": "すっかり",
+  "definition": "完全，彻底",
+  "seq": 393
+ },
+ {
+  "word": "すっと",
+  "reading": "すっと",
+  "definition": "忽然，径直",
+  "seq": 394
+ },
+ {
+  "word": "ステーキ",
+  "reading": "ステーキ",
+  "definition": "牛排",
+  "seq": 395
+ },
+ {
+  "word": "捨てる",
+  "reading": "すてる",
+  "definition": "扔掉，丢弃",
+  "seq": 396
+ },
+ {
+  "word": "ステレオ",
+  "reading": "ステレオ",
+  "definition": "立体声",
+  "seq": 397
+ },
+ {
+  "word": "砂",
+  "reading": "すな",
+  "definition": "沙子",
+  "seq": 398
+ },
+ {
+  "word": "滑る",
+  "reading": "すべる",
+  "definition": "滑动，溜",
+  "seq": 399
+ },
+ {
+  "word": "済む",
+  "reading": "すむ",
+  "definition": "结束，完毕",
+  "seq": 400
+ },
+ {
+  "word": "生活",
+  "reading": "せーかつ",
+  "definition": "生活 — 生活、生计、日常",
+  "seq": 401
+ },
+ {
+  "word": "政治",
+  "reading": "せーじ",
+  "definition": "政治 — 政治",
+  "seq": 402
+ },
+ {
+  "word": "西洋",
+  "reading": "せーよー",
+  "definition": "西洋 — 西方、欧美各国",
+  "seq": 403
+ },
+ {
+  "word": "世界",
+  "reading": "せかい",
+  "definition": "世界 — 世界、人生",
+  "seq": 404
+ },
+ {
+  "word": "席",
+  "reading": "せき",
+  "definition": "席 — 座位、场所",
+  "seq": 405
+ },
+ {
+  "word": "説明",
+  "reading": "せつめー",
+  "definition": "説明 — 说明、解释",
+  "seq": 406
+ },
+ {
+  "word": "背中",
+  "reading": "せなか",
+  "definition": "背中 — 后背、背部",
+  "seq": 407
+ },
+ {
+  "word": "線",
+  "reading": "せん",
+  "definition": "線 — 线条、界限",
+  "seq": 408
+ },
+ {
+  "word": "戦争",
+  "reading": "せんそー",
+  "definition": "戦争 — 战争、冲突",
+  "seq": 409
+ },
+ {
+  "word": "先輩",
+  "reading": "せんぱい",
+  "definition": "先輩 — 前辈、学长",
+  "seq": 410
+ },
+ {
+  "word": "育てる",
+  "reading": "そだてる",
+  "definition": "育てる — 抚养、培育",
+  "seq": 411
+ },
+ {
+  "word": "卒業",
+  "reading": "そつぎょー",
+  "definition": "卒業 — 毕业、完成学业",
+  "seq": 412
+ },
+ {
+  "word": "ソフト",
+  "reading": "ソフト",
+  "definition": "ソフト — 柔软的、温和的",
+  "seq": 413
+ },
+ {
+  "word": "祖父",
+  "reading": "そふ",
+  "definition": "祖父 — 爷爷、祖父",
+  "seq": 414
+ },
+ {
+  "word": "祖母",
+  "reading": "そぼ",
+  "definition": "祖母 — 奶奶、祖母",
+  "seq": 415
+ },
+ {
+  "word": "それで",
+  "reading": "それ で",
+  "definition": "それで — 因此、于是",
+  "seq": 416
+ },
+ {
+  "word": "それに",
+  "reading": "それ に",
+  "definition": "それに — 而且、此外",
+  "seq": 417
+ },
+ {
+  "word": "それほど",
+  "reading": "それほど",
+  "definition": "それほど — 那么程度、那样",
+  "seq": 418
+ },
+ {
+  "word": "そろそろ",
+  "reading": "そろそろ",
+  "definition": "そろそろ — 渐渐、即将",
+  "seq": 419
+ },
+ {
+  "word": "そんな",
+  "reading": "そんな",
+  "definition": "そんな — 那样的、那种",
+  "seq": 420
+ },
+ {
+  "word": "そんなに",
+  "reading": "そんなに",
+  "definition": "そんなに — 那么、如此",
+  "seq": 421
+ },
+ {
+  "word": "大学生",
+  "reading": "だいがくせー",
+  "definition": "大学生 — 大学生、大学在校生",
+  "seq": 422
+ },
+ {
+  "word": "大体",
+  "reading": "だいたい",
+  "definition": "大体 — 大概、大致",
+  "seq": 423
+ },
+ {
+  "word": "たいてい",
+  "reading": "たいてー",
+  "definition": "たいてい — 大多数、通常",
+  "seq": 424
+ },
+ {
+  "word": "タイプ",
+  "reading": "タイプ",
+  "definition": "タイプ — 类型、种类",
+  "seq": 425
+ },
+ {
+  "word": "台風",
+  "reading": "たいふう",
+  "definition": "台風 — 台风、热带风暴",
+  "seq": 426
+ },
+ {
+  "word": "倒れる",
+  "reading": "たおれる",
+  "definition": "倒れる — 倒下、倒塌、破产",
+  "seq": 427
+ },
+ {
+  "word": "確か",
+  "reading": "たしか",
+  "definition": "確か — 确实、可靠、准确",
+  "seq": 428
+ },
+ {
+  "word": "足す",
+  "reading": "たす",
+  "definition": "足す — 添加、增加",
+  "seq": 429
+ },
+ {
+  "word": "訪ねる",
+  "reading": "たずねる",
+  "definition": "訪ねる — 拜访、访问",
+  "seq": 430
+ },
+ {
+  "word": "尋ねる",
+  "reading": "たずねる",
+  "definition": "尋ねる — 询问、寻找",
+  "seq": 431
+ },
+ {
+  "word": "正しい",
+  "reading": "ただしい",
+  "definition": "正しい — 正确、正当、合适",
+  "seq": 432
+ },
+ {
+  "word": "立てる",
+  "reading": "たてる",
+  "definition": "立てる — 竖立、设立",
+  "seq": 433
+ },
+ {
+  "word": "建てる",
+  "reading": "たてる",
+  "definition": "建てる — 建造、建设",
+  "seq": 434
+ },
+ {
+  "word": "例えば",
+  "reading": "たとえば",
+  "definition": "例えば — 例如、比如",
+  "seq": 435
+ },
+ {
+  "word": "棚",
+  "reading": "たな",
+  "definition": "棚 — 架子、搁板",
+  "seq": 436
+ },
+ {
+  "word": "楽しみ",
+  "reading": "たのしみ",
+  "definition": "楽しみ — 快乐、期待的事",
+  "seq": 437
+ },
+ {
+  "word": "たまに",
+  "reading": "たまに",
+  "definition": "たまに — 偶尔、有时",
+  "seq": 438
+ },
+ {
+  "word": "為",
+  "reading": "い",
+  "definition": "為 — 琵琶的第十二弦",
+  "seq": 439
+ },
+ {
+  "word": "足りる",
+  "reading": "たりる",
+  "definition": "足りる — 足够、充足",
+  "seq": 440
+ },
+ {
+  "word": "男性",
+  "reading": "だんせー",
+  "definition": "男性 — 男性、男子",
+  "seq": 441
+ },
+ {
+  "word": "暖房",
+  "reading": "だんぼー",
+  "definition": "暖房 — 取暖、暖气",
+  "seq": 442
+ },
+ {
+  "word": "血",
+  "reading": "ち",
+  "definition": "血 — 血液、血",
+  "seq": 443
+ },
+ {
+  "word": "チェック",
+  "reading": "チェック",
+  "definition": "チェック — 检查、核对",
+  "seq": 444
+ },
+ {
+  "word": "力",
+  "reading": "ちから",
+  "definition": "力 — 力量、能力",
+  "seq": 445
+ },
+ {
+  "word": "ちゃん",
+  "reading": "",
+  "definition": "ちゃん — 亲昵称呼后缀",
+  "seq": 446
+ },
+ {
+  "word": "注意",
+  "reading": "ちゅうい",
+  "definition": "注意 — 注意、警告",
+  "seq": 447
+ },
+ {
+  "word": "中学校",
+  "reading": "ちゅうがっこー",
+  "definition": "中学校 — 初中、初级中学",
+  "seq": 448
+ },
+ {
+  "word": "注射",
+  "reading": "ちゅうしゃ",
+  "definition": "注射 — 注射、打针",
+  "seq": 449
+ },
+ {
+  "word": "駐車場",
+  "reading": "ちゅうしゃじょー",
+  "definition": "駐車場 — 停车场、停车处",
+  "seq": 450
+ },
+ {
+  "word": "地理",
+  "reading": "ちり",
+  "definition": "地理 — 地理；地形；地貌",
+  "seq": 451
+ },
+ {
+  "word": "捕まえる",
+  "reading": "つかまえる",
+  "definition": "捕まえる — 抓住；逮捕；捕捉",
+  "seq": 452
+ },
+ {
+  "word": "付く",
+  "reading": "つく",
+  "definition": "付く — 附着；粘贴；接触",
+  "seq": 453
+ },
+ {
+  "word": "漬ける",
+  "reading": "つける",
+  "definition": "漬ける — 浸泡；腌制；浸泡",
+  "seq": 454
+ },
+ {
+  "word": "都合",
+  "reading": "つごー",
+  "definition": "都合 — 方便；情况；条件",
+  "seq": 455
+ },
+ {
+  "word": "伝える",
+  "reading": "つたえる",
+  "definition": "伝える — 传达；传递；告知",
+  "seq": 456
+ },
+ {
+  "word": "続く",
+  "reading": "つづく",
+  "definition": "続く — 继续；连续发生",
+  "seq": 457
+ },
+ {
+  "word": "続ける",
+  "reading": "つづける",
+  "definition": "続ける — 持续；连续不断",
+  "seq": 458
+ },
+ {
+  "word": "妻",
+  "reading": "つま",
+  "definition": "妻 — 妻子；配偶者",
+  "seq": 459
+ },
+ {
+  "word": "つもり",
+  "reading": "つもり",
+  "definition": "つもり — 打算；意图；计划",
+  "seq": 460
+ },
+ {
+  "word": "釣る",
+  "reading": "つる",
+  "definition": "釣る — 钓鱼；垂钓",
+  "seq": 461
+ },
+ {
+  "word": "連れる",
+  "reading": "つれる",
+  "definition": "連れる — 带领；携带；带去",
+  "seq": 462
+ },
+ {
+  "word": "丁寧",
+  "reading": "てーねー",
+  "definition": "丁寧 — 礼貌；恭敬；仔细",
+  "seq": 463
+ },
+ {
+  "word": "テキスト",
+  "reading": "テキスト",
+  "definition": "テキスト — 文本；课文；教材",
+  "seq": 464
+ },
+ {
+  "word": "適当",
+  "reading": "てきとー",
+  "definition": "適当 — 合适；适当；随便",
+  "seq": 465
+ },
+ {
+  "word": "手伝う",
+  "reading": "てつだう",
+  "definition": "手伝う — 帮助；协助；帮忙",
+  "seq": 466
+ },
+ {
+  "word": "テニス",
+  "reading": "テニス",
+  "definition": "テニス — 网球运动",
+  "seq": 467
+ },
+ {
+  "word": "手袋",
+  "reading": "てぶくろ",
+  "definition": "手袋 — 手套；连指手套",
+  "seq": 468
+ },
+ {
+  "word": "寺",
+  "reading": "てら",
+  "definition": "寺 — 寺庙；寺院",
+  "seq": 469
+ },
+ {
+  "word": "点",
+  "reading": "てん",
+  "definition": "点 — 点；分数；项目",
+  "seq": 470
+ },
+ {
+  "word": "店員",
+  "reading": "てんいん",
+  "definition": "店員 — 店员；售货员",
+  "seq": 471
+ },
+ {
+  "word": "天気予報",
+  "reading": "てんきよほー",
+  "definition": "天気予報 — 天气预报",
+  "seq": 472
+ },
+ {
+  "word": "電灯",
+  "reading": "でんとー",
+  "definition": "電灯 — 电灯；电灯泡",
+  "seq": 473
+ },
+ {
+  "word": "電報",
+  "reading": "でんぽー",
+  "definition": "電報 — 电报",
+  "seq": 474
+ },
+ {
+  "word": "展覧会",
+  "reading": "てんらんかい",
+  "definition": "展覧会 — 展览会；展出",
+  "seq": 475
+ },
+ {
+  "word": "道具",
+  "reading": "どーぐ",
+  "definition": "道具 — 工具；器具；道具",
+  "seq": 476
+ },
+ {
+  "word": "動物園",
+  "reading": "どーぶつえん",
+  "definition": "動物園 — 动物园",
+  "seq": 477
+ },
+ {
+  "word": "遠く",
+  "reading": "とおく",
+  "definition": "遠く — 远处；远方",
+  "seq": 478
+ },
+ {
+  "word": "通る",
+  "reading": "とおる",
+  "definition": "通る — 通过；经过；通行",
+  "seq": 479
+ },
+ {
+  "word": "特に",
+  "reading": "とくに",
+  "definition": "特に — 特别；尤其；格外",
+  "seq": 480
+ },
+ {
+  "word": "特別",
+  "reading": "とくべつ",
+  "definition": "特別 — 特殊；特别",
+  "seq": 481
+ },
+ {
+  "word": "とこや",
+  "reading": "",
+  "definition": "とこや — 理发店；理发师",
+  "seq": 482
+ },
+ {
+  "word": "特急",
+  "reading": "とっきゅう",
+  "definition": "特急 — 特快；特快列车",
+  "seq": 483
+ },
+ {
+  "word": "届ける",
+  "reading": "とどける",
+  "definition": "届ける — 送达；投递；送到",
+  "seq": 484
+ },
+ {
+  "word": "泊まる",
+  "reading": "とまる",
+  "definition": "泊まる — 住宿；过夜；留宿",
+  "seq": 485
+ },
+ {
+  "word": "取り替える",
+  "reading": "とりかえる",
+  "definition": "取り替える — 更换；替换；交换",
+  "seq": 486
+ },
+ {
+  "word": "泥棒",
+  "reading": "どろぼー",
+  "definition": "泥棒 — 小偷；贼；盗窃",
+  "seq": 487
+ },
+ {
+  "word": "どんどん",
+  "reading": "どんどん",
+  "definition": "どんどん — 咚咚声；迅速地；连续地",
+  "seq": 488
+ },
+ {
+  "word": "直す",
+  "reading": "なおす",
+  "definition": "直す — 修理；修改；纠正",
+  "seq": 489
+ },
+ {
+  "word": "直る",
+  "reading": "なおる",
+  "definition": "直る — 被修好；好转",
+  "seq": 490
+ },
+ {
+  "word": "治る",
+  "reading": "なおる",
+  "definition": "治る — 治愈；康复；痊愈",
+  "seq": 491
+ },
+ {
+  "word": "中々",
+  "reading": "なかなか",
+  "definition": "中々 — 很；相当；不容易",
+  "seq": 492
+ },
+ {
+  "word": "泣く",
+  "reading": "なく",
+  "definition": "泣く — 哭泣；流泪；啼哭",
+  "seq": 493
+ },
+ {
+  "word": "無くなる",
+  "reading": "なくなる",
+  "definition": "無くなる — 消失；失去；不见",
+  "seq": 494
+ },
+ {
+  "word": "亡くなる",
+  "reading": "なくなる",
+  "definition": "亡くなる — 去世；死亡；逝世",
+  "seq": 495
+ },
+ {
+  "word": "投げる",
+  "reading": "なげる",
+  "definition": "投げる — 投掷；扔掉；投球",
+  "seq": 496
+ },
+ {
+  "word": "なさる",
+  "reading": "なさる",
+  "definition": "なさる — 做；敬语形式",
+  "seq": 497
+ },
+ {
+  "word": "鳴る",
+  "reading": "なる",
+  "definition": "鳴る — 响；鸣叫；响起",
+  "seq": 498
+ },
+ {
+  "word": "なるべく",
+  "reading": "なるべく",
+  "definition": "なるべく — 尽可能；尽量",
+  "seq": 499
+ },
+ {
+  "word": "慣れる",
+  "reading": "なれる",
+  "definition": "慣れる — 习惯；熟悉；适应",
+  "seq": 500
+ },
+ {
+  "word": "におい",
+  "reading": "におい",
+  "definition": "气味、气味",
+  "seq": 501
+ },
+ {
+  "word": "苦い",
+  "reading": "にがい",
+  "definition": "苦的、痛苦的",
+  "seq": 502
+ },
+ {
+  "word": "逃げる",
+  "reading": "にげる",
+  "definition": "逃跑、逃避",
+  "seq": 503
+ },
+ {
+  "word": "日記",
+  "reading": "にっき",
+  "definition": "日记、日志",
+  "seq": 504
+ },
+ {
+  "word": "似る",
+  "reading": "にる",
+  "definition": "相似、类似",
+  "seq": 505
+ },
+ {
+  "word": "人形",
+  "reading": "にんぎょー",
+  "definition": "人偶、玩偶",
+  "seq": 506
+ },
+ {
+  "word": "盗む",
+  "reading": "ぬすむ",
+  "definition": "偷窃、偷盗",
+  "seq": 507
+ },
+ {
+  "word": "塗る",
+  "reading": "ぬる",
+  "definition": "涂抹、粉刷",
+  "seq": 508
+ },
+ {
+  "word": "熱",
+  "reading": "ねつ",
+  "definition": "发热、热度",
+  "seq": 509
+ },
+ {
+  "word": "寝坊",
+  "reading": "ねぼー",
+  "definition": "睡懒觉、晚起",
+  "seq": 510
+ },
+ {
+  "word": "眠い",
+  "reading": "ねむい",
+  "definition": "困倦、想睡",
+  "seq": 511
+ },
+ {
+  "word": "眠る",
+  "reading": "ねむる",
+  "definition": "睡觉、安息",
+  "seq": 512
+ },
+ {
+  "word": "残る",
+  "reading": "のこる",
+  "definition": "剩余、残留",
+  "seq": 513
+ },
+ {
+  "word": "乗り換える",
+  "reading": "のりかえる",
+  "definition": "换乘、转车",
+  "seq": 514
+ },
+ {
+  "word": "乗り物",
+  "reading": "のりもの",
+  "definition": "交通工具",
+  "seq": 515
+ },
+ {
+  "word": "葉",
+  "reading": "は",
+  "definition": "叶子、叶片",
+  "seq": 516
+ },
+ {
+  "word": "場合",
+  "reading": "ばあい",
+  "definition": "情况、场合",
+  "seq": 517
+ },
+ {
+  "word": "パート",
+  "reading": "パート",
+  "definition": "部分、角色",
+  "seq": 518
+ },
+ {
+  "word": "倍",
+  "reading": "ばい",
+  "definition": "两倍、双倍",
+  "seq": 519
+ },
+ {
+  "word": "歯医者",
+  "reading": "はいしゃ",
+  "definition": "牙科医生",
+  "seq": 520
+ },
+ {
+  "word": "運ぶ",
+  "reading": "はこぶ",
+  "definition": "运送、搬运",
+  "seq": 521
+ },
+ {
+  "word": "始める",
+  "reading": "はじめる",
+  "definition": "开始、创立",
+  "seq": 522
+ },
+ {
+  "word": "場所",
+  "reading": "ばしょ",
+  "definition": "地点、场所",
+  "seq": 523
+ },
+ {
+  "word": "はず",
+  "reading": "はず",
+  "definition": "箭槽、弓槽",
+  "seq": 524
+ },
+ {
+  "word": "恥ずかしい",
+  "reading": "はずかしい",
+  "definition": "害羞、尴尬",
+  "seq": 525
+ },
+ {
+  "word": "パソコン",
+  "reading": "パソコン",
+  "definition": "个人电脑",
+  "seq": 526
+ },
+ {
+  "word": "発音",
+  "reading": "はつおん",
+  "definition": "发音、读音",
+  "seq": 527
+ },
+ {
+  "word": "はっきり",
+  "reading": "はっきり",
+  "definition": "清楚地、明确地",
+  "seq": 528
+ },
+ {
+  "word": "花見",
+  "reading": "はなみ",
+  "definition": "赏花、观花",
+  "seq": 529
+ },
+ {
+  "word": "林",
+  "reading": "はやし",
+  "definition": "树林、小森林",
+  "seq": 530
+ },
+ {
+  "word": "払う",
+  "reading": "はらう",
+  "definition": "驱除、支付",
+  "seq": 531
+ },
+ {
+  "word": "番組",
+  "reading": "ばんぐみ",
+  "definition": "节目、电视节目",
+  "seq": 532
+ },
+ {
+  "word": "反対",
+  "reading": "はんたい",
+  "definition": "反对、对立",
+  "seq": 533
+ },
+ {
+  "word": "ハンドバッグ",
+  "reading": "ハンドバッグ",
+  "definition": "手提包、女用包",
+  "seq": 534
+ },
+ {
+  "word": "火",
+  "reading": "ひ",
+  "definition": "火焰、火灾",
+  "seq": 535
+ },
+ {
+  "word": "ピアノ",
+  "reading": "ピアノ",
+  "definition": "钢琴、钢琴",
+  "seq": 536
+ },
+ {
+  "word": "冷える",
+  "reading": "ひえる",
+  "definition": "变冷、降温",
+  "seq": 537
+ },
+ {
+  "word": "光",
+  "reading": "ひかり",
+  "definition": "光线、光明",
+  "seq": 538
+ },
+ {
+  "word": "光る",
+  "reading": "ひかる",
+  "definition": "闪耀、发光",
+  "seq": 539
+ },
+ {
+  "word": "引き出し",
+  "reading": "ひきだし",
+  "definition": "抽屉、拉出物",
+  "seq": 540
+ },
+ {
+  "word": "引き出す",
+  "reading": "ひきだす",
+  "definition": "拉出、取出",
+  "seq": 541
+ },
+ {
+  "word": "ひげ",
+  "reading": "ひげ",
+  "definition": "胡须、络腮胡",
+  "seq": 542
+ },
+ {
+  "word": "飛行場",
+  "reading": "ひこーじょー",
+  "definition": "机场、飞机场",
+  "seq": 543
+ },
+ {
+  "word": "久しぶり",
+  "reading": "ひさしぶり",
+  "definition": "久违、好久不见",
+  "seq": 544
+ },
+ {
+  "word": "美術館",
+  "reading": "びじゅつかん",
+  "definition": "美术馆、艺术馆",
+  "seq": 545
+ },
+ {
+  "word": "必要",
+  "reading": "ひつよー",
+  "definition": "必要、需要",
+  "seq": 546
+ },
+ {
+  "word": "ひどい",
+  "reading": "ひどい",
+  "definition": "严重、过分",
+  "seq": 547
+ },
+ {
+  "word": "開く",
+  "reading": "あく",
+  "definition": "打开、开业",
+  "seq": 548
+ },
+ {
+  "word": "ビル",
+  "reading": "ビル",
+  "definition": "大楼、建筑物",
+  "seq": 549
+ },
+ {
+  "word": "昼休み",
+  "reading": "ひるやすみ",
+  "definition": "午休、中午休息",
+  "seq": 550
+ },
+ {
+  "word": "拾う",
+  "reading": "ひろう",
+  "definition": "拾う — 捡起；拾取",
+  "seq": 551
+ },
+ {
+  "word": "ファックス",
+  "reading": "ファックス",
+  "definition": "ファックス — 传真机；传真件",
+  "seq": 552
+ },
+ {
+  "word": "増える",
+  "reading": "ふえる",
+  "definition": "増える — 增加；增多",
+  "seq": 553
+ },
+ {
+  "word": "深い",
+  "reading": "ふかい",
+  "definition": "深い — 深的；深刻的",
+  "seq": 554
+ },
+ {
+  "word": "複雑",
+  "reading": "ふくざつ",
+  "definition": "複雑 — 复杂；不简单",
+  "seq": 555
+ },
+ {
+  "word": "復習",
+  "reading": "ふくしゅう",
+  "definition": "復習 — 复习",
+  "seq": 556
+ },
+ {
+  "word": "部長",
+  "reading": "ぶちょー",
+  "definition": "部長 — 部长；部门主管",
+  "seq": 557
+ },
+ {
+  "word": "普通",
+  "reading": "ふつう",
+  "definition": "普通 — 普通；一般",
+  "seq": 558
+ },
+ {
+  "word": "太る",
+  "reading": "ふとる",
+  "definition": "太る — 变胖；发福",
+  "seq": 559
+ },
+ {
+  "word": "布団",
+  "reading": "ふとん",
+  "definition": "布団 — 坐垫；褥子",
+  "seq": 560
+ },
+ {
+  "word": "踏む",
+  "reading": "ふむ",
+  "definition": "踏む — 踩；踏",
+  "seq": 561
+ },
+ {
+  "word": "降り出す",
+  "reading": "ふりだす",
+  "definition": "降り出す — 开始下雨",
+  "seq": 562
+ },
+ {
+  "word": "プレゼント",
+  "reading": "プレゼント",
+  "definition": "プレゼント — 礼物；礼品",
+  "seq": 563
+ },
+ {
+  "word": "文化",
+  "reading": "ぶんか",
+  "definition": "文化 — 文化",
+  "seq": 564
+ },
+ {
+  "word": "文学",
+  "reading": "ぶんがく",
+  "definition": "文学 — 文学",
+  "seq": 565
+ },
+ {
+  "word": "文法",
+  "reading": "ぶんぽー",
+  "definition": "文法 — 语法",
+  "seq": 566
+ },
+ {
+  "word": "別",
+  "reading": "べつ",
+  "definition": "別 — 不同；另外",
+  "seq": 567
+ },
+ {
+  "word": "ベル",
+  "reading": "ベル",
+  "definition": "ベル — 铃；铃声",
+  "seq": 568
+ },
+ {
+  "word": "変",
+  "reading": "へん",
+  "definition": "変 — 奇怪；异常",
+  "seq": 569
+ },
+ {
+  "word": "返事",
+  "reading": "へんじ",
+  "definition": "返事 — 回复；答复",
+  "seq": 570
+ },
+ {
+  "word": "貿易",
+  "reading": "ぼーえき",
+  "definition": "貿易 — 贸易；商业",
+  "seq": 571
+ },
+ {
+  "word": "法律",
+  "reading": "ほーりつ",
+  "definition": "法律 — 法律；法规",
+  "seq": 572
+ },
+ {
+  "word": "星",
+  "reading": "ほし",
+  "definition": "星 — 星星；星级",
+  "seq": 573
+ },
+ {
+  "word": "ほど",
+  "reading": "ほど",
+  "definition": "ほど — 程度；范围",
+  "seq": 574
+ },
+ {
+  "word": "翻訳",
+  "reading": "ほんやく",
+  "definition": "翻訳 — 翻译",
+  "seq": 575
+ },
+ {
+  "word": "参る",
+  "reading": "まいる",
+  "definition": "参る — 去；来",
+  "seq": 576
+ },
+ {
+  "word": "負ける",
+  "reading": "まける",
+  "definition": "負ける — 输；失败",
+  "seq": 577
+ },
+ {
+  "word": "間違える",
+  "reading": "まちがえる",
+  "definition": "間違える — 弄错；搞错",
+  "seq": 578
+ },
+ {
+  "word": "間に合う",
+  "reading": "まにあう",
+  "definition": "間に合う — 来得及；够用",
+  "seq": 579
+ },
+ {
+  "word": "回る",
+  "reading": "まわる",
+  "definition": "回る — 转动；循环",
+  "seq": 580
+ },
+ {
+  "word": "漫画",
+  "reading": "まんが",
+  "definition": "漫画 — 漫画；卡通",
+  "seq": 581
+ },
+ {
+  "word": "見える",
+  "reading": "みえる",
+  "definition": "見える — 看见；可见",
+  "seq": 582
+ },
+ {
+  "word": "湖",
+  "reading": "みずうみ",
+  "definition": "湖 — 湖泊",
+  "seq": 583
+ },
+ {
+  "word": "味噌",
+  "reading": "みそ",
+  "definition": "味噌 — 味噌酱",
+  "seq": 584
+ },
+ {
+  "word": "港",
+  "reading": "みなと",
+  "definition": "港 — 港口；港湾",
+  "seq": 585
+ },
+ {
+  "word": "向かう",
+  "reading": "むかう",
+  "definition": "向かう — 面向；朝向",
+  "seq": 586
+ },
+ {
+  "word": "迎える",
+  "reading": "むかえる",
+  "definition": "迎える — 接收；迎接",
+  "seq": 587
+ },
+ {
+  "word": "昔",
+  "reading": "むかし",
+  "definition": "昔 — 从前；以前",
+  "seq": 588
+ },
+ {
+  "word": "虫",
+  "reading": "むし",
+  "definition": "虫 — 虫子；昆虫",
+  "seq": 589
+ },
+ {
+  "word": "息子",
+  "reading": "むすこ",
+  "definition": "息子 — 儿子",
+  "seq": 590
+ },
+ {
+  "word": "娘",
+  "reading": "むすめ",
+  "definition": "娘 — 女儿；姑娘",
+  "seq": 591
+ },
+ {
+  "word": "無理",
+  "reading": "むり",
+  "definition": "無理 — 无理；不可能",
+  "seq": 592
+ },
+ {
+  "word": "召し上がる",
+  "reading": "めしあがる",
+  "definition": "召し上がる — 吃；用餐",
+  "seq": 593
+ },
+ {
+  "word": "珍しい",
+  "reading": "めずらしい",
+  "definition": "珍しい — 稀有；少见",
+  "seq": 594
+ },
+ {
+  "word": "申し上げる",
+  "reading": "もーしあげる",
+  "definition": "申し上げる — 说；陈述",
+  "seq": 595
+ },
+ {
+  "word": "申す",
+  "reading": "もーす",
+  "definition": "申す — 说；称",
+  "seq": 596
+ },
+ {
+  "word": "もし",
+  "reading": "もし",
+  "definition": "もし — 如果；假如",
+  "seq": 597
+ },
+ {
+  "word": "戻る",
+  "reading": "もどる",
+  "definition": "戻る — 返回；回去",
+  "seq": 598
+ },
+ {
+  "word": "もらう",
+  "reading": "もらう",
+  "definition": "もらう — 收到；得到",
+  "seq": 599
+ },
+ {
+  "word": "森",
+  "reading": "もり",
+  "definition": "森 — 森林；树林",
+  "seq": 600
+ },
+ {
+  "word": "焼く",
+  "reading": "やく",
+  "definition": "烧烤，烘烤",
+  "seq": 601
+ },
+ {
+  "word": "約束",
+  "reading": "やくそく",
+  "definition": "约定，约会",
+  "seq": 602
+ },
+ {
+  "word": "役に立つ",
+  "reading": "やくに・たつ",
+  "definition": "有用，帮助",
+  "seq": 603
+ },
+ {
+  "word": "焼ける",
+  "reading": "やける",
+  "definition": "被烧熟",
+  "seq": 604
+ },
+ {
+  "word": "優しい",
+  "reading": "やさしい",
+  "definition": "温柔的",
+  "seq": 605
+ },
+ {
+  "word": "痩せる",
+  "reading": "やせる",
+  "definition": "变瘦",
+  "seq": 606
+ },
+ {
+  "word": "やっと",
+  "reading": "やっと",
+  "definition": "终于，勉强",
+  "seq": 607
+ },
+ {
+  "word": "止む",
+  "reading": "やむ",
+  "definition": "停止",
+  "seq": 608
+ },
+ {
+  "word": "柔らかい",
+  "reading": "やわらかい",
+  "definition": "柔软的",
+  "seq": 609
+ },
+ {
+  "word": "湯",
+  "reading": "ゆ",
+  "definition": "热水，洗澡水",
+  "seq": 610
+ },
+ {
+  "word": "指",
+  "reading": "ゆび",
+  "definition": "手指，脚趾",
+  "seq": 611
+ },
+ {
+  "word": "指輪",
+  "reading": "ゆびわ",
+  "definition": "戒指",
+  "seq": 612
+ },
+ {
+  "word": "夢",
+  "reading": "ゆめ",
+  "definition": "梦想",
+  "seq": 613
+ },
+ {
+  "word": "揺れる",
+  "reading": "ゆれる",
+  "definition": "摇摆",
+  "seq": 614
+ },
+ {
+  "word": "用",
+  "reading": "よー",
+  "definition": "用途，事情",
+  "seq": 615
+ },
+ {
+  "word": "用意",
+  "reading": "よーい",
+  "definition": "准备",
+  "seq": 616
+ },
+ {
+  "word": "用事",
+  "reading": "よーじ",
+  "definition": "事情，差事",
+  "seq": 617
+ },
+ {
+  "word": "予習",
+  "reading": "よしゅう",
+  "definition": "预习",
+  "seq": 618
+ },
+ {
+  "word": "予定",
+  "reading": "よてー",
+  "definition": "计划，安排",
+  "seq": 619
+ },
+ {
+  "word": "予約",
+  "reading": "よやく",
+  "definition": "预约，预订",
+  "seq": 620
+ },
+ {
+  "word": "寄る",
+  "reading": "よる",
+  "definition": "靠近，顺便去",
+  "seq": 621
+ },
+ {
+  "word": "喜ぶ",
+  "reading": "よろこぶ",
+  "definition": "高兴，欣喜",
+  "seq": 622
+ },
+ {
+  "word": "理由",
+  "reading": "りゆう",
+  "definition": "理由，原因",
+  "seq": 623
+ },
+ {
+  "word": "利用",
+  "reading": "りよー",
+  "definition": "利用",
+  "seq": 624
+ },
+ {
+  "word": "両方",
+  "reading": "りょーほー",
+  "definition": "两者. 日式旅馆",
+  "seq": 625
+ },
+ {
+  "word": "旅館",
+  "reading": "りょかん",
+  "definition": "a traditional Japanese inn",
+  "seq": 626
+ },
+ {
+  "word": "留守",
+  "reading": "るす",
+  "definition": "不在，外出",
+  "seq": 627
+ },
+ {
+  "word": "冷房",
+  "reading": "れーぼー",
+  "definition": "空调制冷",
+  "seq": 628
+ },
+ {
+  "word": "歴史",
+  "reading": "れきし",
+  "definition": "历史",
+  "seq": 629
+ },
+ {
+  "word": "レジ",
+  "reading": "レジ",
+  "definition": "收银机",
+  "seq": 630
+ },
+ {
+  "word": "連絡",
+  "reading": "れんらく",
+  "definition": "联系",
+  "seq": 631
+ },
+ {
+  "word": "ワープロ",
+  "reading": "ワープロ",
+  "definition": "文字处理机",
+  "seq": 632
+ },
+ {
+  "word": "別れる",
+  "reading": "わかれる",
+  "definition": "分离，分手",
+  "seq": 633
+ },
+ {
+  "word": "忘れ物",
+  "reading": "わすれもの",
+  "definition": "忘带的东西",
+  "seq": 634
+ },
+ {
+  "word": "笑う",
+  "reading": "わらう",
+  "definition": "笑",
+  "seq": 635
+ },
+ {
+  "word": "割合",
+  "reading": "わりあい",
+  "definition": "比例",
+  "seq": 636
+ },
+ {
+  "word": "割れる",
+  "reading": "われる",
+  "definition": "破裂，分开",
+  "seq": 637
+ },
+ {
+  "word": "泳ぎ方",
+  "reading": "およぎかた",
+  "definition": "manner of swimming",
+  "seq": 638
+ },
+ {
+  "word": "会う",
+  "reading": "あう",
+  "definition": "to meet with, see, meet again or for the first time; to come across, meet by accident, bump into",
+  "seq": 639
+ },
+ {
+  "word": "青",
+  "reading": "あお",
+  "definition": "蓝色",
+  "seq": 640
+ },
+ {
+  "word": "青い",
+  "reading": "あおい",
+  "definition": "蓝色的",
+  "seq": 641
+ },
+ {
+  "word": "赤",
+  "reading": "あか",
+  "definition": "红色",
+  "seq": 642
+ },
+ {
+  "word": "赤い",
+  "reading": "あかい",
+  "definition": "红色的",
+  "seq": 643
+ },
+ {
+  "word": "秋",
+  "reading": "あき",
+  "definition": "秋天",
+  "seq": 644
+ },
+ {
+  "word": "開ける",
+  "reading": "あける",
+  "definition": "打开",
+  "seq": 645
+ },
+ {
+  "word": "上げる",
+  "reading": "あげる",
+  "definition": "举起，提高",
+  "seq": 646
+ },
+ {
+  "word": "朝",
+  "reading": "あさ",
+  "definition": "早晨",
+  "seq": 647
+ },
+ {
+  "word": "足",
+  "reading": "あし",
+  "definition": "脚",
+  "seq": 648
+ },
+ {
+  "word": "あそこ",
+  "reading": "あそこ",
+  "definition": "那边",
+  "seq": 649
+ },
+ {
+  "word": "遊ぶ",
+  "reading": "あそぶ",
+  "definition": "玩耍，游玩",
+  "seq": 650
+ },
+ {
+  "word": "頭",
+  "reading": "あたま",
+  "definition": "头部；头盖骨前囟部分",
+  "seq": 651
+ },
+ {
+  "word": "新しい",
+  "reading": "あたらしい",
+  "definition": "新的；最新的，最近的",
+  "seq": 652
+ },
+ {
+  "word": "あちら",
+  "reading": "あちら",
+  "definition": "那边；远处那个人",
+  "seq": 653
+ },
+ {
+  "word": "暑い",
+  "reading": "あつい",
+  "definition": "天气炎热",
+  "seq": 654
+ },
+ {
+  "word": "熱い",
+  "reading": "あつい",
+  "definition": "物体热；发热，发烧",
+  "seq": 655
+ },
+ {
+  "word": "あっち",
+  "reading": "",
+  "definition": "我（第一人称代词）",
+  "seq": 656
+ },
+ {
+  "word": "あなた",
+  "reading": "あなた",
+  "definition": "你（第二人称代词）",
+  "seq": 657
+ },
+ {
+  "word": "兄",
+  "reading": "あに",
+  "definition": "哥哥；姐夫",
+  "seq": 658
+ },
+ {
+  "word": "姉",
+  "reading": "あね",
+  "definition": "姐姐",
+  "seq": 659
+ },
+ {
+  "word": "あの",
+  "reading": "あの",
+  "definition": "那个（远指）；双方都知道的那个",
+  "seq": 660
+ },
+ {
+  "word": "アパート",
+  "reading": "",
+  "definition": "公寓",
+  "seq": 661
+ },
+ {
+  "word": "危ない",
+  "reading": "あぶない",
+  "definition": "危险；不确定，不可靠",
+  "seq": 662
+ },
+ {
+  "word": "雨",
+  "reading": "あめ",
+  "definition": "雨；下雨天气",
+  "seq": 663
+ },
+ {
+  "word": "飴",
+  "reading": "あめ",
+  "definition": "糖果",
+  "seq": 664
+ },
+ {
+  "word": "洗う",
+  "reading": "あらう",
+  "definition": "洗涤",
+  "seq": 665
+ },
+ {
+  "word": "ある",
+  "reading": "ある",
+  "definition": "存在；拥有",
+  "seq": 666
+ },
+ {
+  "word": "歩く",
+  "reading": "あるく",
+  "definition": "走路；到处走动",
+  "seq": 667
+ },
+ {
+  "word": "あれ",
+  "reading": "あれ",
+  "definition": "那个（远指）",
+  "seq": 668
+ },
+ {
+  "word": "いいえ",
+  "reading": "いいえ",
+  "definition": "不是；同意否定问句",
+  "seq": 669
+ },
+ {
+  "word": "家",
+  "reading": "いえ",
+  "definition": "房子；自己的家",
+  "seq": 670
+ },
+ {
+  "word": "行く",
+  "reading": "いく",
+  "definition": "去；来某处",
+  "seq": 671
+ },
+ {
+  "word": "いくら",
+  "reading": "いくら",
+  "definition": "多少；无论多少",
+  "seq": 672
+ },
+ {
+  "word": "池",
+  "reading": "いけ",
+  "definition": "池塘；小水池",
+  "seq": 673
+ },
+ {
+  "word": "医者",
+  "reading": "いしゃ",
+  "definition": "医生",
+  "seq": 674
+ },
+ {
+  "word": "忙しい",
+  "reading": "いそがしい",
+  "definition": "忙碌；不安定",
+  "seq": 675
+ },
+ {
+  "word": "痛い",
+  "reading": "いたい",
+  "definition": "疼痛；尴尬，令人不适",
+  "seq": 676
+ },
+ {
+  "word": "一",
+  "reading": "いち",
+  "definition": "一，1",
+  "seq": 677
+ },
+ {
+  "word": "いつ",
+  "reading": "いつ",
+  "definition": "什么时候",
+  "seq": 678
+ },
+ {
+  "word": "五日",
+  "reading": "いつか",
+  "definition": "五日；五天",
+  "seq": 679
+ },
+ {
+  "word": "一緒",
+  "reading": "いっしょ",
+  "definition": "一起；相同",
+  "seq": 680
+ },
+ {
+  "word": "五つ",
+  "reading": "いつつ",
+  "definition": "五个东西",
+  "seq": 681
+ },
+ {
+  "word": "犬",
+  "reading": "いぬ",
+  "definition": "狗；忠诚的人",
+  "seq": 682
+ },
+ {
+  "word": "今",
+  "reading": "いま",
+  "definition": "现在；刚才",
+  "seq": 683
+ },
+ {
+  "word": "意味",
+  "reading": "いみ",
+  "definition": "意思；意义",
+  "seq": 684
+ },
+ {
+  "word": "妹",
+  "reading": "いも",
+  "definition": "妹妹；亲密女性朋友",
+  "seq": 685
+ },
+ {
+  "word": "要る",
+  "reading": "いる",
+  "definition": "需要，必要",
+  "seq": 686
+ },
+ {
+  "word": "入れる",
+  "reading": "いれる",
+  "definition": "放入；接纳",
+  "seq": 687
+ },
+ {
+  "word": "色",
+  "reading": "いろ",
+  "definition": "颜色；气氛",
+  "seq": 688
+ },
+ {
+  "word": "後ろ",
+  "reading": "うしろ",
+  "definition": "后面；背部",
+  "seq": 689
+ },
+ {
+  "word": "薄い",
+  "reading": "うすい",
+  "definition": "薄；稀薄",
+  "seq": 690
+ },
+ {
+  "word": "歌",
+  "reading": "うた",
+  "definition": "歌曲；诗歌",
+  "seq": 691
+ },
+ {
+  "word": "生まれる",
+  "reading": "うまれる",
+  "definition": "出生；产生",
+  "seq": 692
+ },
+ {
+  "word": "海",
+  "reading": "うみ",
+  "definition": "海洋；湖",
+  "seq": 693
+ },
+ {
+  "word": "売る",
+  "reading": "うる",
+  "definition": "卖；背叛",
+  "seq": 694
+ },
+ {
+  "word": "上着",
+  "reading": "うわぎ",
+  "definition": "外套；上衣",
+  "seq": 695
+ },
+ {
+  "word": "絵",
+  "reading": "え",
+  "definition": "图画；绘画",
+  "seq": 696
+ },
+ {
+  "word": "映画",
+  "reading": "えーが",
+  "definition": "电影；影片",
+  "seq": 697
+ },
+ {
+  "word": "映画館",
+  "reading": "えーがかん",
+  "definition": "电影院",
+  "seq": 698
+ },
+ {
+  "word": "英語",
+  "reading": "えーご",
+  "definition": "英语",
+  "seq": 699
+ },
+ {
+  "word": "ええ",
+  "reading": "ええ",
+  "definition": "是的；哦（惊讶）",
+  "seq": 700
+ },
+ {
+  "word": "駅",
+  "reading": "えき",
+  "definition": "车站；驿站",
+  "seq": 701
+ },
+ {
+  "word": "エレベーター",
+  "reading": "エレベーター",
+  "definition": "电梯",
+  "seq": 702
+ },
+ {
+  "word": "鉛筆",
+  "reading": "えんぴつ",
+  "definition": "铅笔",
+  "seq": 703
+ },
+ {
+  "word": "多い",
+  "reading": "おおい",
+  "definition": "很多；大量",
+  "seq": 704
+ },
+ {
+  "word": "大きい",
+  "reading": "おおきい",
+  "definition": "大的；巨大的",
+  "seq": 705
+ },
+ {
+  "word": "大勢",
+  "reading": "おおぜー",
+  "definition": "众人；群众",
+  "seq": 706
+ },
+ {
+  "word": "お母さん",
+  "reading": "おかあさん",
+  "definition": "妈妈",
+  "seq": 707
+ },
+ {
+  "word": "お金",
+  "reading": "おかね",
+  "definition": "钱",
+  "seq": 708
+ },
+ {
+  "word": "起きる",
+  "reading": "おきる",
+  "definition": "起床；醒来",
+  "seq": 709
+ },
+ {
+  "word": "置く",
+  "reading": "おく",
+  "definition": "放置；放下",
+  "seq": 710
+ },
+ {
+  "word": "奥さん",
+  "reading": "おくさん",
+  "definition": "夫人；妻子",
+  "seq": 711
+ },
+ {
+  "word": "お酒",
+  "reading": "おさけ",
+  "definition": "酒",
+  "seq": 712
+ },
+ {
+  "word": "伯父",
+  "reading": "おじ",
+  "definition": "伯父",
+  "seq": 713
+ },
+ {
+  "word": "叔父",
+  "reading": "おじ",
+  "definition": "叔叔",
+  "seq": 714
+ },
+ {
+  "word": "教える",
+  "reading": "おしえる",
+  "definition": "教授；告诉",
+  "seq": 715
+ },
+ {
+  "word": "押す",
+  "reading": "おす",
+  "definition": "推；按压",
+  "seq": 716
+ },
+ {
+  "word": "お茶",
+  "reading": "おちゃ",
+  "definition": "茶",
+  "seq": 717
+ },
+ {
+  "word": "お手洗い",
+  "reading": "おてあらい",
+  "definition": "洗手间",
+  "seq": 718
+ },
+ {
+  "word": "お父さん",
+  "reading": "おとーさん",
+  "definition": "爸爸",
+  "seq": 719
+ },
+ {
+  "word": "男",
+  "reading": "おとこ",
+  "definition": "男人",
+  "seq": 720
+ },
+ {
+  "word": "男の子",
+  "reading": "おとこのこ",
+  "definition": "男孩",
+  "seq": 721
+ },
+ {
+  "word": "大人",
+  "reading": "おとな",
+  "definition": "成年人",
+  "seq": 722
+ },
+ {
+  "word": "同じ",
+  "reading": "おなじ",
+  "definition": "相同；一样",
+  "seq": 723
+ },
+ {
+  "word": "お兄さん",
+  "reading": "おにいさん",
+  "definition": "哥哥",
+  "seq": 724
+ },
+ {
+  "word": "お姉さん",
+  "reading": "おねえさん",
+  "definition": "姐姐",
+  "seq": 725
+ },
+ {
+  "word": "お風呂",
+  "reading": "おふろ",
+  "definition": "浴室；澡堂",
+  "seq": 726
+ },
+ {
+  "word": "お弁当",
+  "reading": "おべんとー",
+  "definition": "盒饭",
+  "seq": 727
+ },
+ {
+  "word": "覚える",
+  "reading": "おぼえる",
+  "definition": "记住；学习",
+  "seq": 728
+ },
+ {
+  "word": "おまわりさん",
+  "reading": "お-まわり-さん",
+  "definition": "警察",
+  "seq": 729
+ },
+ {
+  "word": "重い",
+  "reading": "おもい",
+  "definition": "重的；沉重的",
+  "seq": 730
+ },
+ {
+  "word": "泳ぐ",
+  "reading": "およぐ",
+  "definition": "游泳",
+  "seq": 731
+ },
+ {
+  "word": "降りる",
+  "reading": "おりる",
+  "definition": "下车；下来",
+  "seq": 732
+ },
+ {
+  "word": "音楽",
+  "reading": "おんがく",
+  "definition": "音乐",
+  "seq": 733
+ },
+ {
+  "word": "女",
+  "reading": "おんな",
+  "definition": "女人",
+  "seq": 734
+ },
+ {
+  "word": "女の子",
+  "reading": "おんなのこ",
+  "definition": "女孩",
+  "seq": 735
+ },
+ {
+  "word": "外国",
+  "reading": "がいこく",
+  "definition": "外国",
+  "seq": 736
+ },
+ {
+  "word": "外国人",
+  "reading": "がいこくじん",
+  "definition": "外国人",
+  "seq": 737
+ },
+ {
+  "word": "会社",
+  "reading": "かいしゃ",
+  "definition": "公司",
+  "seq": 738
+ },
+ {
+  "word": "階段",
+  "reading": "かいだん",
+  "definition": "楼梯",
+  "seq": 739
+ },
+ {
+  "word": "買い物",
+  "reading": "かいもの",
+  "definition": "购物",
+  "seq": 740
+ },
+ {
+  "word": "買う",
+  "reading": "かう",
+  "definition": "买",
+  "seq": 741
+ },
+ {
+  "word": "返す",
+  "reading": "かえす",
+  "definition": "归还",
+  "seq": 742
+ },
+ {
+  "word": "帰る",
+  "reading": "かえる",
+  "definition": "回家；返回",
+  "seq": 743
+ },
+ {
+  "word": "書く",
+  "reading": "かく",
+  "definition": "写",
+  "seq": 744
+ },
+ {
+  "word": "学生",
+  "reading": "がくせー",
+  "definition": "学生",
+  "seq": 745
+ },
+ {
+  "word": "傘",
+  "reading": "かさ",
+  "definition": "伞",
+  "seq": 746
+ },
+ {
+  "word": "貸す",
+  "reading": "かす",
+  "definition": "出借",
+  "seq": 747
+ },
+ {
+  "word": "風",
+  "reading": "かぜ",
+  "definition": "风",
+  "seq": 748
+ },
+ {
+  "word": "風邪",
+  "reading": "かぜ",
+  "definition": "感冒",
+  "seq": 749
+ },
+ {
+  "word": "家族",
+  "reading": "かぞく",
+  "definition": "家庭；家人",
+  "seq": 750
+ },
+ {
+  "word": "学校",
+  "reading": "がっこー",
+  "definition": "学校 — 学习场所",
+  "seq": 751
+ },
+ {
+  "word": "カップ",
+  "reading": "カップ",
+  "definition": "カップ — 带柄杯子；奖杯",
+  "seq": 752
+ },
+ {
+  "word": "家庭",
+  "reading": "かてー",
+  "definition": "家庭 — 家人；住户",
+  "seq": 753
+ },
+ {
+  "word": "花瓶",
+  "reading": "かびん",
+  "definition": "花瓶 — 插花用瓶子",
+  "seq": 754
+ },
+ {
+  "word": "紙",
+  "reading": "かみ",
+  "definition": "紙 — 书写用纸张",
+  "seq": 755
+ },
+ {
+  "word": "カメラ",
+  "reading": "カメラ",
+  "definition": "カメラ — 拍照录像设备",
+  "seq": 756
+ },
+ {
+  "word": "火曜日",
+  "reading": "かよーび",
+  "definition": "火曜日 — 星期二",
+  "seq": 757
+ },
+ {
+  "word": "借りる",
+  "reading": "かりる",
+  "definition": "借りる — 借用；租用",
+  "seq": 758
+ },
+ {
+  "word": "軽い",
+  "reading": "かるい",
+  "definition": "軽い — 分量轻；轻微",
+  "seq": 759
+ },
+ {
+  "word": "カレー",
+  "reading": "カレー",
+  "definition": "カレー — 咖喱菜肴",
+  "seq": 760
+ },
+ {
+  "word": "カレンダー",
+  "reading": "カレンダー",
+  "definition": "カレンダー — 记载日期本册",
+  "seq": 761
+ },
+ {
+  "word": "漢字",
+  "reading": "かんじ",
+  "definition": "漢字 — 中国汉字",
+  "seq": 762
+ },
+ {
+  "word": "木",
+  "reading": "き",
+  "definition": "木 — 树木；木材",
+  "seq": 763
+ },
+ {
+  "word": "黄色い",
+  "reading": "きいろい",
+  "definition": "黄色い — 像柠檬颜色",
+  "seq": 764
+ },
+ {
+  "word": "消える",
+  "reading": "きえる",
+  "definition": "消える — 消失不见；熄灭",
+  "seq": 765
+ },
+ {
+  "word": "聞く",
+  "reading": "きく",
+  "definition": "聞く — 听取；听话",
+  "seq": 766
+ },
+ {
+  "word": "北",
+  "reading": "きた",
+  "definition": "北 — 地图上方方位",
+  "seq": 767
+ },
+ {
+  "word": "ギター",
+  "reading": "ギター",
+  "definition": "ギター — 弹奏弦乐器",
+  "seq": 768
+ },
+ {
+  "word": "汚い",
+  "reading": "きたない",
+  "definition": "汚い — 不干净；乱糟糟",
+  "seq": 769
+ },
+ {
+  "word": "喫茶店",
+  "reading": "きっさてん",
+  "definition": "喫茶店 — 喝茶休憩处",
+  "seq": 770
+ },
+ {
+  "word": "切手",
+  "reading": "きって",
+  "definition": "切手 — 寄信贴邮票",
+  "seq": 771
+ },
+ {
+  "word": "切符",
+  "reading": "きっぷ",
+  "definition": "切符 — 乘车凭证",
+  "seq": 772
+ },
+ {
+  "word": "昨日",
+  "reading": "きのー",
+  "definition": "昨日 — 过去那一天",
+  "seq": 773
+ },
+ {
+  "word": "牛肉",
+  "reading": "ぎゅうにく",
+  "definition": "牛肉 — 黄牛身上的肉",
+  "seq": 774
+ },
+ {
+  "word": "牛乳",
+  "reading": "ぎゅうにゅう",
+  "definition": "牛乳 — 乳牛挤出奶",
+  "seq": 775
+ },
+ {
+  "word": "教室",
+  "reading": "きょーしつ",
+  "definition": "教室 — 上课专用房间",
+  "seq": 776
+ },
+ {
+  "word": "兄弟",
+  "reading": "きょーだい",
+  "definition": "兄弟 — 手足同胞",
+  "seq": 777
+ },
+ {
+  "word": "去年",
+  "reading": "きょねん",
+  "definition": "去年 — 过去那一年",
+  "seq": 778
+ },
+ {
+  "word": "嫌い",
+  "reading": "きらい",
+  "definition": "嫌い — 讨厌；不喜欢",
+  "seq": 779
+ },
+ {
+  "word": "切る",
+  "reading": "きる",
+  "definition": "切る — 断开；砍伐",
+  "seq": 780
+ },
+ {
+  "word": "着る",
+  "reading": "きる",
+  "definition": "着る — 穿戴衣物",
+  "seq": 781
+ },
+ {
+  "word": "キログラム",
+  "reading": "キログラム",
+  "definition": "キログラム — 千克重量单位",
+  "seq": 782
+ },
+ {
+  "word": "キロメートル",
+  "reading": "キロメートル",
+  "definition": "キロメートル — 千米长度单位",
+  "seq": 783
+ },
+ {
+  "word": "銀行",
+  "reading": "ぎんこー",
+  "definition": "銀行 — 金融存贷机构",
+  "seq": 784
+ },
+ {
+  "word": "金曜日",
+  "reading": "きんよーび",
+  "definition": "金曜日 — 星期五",
+  "seq": 785
+ },
+ {
+  "word": "薬",
+  "reading": "くすり",
+  "definition": "薬 — 治病化学物质",
+  "seq": 786
+ },
+ {
+  "word": "果物",
+  "reading": "くだもの",
+  "definition": "果物 — 树上结的果实",
+  "seq": 787
+ },
+ {
+  "word": "口",
+  "reading": "く",
+  "definition": "口 — 说话进食器官",
+  "seq": 788
+ },
+ {
+  "word": "靴",
+  "reading": "くつ",
+  "definition": "靴 — 穿在脚上的鞋",
+  "seq": 789
+ },
+ {
+  "word": "靴下",
+  "reading": "くつした",
+  "definition": "靴下 — 脚部贴身衣物",
+  "seq": 790
+ },
+ {
+  "word": "国",
+  "reading": "くに",
+  "definition": "国 — 政治管辖区域",
+  "seq": 791
+ },
+ {
+  "word": "曇り",
+  "reading": "くもり",
+  "definition": "曇り — 天空阴暗状态",
+  "seq": 792
+ },
+ {
+  "word": "曇る",
+  "reading": "くもる",
+  "definition": "曇る — 天气变���沉",
+  "seq": 793
+ },
+ {
+  "word": "クラス",
+  "reading": "クラス",
+  "definition": "クラス — 学生上课群体",
+  "seq": 794
+ },
+ {
+  "word": "グラム",
+  "reading": "グラム",
+  "definition": "グラム — 克重量单位",
+  "seq": 795
+ },
+ {
+  "word": "車",
+  "reading": "しゃ",
+  "definition": "車 — 计算车辆数量",
+  "seq": 796
+ },
+ {
+  "word": "黒",
+  "reading": "くろ",
+  "definition": "黒 — 像墨水颜色",
+  "seq": 797
+ },
+ {
+  "word": "黒い",
+  "reading": "くろい",
+  "definition": "黒い — 颜色深暗",
+  "seq": 798
+ },
+ {
+  "word": "警官",
+  "reading": "けーかん",
+  "definition": "警官 — 维护治安人员",
+  "seq": 799
+ },
+ {
+  "word": "今朝",
+  "reading": "けさ",
+  "definition": "今朝 — 今天早上",
+  "seq": 800
+ },
+ {
+  "word": "消す",
+  "reading": "けす",
+  "definition": "消灭；熄灭；关闭",
+  "seq": 801
+ },
+ {
+  "word": "結構",
+  "reading": "けっこー",
+  "definition": "结构；构造；组成",
+  "seq": 802
+ },
+ {
+  "word": "結婚",
+  "reading": "けっこん",
+  "definition": "结婚",
+  "seq": 803
+ },
+ {
+  "word": "月曜日",
+  "reading": "げつよーび",
+  "definition": "星期一",
+  "seq": 804
+ },
+ {
+  "word": "玄関",
+  "reading": "げんかん",
+  "definition": "禅寺入口；禅门",
+  "seq": 805
+ },
+ {
+  "word": "元気",
+  "reading": "げんき",
+  "definition": "健康；精神",
+  "seq": 806
+ },
+ {
+  "word": "五",
+  "reading": "いつ",
+  "definition": "五",
+  "seq": 807
+ },
+ {
+  "word": "公園",
+  "reading": "こーえん",
+  "definition": "公园",
+  "seq": 808
+ },
+ {
+  "word": "交差点",
+  "reading": "こーさてん",
+  "definition": "十字路口；交叉点",
+  "seq": 809
+ },
+ {
+  "word": "紅茶",
+  "reading": "こーちゃ",
+  "definition": "红茶",
+  "seq": 810
+ },
+ {
+  "word": "交番",
+  "reading": "こーばん",
+  "definition": "警察岗亭；轮流",
+  "seq": 811
+ },
+ {
+  "word": "声",
+  "reading": "こえ",
+  "definition": "声音；嗓音",
+  "seq": 812
+ },
+ {
+  "word": "コート",
+  "reading": "コート",
+  "definition": "外套；涂层",
+  "seq": 813
+ },
+ {
+  "word": "コーヒー",
+  "reading": "コーヒー",
+  "definition": "咖啡",
+  "seq": 814
+ },
+ {
+  "word": "午後",
+  "reading": "ごご",
+  "definition": "下午；午后",
+  "seq": 815
+ },
+ {
+  "word": "九日",
+  "reading": "ここのか",
+  "definition": "九号；九天",
+  "seq": 816
+ },
+ {
+  "word": "九つ",
+  "reading": "ここのつ",
+  "definition": "九个",
+  "seq": 817
+ },
+ {
+  "word": "午前",
+  "reading": "ごぜん",
+  "definition": "上午；早半天",
+  "seq": 818
+ },
+ {
+  "word": "答える",
+  "reading": "こたえる",
+  "definition": "回答；回应",
+  "seq": 819
+ },
+ {
+  "word": "こちら",
+  "reading": "こちら",
+  "definition": "这边；我方",
+  "seq": 820
+ },
+ {
+  "word": "こっち",
+  "reading": "こっち",
+  "definition": "这边；我方",
+  "seq": 821
+ },
+ {
+  "word": "コップ",
+  "reading": "コップ",
+  "definition": "杯子；玻璃杯",
+  "seq": 822
+ },
+ {
+  "word": "今年",
+  "reading": "ことし",
+  "definition": "今年",
+  "seq": 823
+ },
+ {
+  "word": "言葉",
+  "reading": "ことば",
+  "definition": "词语；语言",
+  "seq": 824
+ },
+ {
+  "word": "子供",
+  "reading": "こども",
+  "definition": "孩子",
+  "seq": 825
+ },
+ {
+  "word": "御飯",
+  "reading": "ごはん",
+  "definition": "米饭；餐食",
+  "seq": 826
+ },
+ {
+  "word": "困る",
+  "reading": "こまる",
+  "definition": "困扰；为难",
+  "seq": 827
+ },
+ {
+  "word": "これ",
+  "reading": "これ",
+  "definition": "这个",
+  "seq": 828
+ },
+ {
+  "word": "今月",
+  "reading": "こんげつ",
+  "definition": "本月",
+  "seq": 829
+ },
+ {
+  "word": "今週",
+  "reading": "こんしゅう",
+  "definition": "本周",
+  "seq": 830
+ },
+ {
+  "word": "こんな",
+  "reading": "",
+  "definition": "这样的",
+  "seq": 831
+ },
+ {
+  "word": "今晩",
+  "reading": "こんばん",
+  "definition": "今晚",
+  "seq": 832
+ },
+ {
+  "word": "さあ",
+  "reading": "さあ",
+  "definition": "来吧；那么",
+  "seq": 833
+ },
+ {
+  "word": "財布",
+  "reading": "さいふ",
+  "definition": "钱包",
+  "seq": 834
+ },
+ {
+  "word": "先",
+  "reading": "さき",
+  "definition": "先前；前端",
+  "seq": 835
+ },
+ {
+  "word": "咲く",
+  "reading": "さく",
+  "definition": "开花；绽放",
+  "seq": 836
+ },
+ {
+  "word": "作文",
+  "reading": "さくぶん",
+  "definition": "作文；文章",
+  "seq": 837
+ },
+ {
+  "word": "差す",
+  "reading": "さす",
+  "definition": "举起；撑起",
+  "seq": 838
+ },
+ {
+  "word": "雑誌",
+  "reading": "ざっし",
+  "definition": "杂志",
+  "seq": 839
+ },
+ {
+  "word": "砂糖",
+  "reading": "さとー",
+  "definition": "砂糖",
+  "seq": 840
+ },
+ {
+  "word": "寒い",
+  "reading": "さむい",
+  "definition": "寒冷",
+  "seq": 841
+ },
+ {
+  "word": "しかし",
+  "reading": "しかし",
+  "definition": "但是；然而",
+  "seq": 842
+ },
+ {
+  "word": "時間",
+  "reading": "じかん",
+  "definition": "时间；小时",
+  "seq": 843
+ },
+ {
+  "word": "仕事",
+  "reading": "しごと",
+  "definition": "工作；职业",
+  "seq": 844
+ },
+ {
+  "word": "辞書",
+  "reading": "じしょ",
+  "definition": "字典",
+  "seq": 845
+ },
+ {
+  "word": "静か",
+  "reading": "しずか",
+  "definition": "安静；宁静",
+  "seq": 846
+ },
+ {
+  "word": "質問",
+  "reading": "しつもん",
+  "definition": "问题",
+  "seq": 847
+ },
+ {
+  "word": "自転車",
+  "reading": "じてんしゃ",
+  "definition": "自行车",
+  "seq": 848
+ },
+ {
+  "word": "自動車",
+  "reading": "じどーしゃ",
+  "definition": "汽车",
+  "seq": 849
+ },
+ {
+  "word": "死ぬ",
+  "reading": "しぬ",
+  "definition": "死亡",
+  "seq": 850
+ },
+ {
+  "word": "字引",
+  "reading": "じびき",
+  "definition": "字典",
+  "seq": 851
+ },
+ {
+  "word": "自分",
+  "reading": "じぶん",
+  "definition": "自己，本人",
+  "seq": 852
+ },
+ {
+  "word": "閉まる",
+  "reading": "しまる",
+  "definition": "关闭，合上",
+  "seq": 853
+ },
+ {
+  "word": "閉める",
+  "reading": "しめる",
+  "definition": "关闭，合上",
+  "seq": 854
+ },
+ {
+  "word": "締める",
+  "reading": "しめる",
+  "definition": "扎紧，勒死",
+  "seq": 855
+ },
+ {
+  "word": "じゃ",
+  "reading": "",
+  "definition": "那么，就这样",
+  "seq": 856
+ },
+ {
+  "word": "写真",
+  "reading": "しゃしん",
+  "definition": "照片",
+  "seq": 857
+ },
+ {
+  "word": "シャツ",
+  "reading": "シャツ",
+  "definition": "衬衫",
+  "seq": 858
+ },
+ {
+  "word": "シャワー",
+  "reading": "シャワー",
+  "definition": "淋浴",
+  "seq": 859
+ },
+ {
+  "word": "授業",
+  "reading": "じゅぎょー",
+  "definition": "上课，教学",
+  "seq": 860
+ },
+ {
+  "word": "宿題",
+  "reading": "しゅくだい",
+  "definition": "家庭作业",
+  "seq": 861
+ },
+ {
+  "word": "食堂",
+  "reading": "しょくどー",
+  "definition": "食堂，餐厅",
+  "seq": 862
+ },
+ {
+  "word": "知る",
+  "reading": "しる",
+  "definition": "知道，了解",
+  "seq": 863
+ },
+ {
+  "word": "白",
+  "reading": "しろ",
+  "definition": "白色，纯洁",
+  "seq": 864
+ },
+ {
+  "word": "白い",
+  "reading": "しろい",
+  "definition": "白色的",
+  "seq": 865
+ },
+ {
+  "word": "新聞",
+  "reading": "しんぶん",
+  "definition": "报纸",
+  "seq": 866
+ },
+ {
+  "word": "水曜日",
+  "reading": "すいよーび",
+  "definition": "星期三",
+  "seq": 867
+ },
+ {
+  "word": "吸う",
+  "reading": "すう",
+  "definition": "吸入，吸烟",
+  "seq": 868
+ },
+ {
+  "word": "スカート",
+  "reading": "スカート",
+  "definition": "裙子",
+  "seq": 869
+ },
+ {
+  "word": "好き",
+  "reading": "すき",
+  "definition": "喜欢的",
+  "seq": 870
+ },
+ {
+  "word": "少ない",
+  "reading": "すくない",
+  "definition": "少量的",
+  "seq": 871
+ },
+ {
+  "word": "少し",
+  "reading": "すこし",
+  "definition": "一点，稍微",
+  "seq": 872
+ },
+ {
+  "word": "涼しい",
+  "reading": "すずしい",
+  "definition": "凉爽的",
+  "seq": 873
+ },
+ {
+  "word": "ストーブ",
+  "reading": "ストーブ",
+  "definition": "火炉，暖气",
+  "seq": 874
+ },
+ {
+  "word": "スプーン",
+  "reading": "スプーン",
+  "definition": "匙，勺子",
+  "seq": 875
+ },
+ {
+  "word": "スポーツ",
+  "reading": "スポーツ",
+  "definition": "运动",
+  "seq": 876
+ },
+ {
+  "word": "ズボン",
+  "reading": "ズボン",
+  "definition": "裤子",
+  "seq": 877
+ },
+ {
+  "word": "住む",
+  "reading": "すむ",
+  "definition": "居住，生活",
+  "seq": 878
+ },
+ {
+  "word": "スリッパ",
+  "reading": "スリッパ",
+  "definition": "拖鞋",
+  "seq": 879
+ },
+ {
+  "word": "する",
+  "reading": "する",
+  "definition": "做，进行",
+  "seq": 880
+ },
+ {
+  "word": "座る",
+  "reading": "すわる",
+  "definition": "坐下",
+  "seq": 881
+ },
+ {
+  "word": "生徒",
+  "reading": "せーと",
+  "definition": "学生",
+  "seq": 882
+ },
+ {
+  "word": "セーター",
+  "reading": "セーター",
+  "definition": "毛衣",
+  "seq": 883
+ },
+ {
+  "word": "せっけん",
+  "reading": "",
+  "definition": "肥皂，征服",
+  "seq": 884
+ },
+ {
+  "word": "背広",
+  "reading": "せびろ",
+  "definition": "西装",
+  "seq": 885
+ },
+ {
+  "word": "狭い",
+  "reading": "せまい",
+  "definition": "窄的，小的",
+  "seq": 886
+ },
+ {
+  "word": "ゼロ",
+  "reading": "ゼロ",
+  "definition": "零，没有",
+  "seq": 887
+ },
+ {
+  "word": "千",
+  "reading": "せん",
+  "definition": "一千",
+  "seq": 888
+ },
+ {
+  "word": "先月",
+  "reading": "せんげつ",
+  "definition": "上个月",
+  "seq": 889
+ },
+ {
+  "word": "先週",
+  "reading": "せんしゅう",
+  "definition": "上周",
+  "seq": 890
+ },
+ {
+  "word": "先生",
+  "reading": "せんせー",
+  "definition": "an elder; a scholar",
+  "seq": 891
+ },
+ {
+  "word": "洗濯",
+  "reading": "せんたく",
+  "definition": "洗衣，洗涤",
+  "seq": 892
+ },
+ {
+  "word": "全部",
+  "reading": "ぜんぶ",
+  "definition": "全部，所有",
+  "seq": 893
+ },
+ {
+  "word": "そちら",
+  "reading": "そちら",
+  "definition": "那边，您",
+  "seq": 894
+ },
+ {
+  "word": "それから",
+  "reading": "それから",
+  "definition": "然后，之后",
+  "seq": 895
+ },
+ {
+  "word": "それでは",
+  "reading": "それ で は",
+  "definition": "那么，如果这样",
+  "seq": 896
+ },
+ {
+  "word": "大学",
+  "reading": "だいがく",
+  "definition": "大学",
+  "seq": 897
+ },
+ {
+  "word": "大使館",
+  "reading": "たいしかん",
+  "definition": "大使馆",
+  "seq": 898
+ },
+ {
+  "word": "大丈夫",
+  "reading": "だいじょーぶ",
+  "definition": "没问题，可以",
+  "seq": 899
+ },
+ {
+  "word": "大切",
+  "reading": "たいせつ",
+  "definition": "重要的，珍贵的",
+  "seq": 900
+ },
+ {
+  "word": "大好き",
+  "reading": "だいすき",
+  "definition": "非常喜欢；最爱的",
+  "seq": 901
+ },
+ {
+  "word": "台所",
+  "reading": "だいどころ",
+  "definition": "厨房",
+  "seq": 902
+ },
+ {
+  "word": "高い",
+  "reading": "たかい",
+  "definition": "高的；高的",
+  "seq": 903
+ },
+ {
+  "word": "出す",
+  "reading": "だす",
+  "definition": "拿出；取出",
+  "seq": 904
+ },
+ {
+  "word": "タクシー",
+  "reading": "タクシー",
+  "definition": "出租车",
+  "seq": 905
+ },
+ {
+  "word": "立つ",
+  "reading": "たつ",
+  "definition": "站立；出发",
+  "seq": 906
+ },
+ {
+  "word": "頼む",
+  "reading": "たのむ",
+  "definition": "请求；拜托",
+  "seq": 907
+ },
+ {
+  "word": "楽しい",
+  "reading": "たのしい",
+  "definition": "快乐的；有趣的",
+  "seq": 908
+ },
+ {
+  "word": "食べる",
+  "reading": "たべる",
+  "definition": "吃；吃饭",
+  "seq": 909
+ },
+ {
+  "word": "食べ物",
+  "reading": "たべもの",
+  "definition": "食物；食品",
+  "seq": 910
+ },
+ {
+  "word": "卵",
+  "reading": "たまご",
+  "definition": "鸡蛋；卵",
+  "seq": 911
+ },
+ {
+  "word": "誕生日",
+  "reading": "たんじょーび",
+  "definition": "生日",
+  "seq": 912
+ },
+ {
+  "word": "だんだん",
+  "reading": "",
+  "definition": "渐渐地；逐渐",
+  "seq": 913
+ },
+ {
+  "word": "小さい",
+  "reading": "ちいさい",
+  "definition": "小的；小的",
+  "seq": 914
+ },
+ {
+  "word": "近い",
+  "reading": "ちかい",
+  "definition": "近的；接近的",
+  "seq": 915
+ },
+ {
+  "word": "違う",
+  "reading": "ちがう",
+  "definition": "不同；不一样的",
+  "seq": 916
+ },
+ {
+  "word": "近く",
+  "reading": "ちかく",
+  "definition": "很快；不久",
+  "seq": 917
+ },
+ {
+  "word": "地下鉄",
+  "reading": "ちかてつ",
+  "definition": "地铁；地下铁路",
+  "seq": 918
+ },
+ {
+  "word": "地図",
+  "reading": "ちず",
+  "definition": "地图",
+  "seq": 919
+ },
+ {
+  "word": "茶色",
+  "reading": "ちゃいろ",
+  "definition": "褐色；棕色",
+  "seq": 920
+ },
+ {
+  "word": "ちょうど",
+  "reading": "ちょーど",
+  "definition": "正好；恰好",
+  "seq": 921
+ },
+ {
+  "word": "ちょっと",
+  "reading": "ちょっと",
+  "definition": "一点；稍微",
+  "seq": 922
+ },
+ {
+  "word": "使う",
+  "reading": "つかう",
+  "definition": "使用；用",
+  "seq": 923
+ },
+ {
+  "word": "疲れる",
+  "reading": "つかれる",
+  "definition": "累了；疲倦",
+  "seq": 924
+ },
+ {
+  "word": "着く",
+  "reading": "つく",
+  "definition": "到达；抵达",
+  "seq": 925
+ },
+ {
+  "word": "机",
+  "reading": "つくえ",
+  "definition": "桌子；书桌",
+  "seq": 926
+ },
+ {
+  "word": "勤める",
+  "reading": "つとめる",
+  "definition": "工作；上班",
+  "seq": 927
+ },
+ {
+  "word": "冷たい",
+  "reading": "つめたい",
+  "definition": "冷的；冷漠的",
+  "seq": 928
+ },
+ {
+  "word": "強い",
+  "reading": "つよい",
+  "definition": "强的；强大的",
+  "seq": 929
+ },
+ {
+  "word": "手",
+  "reading": "て",
+  "definition": "手；手",
+  "seq": 930
+ },
+ {
+  "word": "テープ",
+  "reading": "テープ",
+  "definition": "胶带；磁带",
+  "seq": 931
+ },
+ {
+  "word": "テーブル",
+  "reading": "テーブル",
+  "definition": "桌子；表格",
+  "seq": 932
+ },
+ {
+  "word": "テープレコーダー",
+  "reading": "",
+  "definition": "录音机",
+  "seq": 933
+ },
+ {
+  "word": "手紙",
+  "reading": "てがみ",
+  "definition": "信；信件",
+  "seq": 934
+ },
+ {
+  "word": "出口",
+  "reading": "でぐち",
+  "definition": "出口；出口",
+  "seq": 935
+ },
+ {
+  "word": "テスト",
+  "reading": "テスト",
+  "definition": "测试；考试",
+  "seq": 936
+ },
+ {
+  "word": "デパート",
+  "reading": "デパート",
+  "definition": "百货商店",
+  "seq": 937
+ },
+ {
+  "word": "出る",
+  "reading": "でる",
+  "definition": "出去；离开",
+  "seq": 938
+ },
+ {
+  "word": "テレビ",
+  "reading": "テレビ",
+  "definition": "电视",
+  "seq": 939
+ },
+ {
+  "word": "天気",
+  "reading": "てんき",
+  "definition": "天气；天气",
+  "seq": 940
+ },
+ {
+  "word": "電気",
+  "reading": "でんき",
+  "definition": "电；电灯",
+  "seq": 941
+ },
+ {
+  "word": "電車",
+  "reading": "でんしゃ",
+  "definition": "电车；火车",
+  "seq": 942
+ },
+ {
+  "word": "電話",
+  "reading": "でんわ",
+  "definition": "电话；通话",
+  "seq": 943
+ },
+ {
+  "word": "ドア",
+  "reading": "ドア",
+  "definition": "门",
+  "seq": 944
+ },
+ {
+  "word": "トイレ",
+  "reading": "トイレ",
+  "definition": "厕所；洗手间",
+  "seq": 945
+ },
+ {
+  "word": "どうして",
+  "reading": "どーして",
+  "definition": "为什么；怎么",
+  "seq": 946
+ },
+ {
+  "word": "どうぞ",
+  "reading": "どーぞ",
+  "definition": "请；务必",
+  "seq": 947
+ },
+ {
+  "word": "動物",
+  "reading": "どーぶつ",
+  "definition": "动物",
+  "seq": 948
+ },
+ {
+  "word": "どうも",
+  "reading": "どーも",
+  "definition": "总是；非常",
+  "seq": 949
+ },
+ {
+  "word": "遠い",
+  "reading": "とおい",
+  "definition": "远的；遥远的",
+  "seq": 950
+ },
+ {
+  "word": "十日",
+  "reading": "とおか",
+  "definition": "月的第十天；十天",
+  "seq": 951
+ },
+ {
+  "word": "時々",
+  "reading": "ときどき",
+  "definition": "有时，偶尔",
+  "seq": 952
+ },
+ {
+  "word": "時計",
+  "reading": "とけー",
+  "definition": "钟表，手表",
+  "seq": 953
+ },
+ {
+  "word": "どこ",
+  "reading": "どこ",
+  "definition": "哪里，什么地方",
+  "seq": 954
+ },
+ {
+  "word": "所",
+  "reading": "しょ",
+  "definition": "地方，场所",
+  "seq": 955
+ },
+ {
+  "word": "年",
+  "reading": "ねん",
+  "definition": "年份",
+  "seq": 956
+ },
+ {
+  "word": "図書館",
+  "reading": "としょかん",
+  "definition": "图书馆",
+  "seq": 957
+ },
+ {
+  "word": "とても",
+  "reading": "とても",
+  "definition": "很，非常；完全不",
+  "seq": 958
+ },
+ {
+  "word": "隣",
+  "reading": "となり",
+  "definition": "邻居；邻近的事物",
+  "seq": 959
+ },
+ {
+  "word": "どの",
+  "reading": "どの",
+  "definition": "哪一个，哪些",
+  "seq": 960
+ },
+ {
+  "word": "飛ぶ",
+  "reading": "とぶ",
+  "definition": "飞翔；跳跃",
+  "seq": 961
+ },
+ {
+  "word": "友達",
+  "reading": "ともだち",
+  "definition": "朋友",
+  "seq": 962
+ },
+ {
+  "word": "土曜日",
+  "reading": "どよーび",
+  "definition": "星期六",
+  "seq": 963
+ },
+ {
+  "word": "鳥",
+  "reading": "とり",
+  "definition": "鸟类；鸡",
+  "seq": 964
+ },
+ {
+  "word": "ナイフ",
+  "reading": "ナイフ",
+  "definition": "西式餐刀",
+  "seq": 965
+ },
+ {
+  "word": "長い",
+  "reading": "ながい",
+  "definition": "长的；时间长的",
+  "seq": 966
+ },
+ {
+  "word": "鳴く",
+  "reading": "なく",
+  "definition": "鸣叫，发出声音",
+  "seq": 967
+ },
+ {
+  "word": "無くす",
+  "reading": "なくす",
+  "definition": "丢失；丢弃",
+  "seq": 968
+ },
+ {
+  "word": "なぜ",
+  "reading": "なぜ",
+  "definition": "为什么，怎么",
+  "seq": 969
+ },
+ {
+  "word": "夏",
+  "reading": "なつ",
+  "definition": "夏天",
+  "seq": 970
+ },
+ {
+  "word": "夏休み",
+  "reading": "なつやすみ",
+  "definition": "暑假",
+  "seq": 971
+ },
+ {
+  "word": "など",
+  "reading": "など",
+  "definition": "等等，诸如此类",
+  "seq": 972
+ },
+ {
+  "word": "七つ",
+  "reading": "ななつ",
+  "definition": "七个东西",
+  "seq": 973
+ },
+ {
+  "word": "名前",
+  "reading": "なまえ",
+  "definition": "姓名，名字",
+  "seq": 974
+ },
+ {
+  "word": "習う",
+  "reading": "ならう",
+  "definition": "学习，学",
+  "seq": 975
+ },
+ {
+  "word": "並ぶ",
+  "reading": "ならぶ",
+  "definition": "排队；并列",
+  "seq": 976
+ },
+ {
+  "word": "並べる",
+  "reading": "ならべる",
+  "definition": "排列，摆放",
+  "seq": 977
+ },
+ {
+  "word": "なる",
+  "reading": "なる",
+  "definition": "成为，变成",
+  "seq": 978
+ },
+ {
+  "word": "二",
+  "reading": "に",
+  "definition": "二，第二",
+  "seq": 979
+ },
+ {
+  "word": "賑やか",
+  "reading": "にぎやか",
+  "definition": "热闹，繁华",
+  "seq": 980
+ },
+ {
+  "word": "肉",
+  "reading": "しし",
+  "definition": "肉，肉类",
+  "seq": 981
+ },
+ {
+  "word": "西",
+  "reading": "にし",
+  "definition": "西方，西部",
+  "seq": 982
+ },
+ {
+  "word": "日曜日",
+  "reading": "にちよーび",
+  "definition": "星期日",
+  "seq": 983
+ },
+ {
+  "word": "荷物",
+  "reading": "にもつ",
+  "definition": "行李，包裹",
+  "seq": 984
+ },
+ {
+  "word": "ニュース",
+  "reading": "ニュース",
+  "definition": "新闻",
+  "seq": 985
+ },
+ {
+  "word": "庭",
+  "reading": "にわ",
+  "definition": "庭院，院子",
+  "seq": 986
+ },
+ {
+  "word": "脱ぐ",
+  "reading": "ぬぐ",
+  "definition": "脱掉（衣服）",
+  "seq": 987
+ },
+ {
+  "word": "温い",
+  "reading": "ぬるい",
+  "definition": "温热的",
+  "seq": 988
+ },
+ {
+  "word": "ネクタイ",
+  "reading": "",
+  "definition": "领带",
+  "seq": 989
+ },
+ {
+  "word": "猫",
+  "reading": "ねこ",
+  "definition": "猫",
+  "seq": 990
+ },
+ {
+  "word": "寝る",
+  "reading": "ねる",
+  "definition": "睡觉，就寝",
+  "seq": 991
+ },
+ {
+  "word": "ノート",
+  "reading": "ノート",
+  "definition": "笔记本",
+  "seq": 992
+ },
+ {
+  "word": "飲み物",
+  "reading": "のみもの",
+  "definition": "饮料",
+  "seq": 993
+ },
+ {
+  "word": "乗る",
+  "reading": "のる",
+  "definition": "乘坐，搭上",
+  "seq": 994
+ },
+ {
+  "word": "歯",
+  "reading": "は",
+  "definition": "牙齿",
+  "seq": 995
+ },
+ {
+  "word": "パーティー",
+  "reading": "パーティー",
+  "definition": "聚会，派对",
+  "seq": 996
+ },
+ {
+  "word": "葉書",
+  "reading": "はがき",
+  "definition": "明信片",
+  "seq": 997
+ },
+ {
+  "word": "箱",
+  "reading": "はこ",
+  "definition": "盒子，箱子",
+  "seq": 998
+ },
+ {
+  "word": "橋",
+  "reading": "はし",
+  "definition": "桥梁",
+  "seq": 999
+ },
+ {
+  "word": "始まる",
+  "reading": "はじまる",
+  "definition": "开始，开始于",
+  "seq": 1000
+ },
+ {
+  "word": "初め",
+  "reading": "そめ",
+  "definition": "开始的未完成体和词干形式",
+  "seq": 1001
+ },
+ {
+  "word": "初めて",
+  "reading": "はじめて",
+  "definition": "第一次；终于，最终",
+  "seq": 1002
+ },
+ {
+  "word": "走る",
+  "reading": "はしる",
+  "definition": "跑；快速移动",
+  "seq": 1003
+ },
+ {
+  "word": "バス",
+  "reading": "バス",
+  "definition": "公共汽车",
+  "seq": 1004
+ },
+ {
+  "word": "バター",
+  "reading": "バター",
+  "definition": "黄油",
+  "seq": 1005
+ },
+ {
+  "word": "二十歳",
+  "reading": "はたち",
+  "definition": "二十岁",
+  "seq": 1006
+ },
+ {
+  "word": "働く",
+  "reading": "はたらく",
+  "definition": "工作；运转；起作用",
+  "seq": 1007
+ },
+ {
+  "word": "八",
+  "reading": "はち",
+  "definition": "八，8",
+  "seq": 1008
+ },
+ {
+  "word": "二十日",
+  "reading": "はつか",
+  "definition": "二十日；二十天",
+  "seq": 1009
+ },
+ {
+  "word": "花",
+  "reading": "はな",
+  "definition": "花；插花",
+  "seq": 1010
+ },
+ {
+  "word": "鼻",
+  "reading": "はな",
+  "definition": "鼻子；象鼻",
+  "seq": 1011
+ },
+ {
+  "word": "話",
+  "reading": "はなし",
+  "definition": "说话；故事，谈话",
+  "seq": 1012
+ },
+ {
+  "word": "話す",
+  "reading": "はなす",
+  "definition": "讲话；交谈；说语言",
+  "seq": 1013
+ },
+ {
+  "word": "早い",
+  "reading": "はやい",
+  "definition": "早的；敏捷的",
+  "seq": 1014
+ },
+ {
+  "word": "速い",
+  "reading": "はやい",
+  "definition": "快的，迅速的",
+  "seq": 1015
+ },
+ {
+  "word": "春",
+  "reading": "はる",
+  "definition": "春天；新年",
+  "seq": 1016
+ },
+ {
+  "word": "貼る",
+  "reading": "はる",
+  "definition": "贴，粘贴；张贴",
+  "seq": 1017
+ },
+ {
+  "word": "晴れ",
+  "reading": "はれ",
+  "definition": "晴天；正式场合",
+  "seq": 1018
+ },
+ {
+  "word": "晴れる",
+  "reading": "はれる",
+  "definition": "放晴；心情开朗",
+  "seq": 1019
+ },
+ {
+  "word": "半",
+  "reading": "はん",
+  "definition": "单数（骰子）",
+  "seq": 1020
+ },
+ {
+  "word": "晩",
+  "reading": "ばん",
+  "definition": "晚上；夜晚",
+  "seq": 1021
+ },
+ {
+  "word": "パン",
+  "reading": "パン",
+  "definition": "面包，烘焙食品",
+  "seq": 1022
+ },
+ {
+  "word": "ハンカチ",
+  "reading": "ハンカチ",
+  "definition": "手帕",
+  "seq": 1023
+ },
+ {
+  "word": "番号",
+  "reading": "ばんごー",
+  "definition": "编号，号码",
+  "seq": 1024
+ },
+ {
+  "word": "晩御飯",
+  "reading": "ばんごはん",
+  "definition": "晚饭，晚餐",
+  "seq": 1025
+ },
+ {
+  "word": "半分",
+  "reading": "はんぶん",
+  "definition": "一半",
+  "seq": 1026
+ },
+ {
+  "word": "引く",
+  "reading": "ひく",
+  "definition": "拉向自己；拖拽",
+  "seq": 1027
+ },
+ {
+  "word": "低い",
+  "reading": "ひくい",
+  "definition": "低的；矮的",
+  "seq": 1028
+ },
+ {
+  "word": "飛行機",
+  "reading": "ひこーき",
+  "definition": "飞机",
+  "seq": 1029
+ },
+ {
+  "word": "左",
+  "reading": "ひだり",
+  "definition": "左边；左派",
+  "seq": 1030
+ },
+ {
+  "word": "一つ",
+  "reading": "ひとつ",
+  "definition": "一个东西",
+  "seq": 1031
+ },
+ {
+  "word": "一月",
+  "reading": "いちがつ",
+  "definition": "一月；正月",
+  "seq": 1032
+ },
+ {
+  "word": "百",
+  "reading": "ひゃく",
+  "definition": "百；很多",
+  "seq": 1033
+ },
+ {
+  "word": "病院",
+  "reading": "びょーいん",
+  "definition": "医院",
+  "seq": 1034
+ },
+ {
+  "word": "病気",
+  "reading": "びょーき",
+  "definition": "疾病；生病",
+  "seq": 1035
+ },
+ {
+  "word": "昼",
+  "reading": "ひる",
+  "definition": "白天；中午",
+  "seq": 1036
+ },
+ {
+  "word": "フィルム",
+  "reading": "フィルム",
+  "definition": "电影胶片；薄膜",
+  "seq": 1037
+ },
+ {
+  "word": "封筒",
+  "reading": "ふうとー",
+  "definition": "信封",
+  "seq": 1038
+ },
+ {
+  "word": "プール",
+  "reading": "プール",
+  "definition": "游泳池；台球",
+  "seq": 1039
+ },
+ {
+  "word": "フォーク",
+  "reading": "フォーク",
+  "definition": "叉子；叉",
+  "seq": 1040
+ },
+ {
+  "word": "吹く",
+  "reading": "ふく",
+  "definition": "吹，刮风；喷出",
+  "seq": 1041
+ },
+ {
+  "word": "服",
+  "reading": "ふく",
+  "definition": "一口的量",
+  "seq": 1042
+ },
+ {
+  "word": "二つ",
+  "reading": "ふたつ",
+  "definition": "两个东西",
+  "seq": 1043
+ },
+ {
+  "word": "豚肉",
+  "reading": "ぶたにく",
+  "definition": "猪肉",
+  "seq": 1044
+ },
+ {
+  "word": "二日",
+  "reading": "ふつか",
+  "definition": "两天；第二天",
+  "seq": 1045
+ },
+ {
+  "word": "太い",
+  "reading": "ふとい",
+  "definition": "粗的，胖的",
+  "seq": 1046
+ },
+ {
+  "word": "冬",
+  "reading": "ふゆ",
+  "definition": "冬天",
+  "seq": 1047
+ },
+ {
+  "word": "降る",
+  "reading": "ふる",
+  "definition": "从天空落下；降落",
+  "seq": 1048
+ },
+ {
+  "word": "古い",
+  "reading": "ふるい",
+  "definition": "旧的；古老的",
+  "seq": 1049
+ },
+ {
+  "word": "ふろ",
+  "reading": "",
+  "definition": "浴室；澡堂；茶道用炉子",
+  "seq": 1050
+ },
+ {
+  "word": "文章",
+  "reading": "ぶんしょー",
+  "definition": "句子；文章",
+  "seq": 1051
+ },
+ {
+  "word": "ページ",
+  "reading": "ページ",
+  "definition": "页",
+  "seq": 1052
+ },
+ {
+  "word": "下手",
+  "reading": "へた",
+  "definition": "不熟练的；差的",
+  "seq": 1053
+ },
+ {
+  "word": "ベッド",
+  "reading": "ベッド",
+  "definition": "床",
+  "seq": 1054
+ },
+ {
+  "word": "ペット",
+  "reading": "ペット",
+  "definition": "宠物",
+  "seq": 1055
+ },
+ {
+  "word": "部屋",
+  "reading": "へや",
+  "definition": "房间",
+  "seq": 1056
+ },
+ {
+  "word": "辺",
+  "reading": "へん",
+  "definition": "地方；附近",
+  "seq": 1057
+ },
+ {
+  "word": "ペン",
+  "reading": "ペン",
+  "definition": "笔",
+  "seq": 1058
+ },
+ {
+  "word": "便利",
+  "reading": "べんり",
+  "definition": "方便的",
+  "seq": 1059
+ },
+ {
+  "word": "帽子",
+  "reading": "ぼーし",
+  "definition": "帽子",
+  "seq": 1060
+ },
+ {
+  "word": "ボールペン",
+  "reading": "ボールペン",
+  "definition": "圆珠笔",
+  "seq": 1061
+ },
+ {
+  "word": "ほか",
+  "reading": "",
+  "definition": "其他",
+  "seq": 1062
+ },
+ {
+  "word": "ポケット",
+  "reading": "ポケット",
+  "definition": "口袋",
+  "seq": 1063
+ },
+ {
+  "word": "ポスト",
+  "reading": "ポスト",
+  "definition": "邮筒；职位",
+  "seq": 1064
+ },
+ {
+  "word": "細い",
+  "reading": "ほそい",
+  "definition": "细的",
+  "seq": 1065
+ },
+ {
+  "word": "ボタン",
+  "reading": "ボタン",
+  "definition": "扣子；按钮",
+  "seq": 1066
+ },
+ {
+  "word": "ホテル",
+  "reading": "ホテル",
+  "definition": "酒店",
+  "seq": 1067
+ },
+ {
+  "word": "本",
+  "reading": "もと",
+  "definition": "草木",
+  "seq": 1068
+ },
+ {
+  "word": "本棚",
+  "reading": "ほんだな",
+  "definition": "书架",
+  "seq": 1069
+ },
+ {
+  "word": "毎朝",
+  "reading": "まいあさ",
+  "definition": "每天早晨",
+  "seq": 1070
+ },
+ {
+  "word": "毎月",
+  "reading": "まいつき",
+  "definition": "每月",
+  "seq": 1071
+ },
+ {
+  "word": "毎週",
+  "reading": "まいしゅう",
+  "definition": "每周",
+  "seq": 1072
+ },
+ {
+  "word": "毎日",
+  "reading": "まいにち",
+  "definition": "每天",
+  "seq": 1073
+ },
+ {
+  "word": "毎年",
+  "reading": "まいとし",
+  "definition": "每年",
+  "seq": 1074
+ },
+ {
+  "word": "毎晩",
+  "reading": "まいばん",
+  "definition": "每晚",
+  "seq": 1075
+ },
+ {
+  "word": "曲る",
+  "reading": "きょくる",
+  "definition": "戏弄；开玩笑",
+  "seq": 1076
+ },
+ {
+  "word": "まずい",
+  "reading": "まずい",
+  "definition": "不好吃的；笨拙的",
+  "seq": 1077
+ },
+ {
+  "word": "また",
+  "reading": "また",
+  "definition": "再次；也",
+  "seq": 1078
+ },
+ {
+  "word": "町",
+  "reading": "まち",
+  "definition": "城镇",
+  "seq": 1079
+ },
+ {
+  "word": "待つ",
+  "reading": "まつ",
+  "definition": "等待",
+  "seq": 1080
+ },
+ {
+  "word": "マッチ",
+  "reading": "マッチ",
+  "definition": "火柴",
+  "seq": 1081
+ },
+ {
+  "word": "窓",
+  "reading": "まど",
+  "definition": "窗户",
+  "seq": 1082
+ },
+ {
+  "word": "万年筆",
+  "reading": "まんねんふで",
+  "definition": "钢笔",
+  "seq": 1083
+ },
+ {
+  "word": "磨く",
+  "reading": "みがく",
+  "definition": "打磨；改善",
+  "seq": 1084
+ },
+ {
+  "word": "右",
+  "reading": "みぎ",
+  "definition": "右边",
+  "seq": 1085
+ },
+ {
+  "word": "短い",
+  "reading": "みじかい",
+  "definition": "短的",
+  "seq": 1086
+ },
+ {
+  "word": "水",
+  "reading": "みず",
+  "definition": "水",
+  "seq": 1087
+ },
+ {
+  "word": "見せる",
+  "reading": "みせる",
+  "definition": "展示；炫耀",
+  "seq": 1088
+ },
+ {
+  "word": "道",
+  "reading": "どー",
+  "definition": "道路",
+  "seq": 1089
+ },
+ {
+  "word": "三日",
+  "reading": "みっか",
+  "definition": "三天；三日",
+  "seq": 1090
+ },
+ {
+  "word": "三つ",
+  "reading": "みっつ",
+  "definition": "三个",
+  "seq": 1091
+ },
+ {
+  "word": "緑",
+  "reading": "みどり",
+  "definition": "绿色",
+  "seq": 1092
+ },
+ {
+  "word": "皆さん",
+  "reading": "みなさん",
+  "definition": "大家",
+  "seq": 1093
+ },
+ {
+  "word": "耳",
+  "reading": "みみ",
+  "definition": "耳朵",
+  "seq": 1094
+ },
+ {
+  "word": "みんな",
+  "reading": "みんな",
+  "definition": "大家；所有",
+  "seq": 1095
+ },
+ {
+  "word": "六日",
+  "reading": "むいか",
+  "definition": "六天；六日",
+  "seq": 1096
+ },
+ {
+  "word": "向こう",
+  "reading": "むこー",
+  "definition": "对面；将来",
+  "seq": 1097
+ },
+ {
+  "word": "難しい",
+  "reading": "むずかしい",
+  "definition": "困难的",
+  "seq": 1098
+ },
+ {
+  "word": "六つ",
+  "reading": "むっつ",
+  "definition": "六个",
+  "seq": 1099
+ },
+ {
+  "word": "村",
+  "reading": "むら",
+  "definition": "村庄",
+  "seq": 1100
+ },
+ {
+  "word": "目",
+  "reading": "め",
+  "definition": "眼睛；明显特征",
+  "seq": 1101
+ },
+ {
+  "word": "メートル",
+  "reading": "メートル",
+  "definition": "米（长度单位）",
+  "seq": 1102
+ },
+ {
+  "word": "もう",
+  "reading": "もー",
+  "definition": "已经；已完成",
+  "seq": 1103
+ },
+ {
+  "word": "もう一度",
+  "reading": "もーいちど",
+  "definition": "再一次；又一次",
+  "seq": 1104
+ },
+ {
+  "word": "木曜日",
+  "reading": "もくよーび",
+  "definition": "星期四",
+  "seq": 1105
+ },
+ {
+  "word": "持つ",
+  "reading": "もつ",
+  "definition": "持有；拥有",
+  "seq": 1106
+ },
+ {
+  "word": "もっと",
+  "reading": "もっと",
+  "definition": "更多；更加",
+  "seq": 1107
+ },
+ {
+  "word": "物",
+  "reading": "もの",
+  "definition": "事物；东西",
+  "seq": 1108
+ },
+ {
+  "word": "問題",
+  "reading": "もんだい",
+  "definition": "问题；疑问",
+  "seq": 1109
+ },
+ {
+  "word": "八百屋",
+  "reading": "やおや",
+  "definition": "蔬菜店；杂货店",
+  "seq": 1110
+ },
+ {
+  "word": "野菜",
+  "reading": "やさい",
+  "definition": "蔬菜；青菜",
+  "seq": 1111
+ },
+ {
+  "word": "易しい",
+  "reading": "やさしい",
+  "definition": "容易；简单",
+  "seq": 1112
+ },
+ {
+  "word": "安い",
+  "reading": "やすい",
+  "definition": "便宜；低价",
+  "seq": 1113
+ },
+ {
+  "word": "休み",
+  "reading": "やすみ",
+  "definition": "休息；假日",
+  "seq": 1114
+ },
+ {
+  "word": "八つ",
+  "reading": "やっつ",
+  "definition": "八个",
+  "seq": 1115
+ },
+ {
+  "word": "山",
+  "reading": "やま",
+  "definition": "山；矿山",
+  "seq": 1116
+ },
+ {
+  "word": "やる",
+  "reading": "やる",
+  "definition": "做；表演",
+  "seq": 1117
+ },
+ {
+  "word": "夕方",
+  "reading": "ゆうがた",
+  "definition": "傍晚；黄昏",
+  "seq": 1118
+ },
+ {
+  "word": "夕飯",
+  "reading": "ゆうはん",
+  "definition": "晚饭；晚餐",
+  "seq": 1119
+ },
+ {
+  "word": "郵便局",
+  "reading": "ゆうびんきょく",
+  "definition": "邮局",
+  "seq": 1120
+ },
+ {
+  "word": "昨夜",
+  "reading": "さくや",
+  "definition": "昨夜；昨晚",
+  "seq": 1121
+ },
+ {
+  "word": "有名",
+  "reading": "ゆうめー",
+  "definition": "著名；出名",
+  "seq": 1122
+ },
+ {
+  "word": "雪",
+  "reading": "ゆき",
+  "definition": "雪；雪花",
+  "seq": 1123
+ },
+ {
+  "word": "ゆっくり",
+  "reading": "ゆっくり",
+  "definition": "缓慢；悠闲",
+  "seq": 1124
+ },
+ {
+  "word": "八日",
+  "reading": "よーか",
+  "definition": "八号；八天",
+  "seq": 1125
+ },
+ {
+  "word": "洋服",
+  "reading": "よーふく",
+  "definition": "西装；洋装",
+  "seq": 1126
+ },
+ {
+  "word": "よく",
+  "reading": "よく",
+  "definition": "好；良好",
+  "seq": 1127
+ },
+ {
+  "word": "横",
+  "reading": "よこ",
+  "definition": "旁边；横向",
+  "seq": 1128
+ },
+ {
+  "word": "四日",
+  "reading": "よっか",
+  "definition": "四号；四天",
+  "seq": 1129
+ },
+ {
+  "word": "四つ",
+  "reading": "よっつ",
+  "definition": "四个",
+  "seq": 1130
+ },
+ {
+  "word": "呼ぶ",
+  "reading": "よぶ",
+  "definition": "叫；呼唤",
+  "seq": 1131
+ },
+ {
+  "word": "読む",
+  "reading": "よむ",
+  "definition": "读；阅读",
+  "seq": 1132
+ },
+ {
+  "word": "弱い",
+  "reading": "よわい",
+  "definition": "弱；脆弱",
+  "seq": 1133
+ },
+ {
+  "word": "来月",
+  "reading": "らいげつ",
+  "definition": "下个月",
+  "seq": 1134
+ },
+ {
+  "word": "来週",
+  "reading": "らいしゅう",
+  "definition": "下周",
+  "seq": 1135
+ },
+ {
+  "word": "来年",
+  "reading": "らいねん",
+  "definition": "明年",
+  "seq": 1136
+ },
+ {
+  "word": "ラジオ",
+  "reading": "ラジオ",
+  "definition": "收音机；穷光蛋",
+  "seq": 1137
+ },
+ {
+  "word": "ラジカセ",
+  "reading": "",
+  "definition": "收录机",
+  "seq": 1138
+ },
+ {
+  "word": "ラジオカセット",
+  "reading": "",
+  "definition": "收录机；录音机",
+  "seq": 1139
+ },
+ {
+  "word": "留学生",
+  "reading": "りゅうがくせー",
+  "definition": "留学生；交换生",
+  "seq": 1140
+ },
+ {
+  "word": "両親",
+  "reading": "りょーしん",
+  "definition": "父母双方",
+  "seq": 1141
+ },
+ {
+  "word": "料理",
+  "reading": "りょーり",
+  "definition": "做菜；料理",
+  "seq": 1142
+ },
+ {
+  "word": "旅行",
+  "reading": "りょこー",
+  "definition": "旅行；旅游",
+  "seq": 1143
+ },
+ {
+  "word": "零",
+  "reading": "れー",
+  "definition": "零",
+  "seq": 1144
+ },
+ {
+  "word": "冷蔵庫",
+  "reading": "れーぞーこ",
+  "definition": "冰箱；冷藏库",
+  "seq": 1145
+ },
+ {
+  "word": "レコード",
+  "reading": "レコード",
+  "definition": "唱片；记录",
+  "seq": 1146
+ },
+ {
+  "word": "レストラン",
+  "reading": "レストラン",
+  "definition": "餐厅；餐馆",
+  "seq": 1147
+ },
+ {
+  "word": "廊下",
+  "reading": "ろーか",
+  "definition": "走廊；过道",
+  "seq": 1148
+ },
+ {
+  "word": "ワイシャツ",
+  "reading": "ワイシャツ",
+  "definition": "衬衫；正装衬衫",
+  "seq": 1149
+ },
+ {
+  "word": "若い",
+  "reading": "わかい",
+  "definition": "年轻；青春",
+  "seq": 1150
+ },
+ {
+  "word": "忘れる",
+  "reading": "わすれる",
+  "definition": "忘れる — 忘记；忘记做某事",
+  "seq": 1151
+ },
+ {
+  "word": "渡す",
+  "reading": "わたす",
+  "definition": "渡す — 递给；摆渡过河",
+  "seq": 1152
+ },
+ {
+  "word": "渡る",
+  "reading": "わたる",
+  "definition": "渡る — 穿过；横过；通过",
+  "seq": 1153
+ },
+ {
+  "word": "ほう",
+  "reading": "ほー",
+  "definition": "ほう — 表示兴奋、惊讶、惊叹或愉悦的感叹词",
+  "seq": 1154
+ }
+]
