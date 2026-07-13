@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bill Gu Project Portfolio</title>
+    <meta
+      name="description"
+      content="A bilingual portfolio archive for Bill Gu / Gu Zhuzhenglin, covering embedded control, AIoT accessibility, FPGA design, and web learning products."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#">Bill Gu Projects</a>
+      <nav aria-label="Primary navigation">
+        <a href="#projects">Projects</a>
+        <a href="#archive">Archive</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">顾朱政霖 / Bill Gu / Erik Gu</p>
+          <h1>Hardware, AIoT, FPGA, and language-learning products.</h1>
+          <p class="lead">
+            一个整理过的项目合集：既保留真实工程文件，也用中英双语介绍每个项目的目标、技术栈和完成度。
+            This repository presents real project files with concise bilingual summaries for public review.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#projects">View Projects</a>
+            <a class="button secondary" href="https://github.com/Yeyu-Tanxue/BILLGU_PROJECT">GitHub Repository</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Project focus areas">
+          <div>
+            <strong>4</strong>
+            <span>public project groups</span>
+          </div>
+          <div>
+            <strong>STM32</strong>
+            <span>motor control and PCB practice</span>
+          </div>
+          <div>
+            <strong>AIoT</strong>
+            <span>ESP32-S3-CAM accessibility terminal</span>
+          </div>
+          <div>
+            <strong>FPGA</strong>
+            <span>Vivado stopwatch with Verilog</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="projects">
+        <div class="section-heading">
+          <p class="eyebrow">Projects / 项目</p>
+          <h2>Selected work with source-backed context</h2>
+        </div>
+
+        <div class="project-grid">
+          <article class="project-card motor">
+            <div class="card-top">
+              <span class="tag">Embedded Control</span>
+              <span class="year">2026</span>
+            </div>
+            <h3>无刷直流电机闭环控制</h3>
+            <p>
+              STM32-based BLDC motor control project with PCB, schematic, experiment report, and Keil firmware modules.
+              重点展示编码器反馈、PID/FOC 控制、ADC、OLED 显示和硬件调试。
+            </p>
+            <ul>
+              <li>STM32F10x firmware, Keil project, C drivers</li>
+              <li>PCB and schematic PDFs included</li>
+              <li>Closed-loop motor-control experiment archive</li>
+            </ul>
+            <a href="projects/bldc-motor-control/">Open project files</a>
+          </article>
+
+          <article class="project-card aiot featured">
+            <img src="assets/images/aiot-front.jpg" alt="AIoT hearing terminal front view" />
+            <div class="card-top">
+              <span class="tag">AIoT Accessibility</span>
+              <span class="year">2026</span>
+            </div>
+            <h3>听障双向沟通终端</h3>
+            <p>
+              基于 ESP32-S3-CAM + PC/cloud pipeline 的视觉康复交互终端。手语经 MediaPipe + LSTM 识别后由大模型润色，
+              语音链路支持 ASR 字幕和 TTS 播放。
+            </p>
+            <ul>
+              <li>Sign-language recognition measured at 97-99%</li>
+              <li>ESP32 firmware, Python tools, cloud APIs</li>
+              <li>Photos and core code are curated for review</li>
+            </ul>
+            <a href="projects/aiot-hearing-terminal/">Open project files</a>
+          </article>
+
+          <article class="project-card fpga">
+            <div class="card-top">
+              <span class="tag">Digital Logic</span>
+              <span class="year">2026</span>
+            </div>
+            <h3>FPGA 多功能数字秒表</h3>
+            <p>
+              Vivado / Verilog stopwatch project for EGo1 FPGA board. It implements clock division, key debounce,
+              up/down timing, pause/resume, lap review, LED status, and seven-segment display scanning.
+            </p>
+            <ul>
+              <li>100MHz clock divider and 1ms display scan</li>
+              <li>Run, stop, countdown, lap memory states</li>
+              <li>Verilog source and XDC constraints included</li>
+            </ul>
+            <a href="projects/fpga-stopwatch/">Open project files</a>
+          </article>
+
+          <article class="project-card web">
+            <div class="card-top">
+              <span class="tag">Web Product</span>
+              <span class="year">2026</span>
+            </div>
+            <h3>GOODALPHABET / Gu的辞書</h3>
+            <p>
+              A Japanese and vocabulary-learning web product with a Next.js + shadcn/ui frontend and FastAPI backend.
+              This archive points to the original project under Yeyu-Tanxue; erikpsw is a fork.
+            </p>
+            <ul>
+              <li>Next.js App Router, Auth0, Stripe, Vercel</li>
+              <li>FastAPI routes, wordbook data, learning flows</li>
+              <li>Original repository: Yeyu-Tanxue/GOODALPHABET</li>
+            </ul>
+            <a href="projects/goodalphabet/">Open project files</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section split" id="archive">
+        <div>
+          <p class="eyebrow">Archive Policy / 归档策略</p>
+          <h2>Public, reviewable, and cleaned.</h2>
+        </div>
+        <div class="archive-notes">
+          <p>
+            原始压缩包没有直接上传。仓库只保留精选源码、说明文档、图片、约束文件和报告，避免公开密钥、缓存目录、
+            Vivado/IDE 临时文件和大体积无关构建产物。
+          </p>
+          <p>
+            The repository is meant to be readable by teachers, collaborators, and recruiters: real files first,
+            concise summaries second, and no private runtime credentials.
+          </p>
+        </div>
+      </section>
+
+      <section class="section contact" id="contact">
+        <p class="eyebrow">Contact</p>
+        <h2>GitHub: Yeyu-Tanxue</h2>
+        <div class="contact-links">
+          <a href="https://github.com/Yeyu-Tanxue/BILLGU_PROJECT">BILLGU_PROJECT</a>
+          <a href="https://github.com/Yeyu-Tanxue/GOODALPHABET">GOODALPHABET</a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

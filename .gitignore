@@ -1,0 +1,36 @@
+.env
+.env.*
+!.env.example
+*.zip
+*.7z
+*.rar
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+
+# IDE and generated caches
+.idea/
+.vscode/
+.vs/
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.wdf
+*.dcp
+*.bit
+*.ltx
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+
+# Python and frontend caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.next/
+out/
+tsconfig.tsbuildinfo
